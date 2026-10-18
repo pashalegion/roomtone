@@ -44,8 +44,9 @@ html[data-theme="dark"] .studio-sidebar{border-color:#33372e}
 html[data-theme="dark"] .current-path{background:#191c17;border-color:#353a30;color:#aeb4a5}
 html[data-theme="dark"] .current-path.active,html[data-theme="dark"] .skill-filter.active{background:#292f21;border-color:#697b48;color:#f0f2e9}
 html[data-theme="dark"] .skill-filter{color:#a2a899}
-html[data-theme="dark"] .lesson-row{border-color:#30342b}
-html[data-theme="dark"] .lesson-row:hover{background:#1b1e18}
+html[data-theme="dark"] .lesson-row{background:#151812;border-color:#30342b;transition:background .18s ease,border-color .18s ease,box-shadow .18s ease}
+html[data-theme="dark"] .lesson-row:hover,html[data-theme="dark"] .lesson-row:focus-visible{background:#252c1e;border-color:#596b3d;box-shadow:inset 3px 0 #92ad57}
+html[data-theme="dark"] .lesson-row:focus-visible{outline:2px solid #92ad57;outline-offset:2px}
 html[data-theme="dark"] .lesson-toolbar{border-color:#33372e}
 html[data-theme="dark"] .sort-control select{color:#d9ddd1}
 html[data-theme="dark"] .sort-control select,html[data-theme="dark"] .sort-control select option{background:#171a15}
