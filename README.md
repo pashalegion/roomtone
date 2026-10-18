@@ -2,7 +2,7 @@
 
 A small, static music-production academy. Learners can follow shared production concepts or select an application for DAW-specific steps, original workflow diagrams, and exercises.
 
-The subject explorer also builds multi-topic paths across instruments, vocals, songwriting, music theory, ear training, recording, synthesis, sampling, DJing, mixing, mastering, performance, music history, music technology, and music business. Every subject includes a four-lesson beginner sequence. Learners can reorder or remove their selected subjects. DAW selection is optional; choosing only a subject does not add DAW setup or unrelated production lessons.
+The subject explorer also builds multi-topic paths across instruments, vocals, songwriting, music theory, ear training, recording, synthesis, sampling, DJing, mixing, mastering, performance, music history, music technology, and music business. Every subject includes at least ten lessons, with practice exercises; the researched extension lessons include subject-specific references. Learners can reorder or remove their selected subjects. DAW selection is optional; choosing only a subject does not add DAW setup or unrelated production lessons.
 
 ## Learning paths
 
@@ -35,6 +35,6 @@ This is a root-relative-free static site, so it works both at a custom domain ro
 
 ## Curriculum editing
 
-DAW metadata and shared production lessons live in `curriculum.js`; the first non-DAW lessons live in `curriculum-extra.js`, with expanded subject courses in `curriculum-depth.js`; video companions and instructor notes live in `lesson-media.js` and `lesson-media-depth.js`; rendering, interactions, and subject-relevance mapping live in `app.js`; styling is in `styles.css`. Subject paths show the selected subjects and only shared concepts explicitly tagged as relevant. A guitar path, for example, does not require MIDI drum-hat programming. Each lesson has objectives, explanation, exercise, and mistake notes, with an optional per-DAW `steps` list. Keep status claims tied to official vendor pages, and clearly label edition-specific requirements when adding lessons.
+DAW metadata and shared production lessons live in `curriculum.js`; the first non-DAW lessons live in `curriculum-extra.js`, with expanded subject courses in `curriculum-depth.js` and researched extensions in `curriculum-research.js`; video companions and instructor notes live in the `lesson-media*.js` files; rendering, interactions, and subject-relevance mapping live in `app.js`; styling is in `styles.css`. Subject paths show the selected subjects and only shared concepts explicitly tagged as relevant. A guitar path, for example, does not require MIDI drum-hat programming. Lessons have objectives, explanation, exercise, and mistake notes; researched extensions include source links. Keep status claims tied to official vendor pages, and clearly label edition-specific requirements when adding lessons.
 
 Progress and selected subject order use versioned localStorage records. Clearing browser data clears this information. There is no account, analytics, advertising script, affiliate integration, or monetization provider configured.
