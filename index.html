@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#10110f" />
+    <meta name="description" content="A practical, free music production academy with DAW-specific learning paths for Ableton Live, FL Studio, LMMS, and Waveform Free." />
+    <title>Roomtone — Music Production Academy</title>
+    <script>try{const saved=localStorage.getItem("roomtone.theme.v1");document.documentElement.dataset.theme=saved==="dark"||saved==="light"?saved:(window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");}catch(e){document.documentElement.dataset.theme=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light";}</script>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="site-shell">
+      <header class="topbar">
+        <a class="brand" href="#top" aria-label="Roomtone home"><span class="brand-mark"><i></i><i></i><i></i><i></i></span><span>roomtone<span class="brand-dot">.</span></span></a>
+        <nav class="top-nav" aria-label="Main navigation">
+          <a href="#explore">Explore subjects</a><a href="#paths">DAW paths</a><a href="#library">Lesson library</a><a href="#practice">Practice tools</a>
+        </nav>
+        <button class="text-button progress-button" id="progress-open" type="button"><span class="status-dot"></span><span id="progress-label">0 lessons done</span></button>
+        <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Switch to dark mode" aria-pressed="false" title="Toggle dark mode"><span aria-hidden="true">☾</span></button>
+        <button class="mobile-menu" id="mobile-menu" aria-label="Open navigation" aria-expanded="false">☰</button>
+      </header>
+
+      <main id="top">
+        <section class="hero wrap">
+          <div class="hero-copy">
+            <div class="eyebrow"><span class="eyebrow-line"></span> THE OPEN MUSIC CLASSROOM <span class="eyebrow-index">VOL. 01 / 2026</span></div>
+            <h1>Make the music<br />you <span class="serif-word">hear.</span></h1>
+            <p class="hero-deck">A practical, no-cost path from first beat to finished track. Learn the ideas that travel between studios, then follow the steps in the DAW you actually use.</p>
+            <div class="hero-actions"><a class="button button-primary" href="#paths">Choose your learning path <span>↗</span></a><a class="button button-quiet" href="#library">Browse all lessons</a></div>
+            <div class="hero-footnote"><span class="mini-wave">▂▅▃▇▂▆</span> No account. No paywall. Just make something.</div>
+          </div>
+          <div class="hero-art" aria-label="Abstract illustration of a music arrangement in a digital audio workstation">
+            <div class="art-label art-label-top">SESSION 014 <span>•</span> IDEA → ARRANGEMENT</div>
+            <div class="arrangement-window">
+              <div class="arrangement-ruler"><span>1</span><span>5</span><span>9</span><span>13</span><span>17</span><span>21</span><span>25</span></div>
+              <div class="arrangement-row"><b>DRUMS</b><div class="clip clip-coral"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div></div>
+              <div class="arrangement-row"><b>BASS</b><div class="clip clip-lime"><span></span><span></span><span></span><span></span></div></div>
+              <div class="arrangement-row"><b>CHORDS</b><div class="clip clip-blue"><span></span><span></span><span></span></div></div>
+              <div class="arrangement-row"><b>LEAD</b><div class="clip clip-lilac"><span></span><span></span><span></span><span></span></div></div>
+              <div class="arrangement-row"><b>VOX / FX</b><div class="clip clip-orange"><span></span><span></span></div></div>
+              <div class="playhead"></div>
+            </div>
+            <div class="art-note"><span class="note-bubble">♫</span><span><strong>One idea.</strong><br />Four ways to build it.</span><span class="note-arrow">↗</span></div>
+            <div class="art-label art-label-bottom">BPM 112 <span>4/4</span> KEY: A MINOR</div>
+            <div class="hero-stamp">LEARN<br />BY<br />MAKING<span>✳</span></div>
+          </div>
+          <div class="hero-bottom-line"><span>START WHERE YOU ARE</span><span>THE TOOLS ARE YOURS TO CHOOSE <b>↓</b></span><span>01 — 04</span></div>
+        </section>
+
+        <section class="explore-section section-pad" id="explore">
+          <div class="wrap">
+            <div class="section-heading explore-heading">
+              <div><div class="eyebrow"><span class="eyebrow-line"></span> BUILD A MUSIC PATH THAT FITS YOU</div><h2>Pick what you want<br />to <span class="serif-word">learn.</span></h2></div>
+              <p>Music is bigger than the software. Choose instruments, voice, writing, production, or music knowledge in any combination. Your picks become an editable learning path.</p>
+            </div>
+            <div class="explore-controls">
+              <div class="discipline-filters" id="discipline-filters" role="group" aria-label="Filter subjects by area"></div>
+              <label class="discipline-search"><span>⌕</span><input id="discipline-search" type="search" placeholder="Search subjects" aria-label="Search music subjects" /></label>
+            </div>
+            <div class="discipline-grid" id="discipline-grid"></div>
+            <div class="focus-path">
+              <div class="focus-path-heading"><div><span class="eyebrow-line"></span> MY LEARNING FOCUS <span class="focus-count" id="focus-count">0 SUBJECTS</span></div><button class="text-button" id="clear-focus" type="button">Clear all</button></div>
+              <div class="focus-items" id="focus-items"></div>
+              <div class="focus-path-bottom"><span id="focus-message">Choose one or more subjects to build your path. Shared foundation lessons are always available.</span><a href="#library" class="button button-primary" id="focus-start">View my lessons <span>↓</span></a></div>
+            </div>
+          </div>
+        </section>
+
+        <section class="path-section section-pad" id="paths">
+          <div class="wrap">
+            <div class="section-heading">
+              <div><div class="eyebrow"><span class="eyebrow-line"></span> YOUR STUDIO, YOUR ROUTE</div><h2>Choose your <span class="serif-word">setup.</span></h2></div>
+              <p>Pick a DAW for hands-on steps, switch between paths at any time, or study the production concept without installing anything.</p>
+            </div>
+            <div class="path-toolbar">
+              <div class="segmented" role="group" aria-label="Filter software by cost"><button class="segment active" data-filter="all">All software <span>04</span></button><button class="segment" data-filter="free">Free to use <span>02</span></button><button class="segment" data-filter="paid">Paid license <span>02</span></button></div>
+              <label class="path-search"><span>⌕</span><input id="daw-search" type="search" placeholder="Find your DAW" aria-label="Find a DAW" /></label>
+            </div>
+            <div class="daw-grid" id="daw-grid"></div>
+            <div class="free-note"><span class="free-note-icon">✳</span><div><strong>The entire classroom is free.</strong><span>Some DAW steps require that software. We always point to a free path for the same skill. Prices and license terms can change; check the linked official pages before downloading or purchasing.</span></div><a href="#software-notes">How we chose ↗</a></div>
+            <div id="path-status" class="path-status" aria-live="polite"></div>
+          </div>
+        </section>
+
+        <section class="studio-section section-pad" id="library">
+          <div class="wrap">
+            <div class="studio-topline"><div><div class="eyebrow"><span class="eyebrow-line"></span> YOUR CURRENT ROUTE</div><h2 id="route-title">Start with the shared <span class="serif-word">essentials.</span></h2></div><button class="text-button link-button" id="clear-filter">View all lessons <span>↗</span></button></div>
+            <div class="studio-layout">
+              <aside class="studio-sidebar">
+                <div class="sidebar-label">LEARNING PATH <span>01—04</span></div><div class="path-current" id="path-current"></div>
+                <div class="sidebar-label sidebar-spaced">FILTER BY SKILL</div><div class="skill-filters" id="skill-filters"></div>
+                <div class="sidebar-quote"><span>“</span><p>Finish the rough version. Clarity comes from hearing it play.</p><small>THE ROOMTONE RULE</small></div>
+              </aside>
+              <div class="lesson-area"><div class="lesson-toolbar"><div><span class="results-count" id="results-count">06 LESSONS</span><span class="result-caption"> • shared foundation</span></div><div class="sort-control">ORDER <select id="lesson-sort" aria-label="Order lessons"><option value="recommended">Recommended</option><option value="beginner">Beginner first</option><option value="shortest">Shortest first</option></select></div></div><div class="lesson-list" id="lesson-list"></div><div class="no-results hidden" id="no-results">No lessons match those filters. <button id="reset-filters">Reset filters</button></div></div>
+            </div>
+          </div>
+        </section>
+
+        <section class="concept-section section-pad" id="concepts"><div class="wrap concept-wrap"><div class="concept-intro"><div class="eyebrow"><span class="eyebrow-line"></span> THE IDEA OUTLASTS THE INTERFACE</div><h2>Learn the <span class="serif-word">why.</span><br />Then learn the where.</h2><p>The same production choices show up in every studio. These shared lessons teach the listening and decision-making underneath the clicks.</p><a href="#library" class="text-link">Explore shared concepts <span>↗</span></a></div><div class="concept-cards"><article class="concept-card"><span class="concept-number">01 / TIME</span><div class="concept-graphic rhythm-graphic"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><b>1</b><b>2</b><b>3</b><b>4</b></div><h3>Groove is a relationship.</h3><p>Hear the push and pull between kick, snare, and subdivision before you reach for quantize.</p><span class="concept-tag">RHYTHM · 8 MIN</span></article><article class="concept-card"><span class="concept-number">02 / SPACE</span><div class="concept-graphic depth-graphic"><span>DIRECT</span><span>EARLY</span><span>TAIL</span><i></i><i></i><i></i></div><h3>Depth has a front and back.</h3><p>Use level, tone, and time-based effects to give each part a place without crowding the mix.</p><span class="concept-tag">MIXING · 12 MIN</span></article><article class="concept-card"><span class="concept-number">03 / FORM</span><div class="concept-graphic form-graphic"><i>INTRO</i><i>VERSE</i><i>HOOK</i><i>VERSE</i><i>HOOK</i><i>OUTRO</i></div><h3>Arrangement creates meaning.</h3><p>Make sections feel different with entrances, exits, contrast, and a clear reason to repeat.</p><span class="concept-tag">ARRANGEMENT · 10 MIN</span></article></div></div></section>
+
+        <section class="practice-section section-pad" id="practice"><div class="wrap"><div class="practice-header"><div><div class="eyebrow"><span class="eyebrow-line"></span> A SMALL DAILY PRACTICE</div><h2>Make progress <span class="serif-word">audible.</span></h2></div><p>Short exercises with a finish line. Save your result locally and come back when you’re ready.</p></div><div class="practice-grid"><article class="practice-card metronome-card"><div class="practice-card-top"><span>TOOL 01</span><span class="tool-tag">INTERACTIVE</span></div><h3>Find the pulse</h3><p>Tap a steady beat. Find the tempo, then build a two-bar pattern around it.</p><div class="tempo-display"><strong id="tempo-value">—</strong><span>BPM</span></div><div class="tempo-actions"><button class="button button-small" id="tap-tempo">Tap the beat</button><button class="icon-button" id="reset-tempo" aria-label="Reset tap tempo">↺</button></div><div class="practice-instruction" id="tempo-feedback">Tap at least 3 times to calculate.</div></article><article class="practice-card exercise-card"><div class="practice-card-top"><span>EXERCISE 02</span><span class="tool-tag">NO DAW NEEDED</span></div><h3>Build an 8-bar arc</h3><p>Use the pattern below to sketch a section with a clear beginning, lift, and landing.</p><div class="bar-sequence"><div><b>1–2</b><span>Introduce</span></div><div><b>3–4</b><span>Establish</span></div><div><b>5–6</b><span>Change one thing</span></div><div><b>7–8</b><span>Resolve or turn</span></div></div><button class="check-button" id="arc-done"><span>○</span> Mark this exercise complete</button></article><article class="practice-card export-card"><div class="practice-card-top"><span>PROJECT 03</span><span class="tool-tag">YOUR FIRST BOUNCE</span></div><div class="export-illustration"><div class="export-disc"></div><div class="export-bars"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div><span>WAV / 24 BIT</span></div><h3>Finish a minute of music</h3><p>One loop, one variation, one export. A finished minute teaches more than a perfect idea.</p><button class="text-link" id="start-export">Open the export lesson <span>↗</span></button></article></div></div></section>
+
+        <section class="software-section section-pad" id="software-notes"><div class="wrap"><div class="software-heading"><div><div class="eyebrow"><span class="eyebrow-line"></span> SOFTWARE, WITHOUT THE SALES PITCH</div><h2>Know what you’re <span class="serif-word">installing.</span></h2></div><p>We distinguish free software from a trial, a limited free edition, and a paid license. You can complete every core concept without buying a DAW.</p></div><div class="software-table-wrap"><table class="software-table"><thead><tr><th>APPLICATION</th><th>LICENSE STATUS</th><th>PLATFORMS</th><th>BEST FIT / TRADE-OFF</th><th>OFFICIAL INFO</th></tr></thead><tbody id="software-table"></tbody></table></div><div class="sources-note">Capabilities and access checked against official developer pages on 18 October 2026. Edition limits, minimum system requirements, and download terms may change. <a href="https://www.audacityteam.org/" target="_blank" rel="noreferrer">Audacity</a> can help edit audio but is not presented here as a full DAW.</div></div></section>
+
+        <section class="end-cta"><div class="wrap end-cta-inner"><div><div class="eyebrow"><span class="eyebrow-line"></span> THE NEXT SESSION IS YOURS</div><h2>Make the first <span class="serif-word">version.</span></h2></div><a class="button button-primary" href="#paths">Choose a path <span>↗</span></a></div></section>
+      </main>
+      <footer class="footer"><div class="wrap footer-inner"><a class="brand" href="#top"><span class="brand-mark"><i></i><i></i><i></i><i></i></span><span>roomtone<span class="brand-dot">.</span></span></a><span>AN OPEN CLASSROOM FOR THE MUSIC YOU WANT TO MAKE.</span><span>© 2026 ROOMTONE / KEEP MAKING THINGS.</span></div></footer>
+    </div>
+    <dialog id="lesson-dialog" class="lesson-dialog"><div class="dialog-head"><span id="dialog-kicker">SHARED FOUNDATION · 12 MIN</span><button class="icon-button" id="dialog-close" aria-label="Close lesson">×</button></div><div class="dialog-content" id="dialog-content"></div></dialog>
+    <script src="curriculum.js"></script>
+    <script src="curriculum-extra.js"></script>
+    <script src="lesson-media.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
