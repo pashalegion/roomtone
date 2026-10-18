@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="theme-color" content="#10110f" />
-    <meta name="description" content="A practical, free music production academy with DAW-specific learning paths for Ableton Live, FL Studio, LMMS, and Waveform Free." />
+    <meta name="description" content="A practical music academy with DAW-specific learning paths for Ableton Live, FL Studio, LMMS, Waveform Free, and REAPER." />
     <title>Roomtone — Music Production Academy</title>
     <script>try{const saved=localStorage.getItem("roomtone.theme.v1");document.documentElement.dataset.theme=saved==="dark"||saved==="light"?saved:(window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");}catch(e){document.documentElement.dataset.theme=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light";}</script>
     <link rel="stylesheet" href="styles.css" />
@@ -45,7 +45,7 @@
             <div class="art-label art-label-bottom">BPM 112 <span>4/4</span> KEY: A MINOR</div>
             <div class="hero-stamp">LEARN<br />BY<br />MAKING<span>✳</span></div>
           </div>
-          <div class="hero-bottom-line"><span>START WHERE YOU ARE</span><span>THE TOOLS ARE YOURS TO CHOOSE <b>↓</b></span><span>01 — 04</span></div>
+          <div class="hero-bottom-line"><span>START WHERE YOU ARE</span><span>THE TOOLS ARE YOURS TO CHOOSE <b>↓</b></span><span>01 — 05</span></div>
         </section>
 
         <section class="explore-section section-pad" id="explore">
@@ -74,7 +74,7 @@
               <p>Pick a DAW for hands-on steps, switch between paths at any time, or study the production concept without installing anything.</p>
             </div>
             <div class="path-toolbar">
-              <div class="segmented" role="group" aria-label="Filter software by cost"><button class="segment active" data-filter="all">All software <span>04</span></button><button class="segment" data-filter="free">Free to use <span>02</span></button><button class="segment" data-filter="paid">Paid license <span>02</span></button></div>
+              <div class="segmented" role="group" aria-label="Filter software by cost"><button class="segment active" data-filter="all">All software <span>05</span></button><button class="segment" data-filter="free">Free to use <span>02</span></button><button class="segment" data-filter="paid">Paid license or evaluation <span>03</span></button></div>
               <label class="path-search"><span>⌕</span><input id="daw-search" type="search" placeholder="Find your DAW" aria-label="Find a DAW" /></label>
             </div>
             <div class="daw-grid" id="daw-grid"></div>
@@ -88,7 +88,7 @@
             <div class="studio-topline"><div><div class="eyebrow"><span class="eyebrow-line"></span> YOUR CURRENT ROUTE</div><h2 id="route-title">Start with the shared <span class="serif-word">essentials.</span></h2></div><button class="text-button link-button" id="clear-filter">View all lessons <span>↗</span></button></div>
             <div class="studio-layout">
               <aside class="studio-sidebar">
-                <div class="sidebar-label">LEARNING PATH <span>01—04</span></div><div class="path-current" id="path-current"></div>
+                <div class="sidebar-label">LEARNING PATH <span>01—05</span></div><div class="path-current" id="path-current"></div>
                 <div class="sidebar-label sidebar-spaced">FILTER BY SKILL</div><div class="skill-filters" id="skill-filters"></div>
                 <div class="sidebar-quote"><span>“</span><p>Finish the rough version. Clarity comes from hearing it play.</p><small>THE ROOMTONE RULE</small></div>
               </aside>
@@ -109,12 +109,14 @@
     </div>
     <dialog id="lesson-dialog" class="lesson-dialog"><div class="dialog-head"><span id="dialog-kicker">SHARED FOUNDATION · 12 MIN</span><button class="icon-button" id="dialog-close" aria-label="Close lesson">×</button></div><div class="dialog-content" id="dialog-content"></div></dialog>
     <script src="curriculum.js"></script>
+    <script src="curriculum-reaper.js"></script>
     <script src="curriculum-extra.js"></script>
     <script src="curriculum-depth.js"></script>
     <script src="curriculum-research.js"></script>
     <script src="lesson-media.js"></script>
     <script src="lesson-media-depth.js"></script>
     <script src="lesson-media-research.js"></script>
+    <script src="lesson-media-reaper.js"></script>
     <script src="app.js"></script>
   </body>
 </html>
