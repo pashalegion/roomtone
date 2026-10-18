@@ -8,10 +8,12 @@ The subject explorer also builds multi-topic paths across instruments, vocals, s
 
 - **Paid:** Ableton Live and FL Studio.
 - **Free to use:** LMMS and Waveform Free.
+- **“Technically free to use”:** REAPER has a fully functional 60-day evaluation. It is not permanently free; Cockos requires a license after 60 days. Cockos currently lists a $60 discounted license for personal use, education/non-profit, or commercial users with annual gross revenue of $20,000 or less, and a $225 commercial license for other commercial use, before applicable taxes. Check the official license page for current prices and eligibility.
 - Lessons cover project setup, MIDI and rhythm, sound selection, arrangement, audio recording (when supported), mixing, automation, export, and troubleshooting.
 - LMMS is free/open-source and MIDI/pattern-focused. Its stable workflow does not record live audio input; the current 1.3.0-alpha.2 adds early JACK sample-track recording, but that is a pre-release feature. The curriculum labels the version distinction and offers Waveform Free for the beginner all-in-one recording path.
 - Waveform Free is an ongoing no-cost tier with optional paid expansions, not a time-limited trial. Its current feature limits are summarized in the site.
 - FL Studio's trial is not described as a free edition: it can save and export but saved project files cannot be reopened until a license is purchased. Fruity Edition also excludes audio recording.
+- REAPER lessons cover project setup, audio and MIDI recording, editing, plug-ins, routing, automation, mixing, rendering, and troubleshooting. REAPER is available for Windows, macOS, and Linux; the course points to Cockos' user guide and official video library.
 - The lesson library and path builder are free. Progress is stored in the browser with localStorage and is not sent to a server.
 - Light/dark appearance follows the system preference on first visit; the header toggle saves an explicit choice locally.
 
@@ -35,6 +37,6 @@ This is a root-relative-free static site, so it works both at a custom domain ro
 
 ## Curriculum editing
 
-DAW metadata and shared production lessons live in `curriculum.js`; the first non-DAW lessons live in `curriculum-extra.js`, with expanded subject courses in `curriculum-depth.js` and researched extensions in `curriculum-research.js`; video companions and instructor notes live in the `lesson-media*.js` files; rendering, interactions, and subject-relevance mapping live in `app.js`; styling is in `styles.css`. Subject paths show the selected subjects and only shared concepts explicitly tagged as relevant. A guitar path, for example, does not require MIDI drum-hat programming. Lessons have objectives, explanation, exercise, and mistake notes; researched extensions include source links. Keep status claims tied to official vendor pages, and clearly label edition-specific requirements when adding lessons.
+DAW metadata and shared production lessons live in `curriculum.js`; REAPER metadata, REAPER-specific lessons, and its additions to shared workflows live in `curriculum-reaper.js`; the first non-DAW lessons live in `curriculum-extra.js`, with expanded subject courses in `curriculum-depth.js` and researched extensions in `curriculum-research.js`; video companions and instructor notes live in the `lesson-media*.js` files; rendering, interactions, and subject-relevance mapping live in `app.js`; styling is in `styles.css`. Subject paths show the selected subjects and only shared concepts explicitly tagged as relevant. A guitar path, for example, does not require MIDI drum-hat programming. Lessons have objectives, explanation, exercise, and mistake notes; researched extensions include source links. Keep status claims tied to official vendor pages, and clearly label edition-specific requirements when adding lessons.
 
 Progress and selected subject order use versioned localStorage records. Clearing browser data clears this information. There is no account, analytics, advertising script, affiliate integration, or monetization provider configured.
