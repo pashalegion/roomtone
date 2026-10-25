@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="theme-color" content="#11130f" />
+<meta name="description" content="Optional: pick the music subjects you want in your library. Skip it and the shared foundation still works." />
+<title>Subjects — Roomtone</title>
+<script>
+(function () {
+  document.documentElement.classList.add("js");
+  if (location.protocol !== "file:") {
+    var preload = document.createElement("link");
+    preload.rel = "preload"; preload.as = "font"; preload.type = "font/woff2";
+    preload.href = "assets/fonts/inter-latin-700-normal.woff2"; preload.crossOrigin = "anonymous";
+    document.head.appendChild(preload);
+  }
+  try {
+    var saved = localStorage.getItem("roomtone.theme.v1");
+    document.documentElement.dataset.theme = saved === "dark" || saved === "light" ? saved : (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+  } catch (error) { /* The stylesheet falls back to the system preference. */ }
+})();
+</script>
+<link rel="stylesheet" href="assets/site.css" />
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="topbar">
+  <a class="brand" href="index.html" aria-label="Roomtone home"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i><i></i></span><span>roomtone<span class="brand-dot">.</span></span></a>
+  <nav class="site-nav" id="site-nav" aria-label="Main">
+    <a href="lessons.html">Lessons</a>
+    <a href="subjects.html">Subjects</a>
+    <a href="daws.html">Software</a>
+    <a href="practice.html">Practice</a>
+    <a href="concepts.html">Concepts</a>
+    <a href="software.html">Licenses</a>
+    <a href="progress.html">Progress</a>
+  </nav>
+  <div class="topbar-right">
+    <a class="progress-pill" href="progress.html"><span class="status-dot" aria-hidden="true"></span><span data-progress-count>0 lessons done</span></a>
+    <button class="theme-toggle" type="button" aria-pressed="false" aria-label="Switch to dark mode" title="Switch to dark mode"><span aria-hidden="true">☾</span></button>
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+  </div>
+</header>
+
+<main id="main" tabindex="-1">
+  <section class="wrap page-head rise">
+    <p class="eyebrow">Optional</p>
+    <h1>Subjects</h1>
+    <p>Pick any mix of instruments, voice, songwriting, theory, recording and mixing. Your picks only decide which lessons appear in the library. You can skip this step entirely.</p>
+  </section>
+  <section class="wrap">
+    <div class="toolbar">
+      <label class="search"><span class="sr-only">Search subjects</span><input id="search" type="search" placeholder="Search subjects" autocomplete="off" /></label>
+      <div class="segmented" id="groups" role="group" aria-label="Filter subjects by area"></div>
+    </div>
+    <p class="status-line" id="status" role="status"></p>
+    <div class="card-grid" id="grid"></div>
+    <div class="empty hidden" id="none">No subjects match that search. Try a shorter word.</div>
+    <section style="margin-top:44px" aria-labelledby="order-heading">
+      <h2 id="order-heading" style="font-size:1.3rem">Your order</h2>
+      <p class="muted">Chosen subjects appear in this order in the library.</p>
+      <ol class="order-list" id="order"></ol>
+      <p class="muted hidden" id="order-empty">No subjects chosen. The library shows the shared foundation, which works on its own. <a href="lessons.html">Open the library</a></p>
+      <p><button class="text-button" id="clear" type="button">Clear all subjects</button></p>
+    </section>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap footer-inner">
+    <a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i><i></i></span><span>roomtone<span class="brand-dot">.</span></span></a>
+    <span>An open classroom for the music you want to make.</span>
+    <span>No accounts · No tracking · © 2026 Roomtone</span>
+  </div>
+</footer>
+<script src="data/subjects.js"></script>
+<script src="assets/shell.js"></script>
+<script src="assets/subjects.js"></script>
+</body>
+</html>

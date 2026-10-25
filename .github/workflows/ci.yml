@@ -1,0 +1,39 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      # Plain Node scripts, no dependencies: markup, data consistency, and the home-page byte budget.
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+
+      - name: Header and footer match on every page
+        run: node tests/check-shell.mjs
+
+      - name: Lesson index and lesson bodies agree
+        run: node tests/check-data.mjs
+
+      - name: Home page stays under 60 KB of JavaScript and CSS
+        run: node tests/check-budget.mjs
+
+      # Browser tooling is installed for this job only. The site itself has no package.json.
+      - name: Install test tooling
+        run: npm install --no-save --no-package-lock @playwright/test@1.56.1 @axe-core/playwright@4.10.1 @lhci/cli@0.15.1
+
+      - name: Install Chromium and Firefox
+        run: npx playwright install --with-deps chromium firefox
+
+      - name: Browser tests at 375 px and 1280 px, light and dark, file:// and HTTP, Chromium and Firefox
+        run: npx playwright test -c tests/playwright.config.mjs
+
+      - name: Lighthouse mobile performance, LCP and CLS
+        run: npx lhci autorun --config=lighthouserc.json

@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="theme-color" content="#11130f" />
+<meta name="description" content="Search and filter every Roomtone lesson by skill, subject and order. Start with the shared foundation." />
+<title>Lessons — Roomtone</title>
+<script>
+(function () {
+  document.documentElement.classList.add("js");
+  if (location.protocol !== "file:") {
+    var preload = document.createElement("link");
+    preload.rel = "preload"; preload.as = "font"; preload.type = "font/woff2";
+    preload.href = "assets/fonts/inter-latin-700-normal.woff2"; preload.crossOrigin = "anonymous";
+    document.head.appendChild(preload);
+  }
+  try {
+    var saved = localStorage.getItem("roomtone.theme.v1");
+    document.documentElement.dataset.theme = saved === "dark" || saved === "light" ? saved : (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+  } catch (error) { /* The stylesheet falls back to the system preference. */ }
+})();
+</script>
+<link rel="stylesheet" href="assets/site.css" />
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="topbar">
+  <a class="brand" href="index.html" aria-label="Roomtone home"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i><i></i></span><span>roomtone<span class="brand-dot">.</span></span></a>
+  <nav class="site-nav" id="site-nav" aria-label="Main">
+    <a href="lessons.html">Lessons</a>
+    <a href="subjects.html">Subjects</a>
+    <a href="daws.html">Software</a>
+    <a href="practice.html">Practice</a>
+    <a href="concepts.html">Concepts</a>
+    <a href="software.html">Licenses</a>
+    <a href="progress.html">Progress</a>
+  </nav>
+  <div class="topbar-right">
+    <a class="progress-pill" href="progress.html"><span class="status-dot" aria-hidden="true"></span><span data-progress-count>0 lessons done</span></a>
+    <button class="theme-toggle" type="button" aria-pressed="false" aria-label="Switch to dark mode" title="Switch to dark mode"><span aria-hidden="true">☾</span></button>
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+  </div>
+</header>
+
+<main id="main" tabindex="-1">
+  <section class="wrap page-head rise">
+    <p class="eyebrow">Library</p>
+    <h1>Lessons</h1>
+    <p>Start with the shared foundation. Add a subject or a software path only when you want its lessons or steps.</p>
+  </section>
+  <section class="wrap" aria-label="Lesson list">
+    <div class="toolbar">
+      <label class="search"><span class="sr-only">Search lessons</span><input id="search" type="search" placeholder="Search lessons" autocomplete="off" /></label>
+      <label><span class="sr-only">Skill</span><select id="skill"></select></label>
+      <label><span class="sr-only">Order</span>
+        <select id="sort">
+          <option value="recommended">Recommended order</option>
+          <option value="beginner">Beginner first</option>
+          <option value="shortest">Shortest first</option>
+        </select>
+      </label>
+    </div>
+    <div class="toolbar">
+      <details class="subject-picker" id="subject-picker">
+        <summary><span id="subject-summary">Subjects: shared foundation</span></summary>
+        <div class="options" id="subject-options"></div>
+      </details>
+    </div>
+    <p class="status-line" id="scope-line" role="status">Showing the shared foundation. Check a subject above to add its lessons.</p>
+    <p class="count" id="count"></p>
+    <ol class="lesson-list" id="lesson-list"></ol>
+    <div class="empty hidden" id="empty">
+      <p><strong>Nothing matches.</strong> Clear the search or try another skill.</p>
+      <button class="button button-small" id="clear" type="button">Clear search and skill</button>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap footer-inner">
+    <a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i><i></i></span><span>roomtone<span class="brand-dot">.</span></span></a>
+    <span>An open classroom for the music you want to make.</span>
+    <span>No accounts · No tracking · © 2026 Roomtone</span>
+  </div>
+</footer>
+<script src="data/subjects.js"></script>
+<script src="data/lessons-index.js"></script>
+<script src="data/daws.js"></script>
+<script src="assets/shell.js"></script>
+<script src="assets/lessons.js"></script>
+</body>
+</html>

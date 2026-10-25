@@ -1,8 +1,23 @@
 # Roomtone — Open Music Classroom
 
-A small, static music-production academy. Learners can follow shared production concepts or select an application for DAW-specific steps, original workflow diagrams, and exercises.
+A small, static music-production academy. Start a lesson in one tap. Subjects and software are optional: pick them when a lesson needs them, or never.
 
-The subject explorer also builds multi-topic paths across instruments, vocals, songwriting, music theory, ear training, recording, synthesis, sampling, DJing, mixing, mastering, performance, music history, music technology, and music business. Every subject includes at least ten lessons, with practice exercises; the researched extension lessons include subject-specific references. Learners can reorder or remove their selected subjects. DAW selection is optional; choosing only a subject does not add DAW setup or unrelated production lessons.
+## Pages
+
+| Page | What it does |
+| --- | --- |
+| `index.html` | Home. "Start lesson 1", plus a "Continue" card once a lesson has been opened. |
+| `lessons.html` | Library: search, skill filter, sort, and an optional subject filter. |
+| `lesson.html?id=<id>` | One lesson, with its own URL, previous/next, keyboard arrows, and Mark complete. |
+| `subjects.html` | Optional subject picker: multi-select, search, and your order. |
+| `daws.html` | Optional software picker, with a free/paid filter. |
+| `practice.html` | Metronome, tap tempo, arc exercise, step grid, and interval ear training. |
+| `concepts.html` | Shared production concepts, each linked to a lesson. |
+| `software.html` | License and platform table, linked to official vendor pages. |
+| `progress.html` | Completed lessons, progress export and import, and reset. |
+| `404.html` | Friendly not-found page. |
+
+Old one-page anchors redirect on the home page: `#explore` → subjects, `#paths` → software picker, `#library` → lessons, `#concepts` → concepts, `#practice` → practice, `#software-notes` → licenses.
 
 ## Learning paths
 
@@ -21,22 +36,54 @@ The DAW status notes were checked against official developer pages on 18 October
 
 ## Run locally
 
-No install step, account, package manager, or build process is needed. Serve this folder over HTTP:
+No install step, account, package manager, or build process is needed. Either open `index.html` directly from disk, or serve the folder over HTTP:
 
 ```sh
 python3 -m http.server 8000
 ```
 
-Then visit <http://localhost:8000>.
+Then visit <http://localhost:8000>. Every page works from `file://` too; lesson pages load their content with `<script>` tags, not `fetch`. Lesson video buttons open YouTube in a new tab. There are no video embeds.
 
-The site also works when opened directly from `index.html`; lesson video buttons open YouTube in a new tab.
+## Data layout
+
+| File | Contents |
+| --- | --- |
+| `data/lessons-index.js` | Metadata for every lesson (title, skill, level, time, summary, course, relevant subjects, software with steps). Used by the library and progress pages. |
+| `data/lessons/<id>.js` | The full lesson: idea, objectives, steps per software, exercise, mistake, video companion, and previous/next. Loaded only by `lesson.html?id=<id>`. |
+| `data/subjects.js` | Optional subjects, their groups, and lesson counts. |
+| `data/daws.js` | Software metadata, license and platform text, official links, and workflow outlines. |
+
+When you add or change a lesson, edit both its body file and its entry in `data/lessons-index.js`. The data check in `tests/check-data.mjs` fails if they disagree. Keep status and license claims tied to official vendor pages, and clearly label edition-specific requirements.
+
+Shared styles are in `assets/site.css`. Shared behavior (theme, header, saved choices, announcements) is in `assets/shell.js`. Each page has its own small script in `assets/`.
+
+## Checks
+
+These run in GitHub Actions on each pull request (see `.github/workflows/ci.yml`):
+
+- `node tests/check-shell.mjs`: the header and footer markup must match on every page.
+- `node tests/check-data.mjs`: the lesson index, lesson bodies, subjects, and software agree.
+- `node tests/check-budget.mjs`: the home page loads under 60 KB of JavaScript and CSS.
+- Playwright (`tests/site.spec.mjs`): every page at 375 px and 1280 px, in light and dark themes, with no horizontal scroll and no axe violations, plus file:// and flow tests. Run with:
+
+  ```sh
+  npm install --no-save --no-package-lock @playwright/test@1.56.1 @axe-core/playwright@4.10.1
+  npx playwright install --with-deps chromium firefox
+  npx playwright test -c tests/playwright.config.mjs
+  ```
+
+- Lighthouse CI (`lighthouserc.json`): mobile performance 95 or higher, LCP under 2.5 s, CLS under 0.1.
+
+The site has no `package.json`. The browser and Lighthouse tooling is installed only for the CI job and for local test runs.
+
+## Motion
+
+Motion is short, optional, and never blocks content. Home: the arrangement blocks draw in and a playhead loops. The logo bars bounce once on each page load. Completing a lesson bursts a few notes for about 600 ms. The metronome pulses the logo on each beat. Pages fade between each other where the browser supports View Transitions. Under `prefers-reduced-motion`, every animation stops. Animations only change `transform` and `opacity`. Sound plays only after a press.
 
 ## GitHub Pages
 
-This is a root-relative-free static site, so it works both at a custom domain root and a GitHub Pages project URL. To deploy, push the repository and in **Settings → Pages** select **Deploy from a branch**, then choose the branch and `/ (root)` folder. The `index.html` entry point supports the Pages refresh behavior because all sections use in-page anchors rather than client-side routes.
+The site is static and root-relative-free: every link is relative, so it works at a custom domain root or a project URL. To deploy, push the repository and in **Settings → Pages** select **Deploy from a branch**, then choose the branch and `/ (root)` folder.
 
-## Curriculum editing
+## Privacy
 
-DAW metadata and shared production lessons live in `curriculum.js`; REAPER metadata, REAPER-specific lessons, and its additions to shared workflows live in `curriculum-reaper.js`; the first non-DAW lessons live in `curriculum-extra.js`, with expanded subject courses in `curriculum-depth.js` and researched extensions in `curriculum-research.js`; video companions and instructor notes live in the `lesson-media*.js` files; rendering, interactions, and subject-relevance mapping live in `app.js`; styling is in `styles.css`. Subject paths show the selected subjects and only shared concepts explicitly tagged as relevant. A guitar path, for example, does not require MIDI drum-hat programming. Lessons have objectives, explanation, exercise, and mistake notes; researched extensions include source links. Keep status claims tied to official vendor pages, and clearly label edition-specific requirements when adding lessons.
-
-Progress and selected subject order use versioned localStorage records. Clearing browser data clears this information. There is no account, analytics, advertising script, affiliate integration, or monetization provider configured.
+Learner data lives in browser localStorage under versioned keys (`roomtone.progress.v1`, `roomtone.learning-focus.v1`, `roomtone.software.v1`, `roomtone.theme.v1`). Clearing browser data clears it. Progress can be downloaded as a versioned JSON file and imported elsewhere; nothing is uploaded. There is no account, analytics, advertising script, affiliate integration, or monetization provider configured.

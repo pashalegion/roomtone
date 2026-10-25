@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="theme-color" content="#11130f" />
+<meta name="description" content="Your completed lessons, saved only in this browser. Reset when you want a clean start." />
+<title>Progress — Roomtone</title>
+<script>
+(function () {
+  document.documentElement.classList.add("js");
+  if (location.protocol !== "file:") {
+    var preload = document.createElement("link");
+    preload.rel = "preload"; preload.as = "font"; preload.type = "font/woff2";
+    preload.href = "assets/fonts/inter-latin-700-normal.woff2"; preload.crossOrigin = "anonymous";
+    document.head.appendChild(preload);
+  }
+  try {
+    var saved = localStorage.getItem("roomtone.theme.v1");
+    document.documentElement.dataset.theme = saved === "dark" || saved === "light" ? saved : (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+  } catch (error) { /* The stylesheet falls back to the system preference. */ }
+})();
+</script>
+<link rel="stylesheet" href="assets/site.css" />
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="topbar">
+  <a class="brand" href="index.html" aria-label="Roomtone home"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i><i></i></span><span>roomtone<span class="brand-dot">.</span></span></a>
+  <nav class="site-nav" id="site-nav" aria-label="Main">
+    <a href="lessons.html">Lessons</a>
+    <a href="subjects.html">Subjects</a>
+    <a href="daws.html">Software</a>
+    <a href="practice.html">Practice</a>
+    <a href="concepts.html">Concepts</a>
+    <a href="software.html">Licenses</a>
+    <a href="progress.html">Progress</a>
+  </nav>
+  <div class="topbar-right">
+    <a class="progress-pill" href="progress.html"><span class="status-dot" aria-hidden="true"></span><span data-progress-count>0 lessons done</span></a>
+    <button class="theme-toggle" type="button" aria-pressed="false" aria-label="Switch to dark mode" title="Switch to dark mode"><span aria-hidden="true">☾</span></button>
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+  </div>
+</header>
+
+<main id="main" tabindex="-1">
+  <section class="wrap page-head rise">
+    <p class="eyebrow">Your progress</p>
+    <h1>Progress</h1>
+    <p class="muted">Saved only in this browser. Nothing is sent to a server.</p>
+  </section>
+  <section class="wrap">
+    <p class="count" id="count"></p>
+    <ol class="progress-list" id="done-list"></ol>
+    <div class="empty hidden" id="done-empty"><p><strong>Nothing completed yet.</strong> Finish one lesson and it will appear here.</p><p><a class="button button-small" href="lessons.html">Open the library</a></p></div>
+    <p class="muted" id="exercise-line"></p>
+    <section class="backup" aria-labelledby="backup-title" style="margin-top:36px">
+      <h2 id="backup-title" style="font-size:1.2rem">Back up or move your progress</h2>
+      <p class="muted">Download a small JSON file and import it in another browser. Nothing is uploaded; the file stays with you.</p>
+      <div class="bpm-row">
+        <button class="button button-small" id="export" type="button">Download progress file</button>
+      </div>
+      <label class="field" for="import-file" style="margin-top:18px">Import a progress file</label>
+      <input type="file" id="import-file" accept="application/json,.json" />
+      <p class="status-line" id="import-status" role="status"></p>
+      <div class="bpm-row hidden" id="import-confirm-row">
+        <button class="button button-small button-primary" id="import-apply" type="button">Replace my progress with this file</button>
+        <button class="text-button" id="import-cancel" type="button">Cancel</button>
+      </div>
+    </section>
+    <div class="danger-zone">
+      <button class="button button-small" id="reset" type="button">Reset progress</button>
+      <button class="button button-small hidden" id="reset-confirm" type="button">Yes, clear my progress</button>
+      <button class="text-button hidden" id="reset-cancel" type="button">Keep it</button>
+      <span class="muted" id="reset-note" role="status"></span>
+    </div>
+    <p class="muted" style="font-size:14px;margin-top:14px">Reset clears completed lessons, the last lesson and the practice exercise. Subject, software and theme choices stay.</p>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap footer-inner">
+    <a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i><i></i></span><span>roomtone<span class="brand-dot">.</span></span></a>
+    <span>An open classroom for the music you want to make.</span>
+    <span>No accounts · No tracking · © 2026 Roomtone</span>
+  </div>
+</footer>
+<script src="data/lessons-index.js"></script>
+<script src="data/subjects.js"></script>
+<script src="data/daws.js"></script>
+<script src="assets/shell.js"></script>
+<script src="assets/progress.js"></script>
+</body>
+</html>
