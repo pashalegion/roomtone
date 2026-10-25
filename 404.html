@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="theme-color" content="#11130f" />
+<meta name="description" content="That page isn’t here. Go back to the lessons or the home page." />
+<title>Page not found — Roomtone</title>
+<script>
+(function () {
+  document.documentElement.classList.add("js");
+  if (location.protocol !== "file:") {
+    var preload = document.createElement("link");
+    preload.rel = "preload"; preload.as = "font"; preload.type = "font/woff2";
+    preload.href = "assets/fonts/inter-latin-700-normal.woff2"; preload.crossOrigin = "anonymous";
+    document.head.appendChild(preload);
+  }
+  try {
+    var saved = localStorage.getItem("roomtone.theme.v1");
+    document.documentElement.dataset.theme = saved === "dark" || saved === "light" ? saved : (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+  } catch (error) { /* The stylesheet falls back to the system preference. */ }
+})();
+</script>
+<link rel="stylesheet" href="assets/site.css" />
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="topbar">
+  <a class="brand" href="index.html" aria-label="Roomtone home"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i><i></i></span><span>roomtone<span class="brand-dot">.</span></span></a>
+  <nav class="site-nav" id="site-nav" aria-label="Main">
+    <a href="lessons.html">Lessons</a>
+    <a href="subjects.html">Subjects</a>
+    <a href="daws.html">Software</a>
+    <a href="practice.html">Practice</a>
+    <a href="concepts.html">Concepts</a>
+    <a href="software.html">Licenses</a>
+    <a href="progress.html">Progress</a>
+  </nav>
+  <div class="topbar-right">
+    <a class="progress-pill" href="progress.html"><span class="status-dot" aria-hidden="true"></span><span data-progress-count>0 lessons done</span></a>
+    <button class="theme-toggle" type="button" aria-pressed="false" aria-label="Switch to dark mode" title="Switch to dark mode"><span aria-hidden="true">☾</span></button>
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+  </div>
+</header>
+
+<main id="main" tabindex="-1">
+  <section class="wrap not-found rise">
+    <p class="big" aria-hidden="true">404</p>
+    <h1>This page took a different take.</h1>
+    <p class="muted">The page you asked for isn’t here. Try one of these instead.</p>
+    <p style="display:flex;gap:10px;justify-content:center;flex-wrap:wrap"><a class="button button-primary" href="index.html">Go home</a><a class="button button-quiet" href="lessons.html">Browse lessons</a></p>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap footer-inner">
+    <a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i><i></i></span><span>roomtone<span class="brand-dot">.</span></span></a>
+    <span>An open classroom for the music you want to make.</span>
+    <span>No accounts · No tracking · © 2026 Roomtone</span>
+  </div>
+</footer>
+<script src="assets/shell.js"></script>
+</body>
+</html>

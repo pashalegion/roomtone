@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="theme-color" content="#11130f" />
+<meta name="description" content="Optional: choose the music software you use to see its exact steps inside lessons. Free and paid options, side by side." />
+<title>Software — Roomtone</title>
+<script>
+(function () {
+  document.documentElement.classList.add("js");
+  if (location.protocol !== "file:") {
+    var preload = document.createElement("link");
+    preload.rel = "preload"; preload.as = "font"; preload.type = "font/woff2";
+    preload.href = "assets/fonts/inter-latin-700-normal.woff2"; preload.crossOrigin = "anonymous";
+    document.head.appendChild(preload);
+  }
+  try {
+    var saved = localStorage.getItem("roomtone.theme.v1");
+    document.documentElement.dataset.theme = saved === "dark" || saved === "light" ? saved : (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+  } catch (error) { /* The stylesheet falls back to the system preference. */ }
+})();
+</script>
+<link rel="stylesheet" href="assets/site.css" />
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="topbar">
+  <a class="brand" href="index.html" aria-label="Roomtone home"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i><i></i></span><span>roomtone<span class="brand-dot">.</span></span></a>
+  <nav class="site-nav" id="site-nav" aria-label="Main">
+    <a href="lessons.html">Lessons</a>
+    <a href="subjects.html">Subjects</a>
+    <a href="daws.html">Software</a>
+    <a href="practice.html">Practice</a>
+    <a href="concepts.html">Concepts</a>
+    <a href="software.html">Licenses</a>
+    <a href="progress.html">Progress</a>
+  </nav>
+  <div class="topbar-right">
+    <a class="progress-pill" href="progress.html"><span class="status-dot" aria-hidden="true"></span><span data-progress-count>0 lessons done</span></a>
+    <button class="theme-toggle" type="button" aria-pressed="false" aria-label="Switch to dark mode" title="Switch to dark mode"><span aria-hidden="true">☾</span></button>
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+  </div>
+</header>
+
+<main id="main" tabindex="-1">
+  <section class="wrap page-head rise">
+    <p class="eyebrow">Optional</p>
+    <h1>Choose your software</h1>
+    <p>Pick the app you use and each lesson shows its exact steps. Not sure yet? Skip it. The shared steps cover the same ideas in any app.</p>
+  </section>
+  <section class="wrap">
+    <div class="toolbar">
+      <label class="search"><span class="sr-only">Find software</span><input id="search" type="search" placeholder="Find software" autocomplete="off" /></label>
+      <div class="segmented" id="cost" role="group" aria-label="Filter software by license">
+        <button class="chip" type="button" data-filter="all" aria-pressed="true">All</button>
+        <button class="chip" type="button" data-filter="free" aria-pressed="false">Free to use</button>
+        <button class="chip" type="button" data-filter="paid" aria-pressed="false">Paid license or trial</button>
+      </div>
+      <button class="chip" id="skip" type="button" aria-pressed="false">No software: shared steps only</button>
+    </div>
+    <p class="status-line" id="status" role="status"></p>
+    <div class="card-grid" id="grid"></div>
+    <div class="empty hidden" id="none">No software matches that search. Try another name or platform.</div>
+    <p class="muted" style="margin-top:28px">Prices and license terms change. Check the official page before you download or buy. <a href="software.html">Read the license notes</a>.</p>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap footer-inner">
+    <a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i><i></i></span><span>roomtone<span class="brand-dot">.</span></span></a>
+    <span>An open classroom for the music you want to make.</span>
+    <span>No accounts · No tracking · © 2026 Roomtone</span>
+  </div>
+</footer>
+<script src="data/daws.js"></script>
+<script src="assets/shell.js"></script>
+<script src="assets/daws.js"></script>
+</body>
+</html>
