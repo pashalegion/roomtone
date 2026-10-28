@@ -222,6 +222,23 @@ test('history lesson: the watch video is the jazz-origins video, not the unrelat
   await expect(page.locator('body')).not.toContainText('Gangnam');
 });
 
+test('software: REAPER is a trial then a paid license in the badge, the free/paid filter and the license text', async ({page}) => {
+  await page.goto('daws.html');
+  const card = page.locator('.daw-card', {hasText: 'REAPER'});
+  await expect(card.locator('.daw-kind')).toHaveText('Trial, then paid license');
+  await expect(card).not.toContainText('Technically free');
+  await page.locator('#cost [data-filter="free"]').click();
+  await expect(page.locator('.daw-card', {hasText: 'REAPER'})).toHaveCount(0);
+  await page.locator('#cost [data-filter="paid"]').click();
+  await expect(page.locator('.daw-card', {hasText: 'REAPER'})).toHaveCount(1);
+  await page.goto('software.html');
+  const row = page.locator('tr', {hasText: 'REAPER'});
+  await expect(row).toContainText('EVALUATION, THEN LICENSE');
+  await expect(row).toContainText('60-day evaluation');
+  await expect(row).toContainText('$225');
+  await expect(row).not.toContainText('Technically free');
+});
+
 test('subject lessons have no software chooser', async ({page}) => {
   await page.goto('subjects.html');
   await page.locator('.subject-card[data-id="guitar"]').click();
