@@ -125,6 +125,20 @@ test('lesson: completing updates in place, shows Next lesson, and arrow keys mov
   await expect(page).toHaveURL(/id=first-session/);
 });
 
+test('lesson: when storage fails, Mark complete says progress was not saved and the button stays as it was', async ({page}) => {
+  await page.addInitScript(() => {
+    Storage.prototype.setItem = () => { throw new DOMException('Quota exceeded', 'QuotaExceededError'); };
+  });
+  await page.goto('lesson.html?id=first-session');
+  await expect(page.locator('#lesson-view h1')).toBeVisible();
+  await page.locator('#complete').click();
+  await expect(page.locator('#complete-note')).toHaveText('Progress could not be saved on this device.');
+  await expect(page.locator('#complete')).toHaveText('Mark lesson complete');
+  await expect(page.locator('#complete')).toHaveAttribute('aria-pressed', 'false');
+  await expect(page.locator('#next-lesson')).toBeHidden();
+  await expect(page.locator('#complete-note')).not.toContainText('Saved on this device');
+});
+
 test('lesson: DAW chooser is inline, can be skipped, and steps follow the chosen software', async ({page}) => {
   await page.goto('lesson.html?id=midi-groove');
   await expect(page.locator('#software-section .software-choices')).toBeVisible();

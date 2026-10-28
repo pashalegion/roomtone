@@ -94,12 +94,13 @@
     $("#reading-slot").innerHTML = resourcesHtml(lesson);
   }
 
-  function paintComplete(done, animate) {
+  // `done` is the state that is actually stored, so a failed save leaves the button as it was.
+  function paintComplete(done, animate, saveFailed) {
     const button = $("#complete");
     button.classList.toggle("is-done", done);
     button.setAttribute("aria-pressed", String(done));
     button.textContent = done ? "✓ Completed · undo" : "Mark lesson complete";
-    $("#complete-note").textContent = done ? "Saved on this device." : "";
+    $("#complete-note").textContent = saveFailed ? "Progress could not be saved on this device." : done ? "Saved on this device." : "";
     const next = $("#next-lesson");
     if (!done) {
       next.classList.add("hidden");
@@ -164,7 +165,7 @@
     $("#lesson").hidden = false;
     $("#lesson-loading").hidden = true;
     paintSoftware();
-    paintComplete(done, false);
+    paintComplete(done, false, false);
   }
 
   function bind() {
@@ -190,7 +191,12 @@
       if (event.target.closest("#complete")) {
         const wasDone = getProgress().completed.includes(lesson.id);
         const result = setLessonCompleted(lesson.id, !wasDone);
-        paintComplete(result.completed, true);
+        if (!result.saved) {
+          paintComplete(wasDone, false, true);
+          announce("Progress could not be saved on this device.");
+          return;
+        }
+        paintComplete(result.completed, true, false);
         announce(result.completed ? "Lesson marked complete." : "Lesson marked unfinished.");
       }
     });
