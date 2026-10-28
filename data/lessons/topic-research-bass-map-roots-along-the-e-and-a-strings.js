@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind map roots along the e and a strings.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Find each chord root on the E string.",
+    "Find the same pitch on the A string where possible.",
+    "Play a three-chord progression in the position with the least movement."
   ],
   "concept": "The lowest two bass strings provide movable reference points for many root notes. Knowing their note locations helps a bassist follow chord changes without relying on a single hand shape.",
   "exercise": "Choose a three-chord progression. Find each root on the E string, then find the same pitch on the A string where possible. Say each note name aloud and play the progression using the position with the smallest comfortable movement.",

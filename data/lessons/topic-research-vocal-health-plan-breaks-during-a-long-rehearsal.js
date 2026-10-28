@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind plan breaks during a long rehearsal.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Split a planned rehearsal into shorter blocks with quiet breaks.",
+    "Mark when the voice starts to feel tired.",
+    "Shorten or stop the next session accordingly, and keep water available."
   ],
   "concept": "NIDCD recommends vocal rest and avoiding singing when the voice is hoarse or tired. Breaks help learners notice fatigue earlier, but rest does not replace evaluation when symptoms persist.",
   "exercise": "Break a planned rehearsal into shorter blocks with quiet breaks. Mark when the voice starts to feel tired and shorten or stop the session next time. Keep water available and review the NIDCD voice-care page.",

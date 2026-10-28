@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind use a broken-chord accompaniment.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Play each chord as a block, then as a four-beat broken pattern.",
+    "Keep the left-hand pattern steady.",
+    "Sing a simple melody over the pattern."
   ],
   "concept": "A broken chord plays chord tones in sequence rather than simultaneously. The pattern creates motion and can leave space for melody; register, note length, and pulse determine whether it feels gentle or driving.",
   "exercise": "Choose a three-chord progression. Play each chord as a block once, then use its root and upper notes as a four-beat broken-chord pattern. Keep the left-hand pattern steady and sing a simple melody over it.",

@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind use delay in time with the phrase.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Add a quiet delay to the end of one phrase only.",
+    "Set the delay to a tempo-synced eighth or quarter note.",
+    "Reduce feedback until the repeats stop cleanly."
   ],
   "concept": "Delay repeats a sound after a chosen time. Tempo-synced subdivisions can fit a phrase, while feedback controls how many repeats remain; a short automation or send can keep the effect out of the way elsewhere.",
   "exercise": "Choose the end of a vocal or instrument phrase. Add a quiet eighth- or quarter-note delay to that phrase only, then compare the tail with the next section. Reduce feedback until the repeats stop cleanly.",

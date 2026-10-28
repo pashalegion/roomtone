@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind set a small practice goal and log it.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Write one specific 10-minute practice goal with a way to judge it.",
+    "Log what worked and what to change next time.",
+    "Revise or stop the goal if it becomes painful or frustrating."
   ],
   "concept": "A useful practice target names a specific behavior and a way to evaluate it. Research supports task-relevant structured practice, while also showing practice is only one factor in achievement; sustainable, enjoyable learning matters.",
   "exercise": "Write one 10-minute goal for today, such as three clean repetitions of a phrase at a stated tempo. Log what worked and what to change next time, then stop or revise the goal if it becomes painful or frustrating.",

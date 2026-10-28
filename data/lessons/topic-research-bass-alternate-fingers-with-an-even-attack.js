@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind alternate fingers with an even attack.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Alternate index and middle fingers on repeated plucks at a steady pulse.",
+    "Spot uneven attacks in a recording of eight bars.",
+    "Repeat on a second string at a slower pulse without adding hand tension."
   ],
   "concept": "Alternating index and middle fingers can distribute repeated plucks. The fingers should move economically, with consistent contact and relaxed recovery; tone differences are easier to hear when the volume is controlled.",
   "exercise": "Play one open string at a comfortable pulse, alternating fingers on each note. Record eight bars, listen for uneven attacks, then slow down and repeat on a second string without changing hand tension.",

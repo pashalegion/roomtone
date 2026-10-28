@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind make a sound change across a note.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Apply a slow filter movement to a sustained note.",
+    "Apply a brief envelope change to a short note.",
+    "Keep the movement that supports the phrase."
   ],
   "concept": "A timbre can change over time through filters, amplitude, modulation, or sample playback. Movement should relate to note length and musical phrasing so the sound remains readable.",
   "exercise": "Choose one sustained note and one short note. Apply a slow filter movement to the sustained note and a brief envelope change to the short note. Compare both in a phrase and keep the movement that supports it.",

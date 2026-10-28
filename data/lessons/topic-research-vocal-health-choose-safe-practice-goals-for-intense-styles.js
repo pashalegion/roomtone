@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind choose safe practice goals for intense styles.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Note the phrase, vowel and timbre choices in a trained performer's recording.",
+    "Write questions to bring to a qualified contemporary voice teacher.",
+    "Do not imitate screams or push for extreme notes."
   ],
   "concept": "High-intensity singing and distortion require individualized instruction. A written listening study can explore tone, rhythm, and performance choices without asking a beginner to reproduce a demanding sound.",
   "exercise": "Listen to a trained performer at a moderate playback level. Note the phrase, vowel, and timbre choices you hear. Bring questions to a qualified contemporary voice teacher; do not imitate screams or push for extreme notes.",

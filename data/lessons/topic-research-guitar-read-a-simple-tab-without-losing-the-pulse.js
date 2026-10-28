@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind read a simple tab without losing the pulse.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Name the string before each note in a short tab phrase.",
+    "Tap the pulse and play slowly while counting.",
+    "Mark any rhythm the tab does not explain and check it against a recording."
   ],
   "concept": "Guitar tablature maps strings vertically and fret numbers horizontally. It can show which string and fret to use, but it does not always show rhythm clearly, so a recording or notation may be needed for timing.",
   "exercise": "Find a short public-domain or self-written tab phrase. Name the string before each note, tap the pulse, then play slowly while counting. Circle any rhythmic value the tab does not explain and listen to a reference performance if available.",

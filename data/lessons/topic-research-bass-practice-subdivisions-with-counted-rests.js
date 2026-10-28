@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind practice subdivisions with counted rests.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Count eighth notes aloud through rests.",
+    "Re-enter on beat four after two beats of rest.",
+    "Record whether each re-entry lands evenly."
   ],
   "concept": "Rests are active parts of a groove: the pulse continues even when no note sounds. Counting subdivisions through silence helps a bassist re-enter accurately and coordinate with other musicians.",
   "exercise": "Set a comfortable metronome. Play a root on beat one, rest for beats two and three, then play on beat four. Count eighth notes out loud throughout four bars and record whether each re-entry lands evenly.",

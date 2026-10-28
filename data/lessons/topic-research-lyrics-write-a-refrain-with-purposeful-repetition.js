@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind write a refrain with purposeful repetition.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Repeat one refrain line at the end of two short sections.",
+    "Change the preceding image or the final word once.",
+    "Choose the return that develops the idea when both are read aloud."
   ],
   "concept": "A refrain can use repetition to create recognition, but context changes how the repeated words are heard. A small lyric or harmony change can make the return feel newly meaningful.",
   "exercise": "Write one refrain line and repeat it at the end of two short sections. Change the preceding image or the final word once, then read both versions aloud and choose the return that develops the idea.",

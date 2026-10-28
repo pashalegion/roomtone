@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind learn sample rate and bit depth basics.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Find the sample rate and bit depth of an audio file or recording.",
+    "Export a short file to the requested delivery specification.",
+    "Confirm the exported file's properties."
   ],
   "concept": "Sample rate describes how often audio is measured over time; bit depth affects quantization range and noise floor. Appropriate settings depend on the project and destination, and changing settings later cannot restore information that was never captured.",
   "exercise": "Inspect the settings of a sample audio file or recording application. Write down sample rate and bit depth, then export a short file using the requested delivery specification and confirm the file properties.",

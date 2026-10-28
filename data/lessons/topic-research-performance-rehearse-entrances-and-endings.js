@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind rehearse entrances and endings.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Rehearse only the opening and final two bars of a piece.",
+    "Add a clear count-in and agree on the ending cue with a partner.",
+    "Check in a recorded run whether the form is obvious."
   ],
   "concept": "Entrances and endings are coordination points. A breath, count-in, visual cue, or clear final gesture helps performers begin and stop together; the exact cue should fit the group.",
   "exercise": "Choose a short piece and rehearse only its opening and final two bars. Add a clear count-in and agree on the ending cue with a partner if available. Record one complete run and check whether the form is obvious.",

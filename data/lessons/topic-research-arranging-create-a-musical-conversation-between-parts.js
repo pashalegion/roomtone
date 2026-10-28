@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind create a musical conversation between parts.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Write a four-bar call and a four-bar answer in two different parts.",
+    "Leave a small gap between call and answer, with the answer quieter or higher.",
+    "Swap the roles and judge which exchange reads more clearly."
   ],
   "concept": "A musical conversation can use call and response, complementary rhythms, or a contrasting register. Arrangement choices become clearer when each part has a role and a moment to lead.",
   "exercise": "Write a four-bar call in one part and a four-bar answer in another. Leave a small gap between them and keep the second part quieter or higher. Swap roles and compare which exchange feels clearer.",

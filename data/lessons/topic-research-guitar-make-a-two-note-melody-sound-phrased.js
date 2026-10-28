@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind make a two-note melody sound phrased.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Make a four-beat call from two nearby notes.",
+    "Change only the final note or add a rest before it.",
+    "Choose the version whose phrase ending is easiest to hear."
   ],
   "concept": "A phrase can communicate direction through space, articulation, and duration even with very few pitches. Repetition gives the listener a reference; changing the ending creates a simple answer.",
   "exercise": "Choose two nearby notes and make a four-beat call. Repeat it, then change only the final note or leave a rest before it. Record three versions and choose the one whose phrase ending is easiest to hear.",

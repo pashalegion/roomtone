@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind design a kick from a simple source.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Make a short pitch drop on a simple sine oscillator or kick sample.",
+    "Adjust the envelope and compare two versions at the same level.",
+    "Keep the kick that leaves the low end clear next to a bass part."
   ],
   "concept": "A synthesized kick often combines a brief downward pitch movement with a short amplitude envelope. The amount and duration affect punch and tonal weight; no single setting fits every tempo or arrangement.",
   "exercise": "Start with a simple sine oscillator or kick sample. Make a short pitch drop, adjust the envelope, and compare two versions at the same level. Test each with a bass part and keep one that leaves the low end clear.",

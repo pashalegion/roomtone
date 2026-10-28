@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind record a clean di instrument.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Connect an instrument to a suitable interface input with monitoring kept low.",
+    "Check a short loud test for clipping and hum.",
+    "Save a dry take, plus a separate processed monitor version if your setup allows."
   ],
   "concept": "A direct input recording preserves a relatively dry source for later processing. Instrument output and interface input must be compatible; gain and monitoring should be checked before a full take.",
   "exercise": "Connect an instrument to an appropriate interface input with monitoring low. Record a short loud test, check for clipping and hum, then save a dry take and a separate processed monitor version if your setup allows it.",

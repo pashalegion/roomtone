@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind warm up gently within an easy range.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Hum or speak lightly on a few comfortable pitches for a short time.",
+    "Stop before effort rises.",
+    "Leave range, loudness and distortion alone unless a teacher guides the technique."
   ],
   "concept": "Gentle preparation should feel easy and should never be used to override fatigue or symptoms. Warm-up practices are individual; a qualified singing teacher can tailor exercises to a singer's goals and voice.",
   "exercise": "If your voice feels rested, hum or speak lightly in a few comfortable pitches for a short time. Stop before effort rises. Do not extend range, add loudness, or imitate distortion; use a teacher's guidance for technique.",

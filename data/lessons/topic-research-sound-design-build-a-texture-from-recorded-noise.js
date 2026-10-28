@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind build a texture from recorded noise.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Trim a useful moment from a room-safe recording you own.",
+    "Add a gentle fade and one filter or reverb change.",
+    "Keep the texture low under a phrase and mute it to check whether it helps."
   ],
   "concept": "A texture can add motion and place without competing with the foreground. Filtering, envelope, and level changes can turn environmental recording into a sustained layer while keeping the source recognizable or intentionally abstract.",
   "exercise": "Record a short room-safe sound you own. Trim a useful moment, add a gentle fade, and try one filter or reverb change. Keep it low under a simple phrase and mute it to confirm whether it helps.",

@@ -23,9 +23,9 @@ window.RT_LESSON_BODY = {
     "next": null
   },
   "objectives": [
-    "Understand the key idea behind set up a comfortable practice environment.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Play backing audio at a low level in a comfortable room.",
+    "Speak and sing a short phrase without raising your voice to compete.",
+    "Reduce the backing or move to a quieter space if you cannot hear yourself comfortably."
   ],
   "concept": "A quiet environment can reduce the temptation to sing over loud sound. NIDCD advises avoiding speaking or singing in noisy places and using a microphone where appropriate to reduce vocal strain.",
   "exercise": "Choose a comfortable room and play backing audio at a low level. Speak and sing a short phrase without raising your voice to compete. If you cannot hear yourself comfortably, reduce the backing or move to a quieter space.",

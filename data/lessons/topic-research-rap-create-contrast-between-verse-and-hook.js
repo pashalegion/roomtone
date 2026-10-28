@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind create contrast between verse and hook.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Record a four-bar verse and a four-bar hook over the same beat.",
+    "Change one feature in the hook, such as a repeated phrase or longer notes.",
+    "Judge which change makes the section boundary clear."
   ],
   "concept": "Section contrast helps a listener recognize a hook. A change in note range, density, repetition, or rhythmic placement can make the hook memorable without requiring louder delivery.",
   "exercise": "Record a four-bar verse and a four-bar hook over the same beat. Change one feature in the hook—repeated phrase, longer notes, or a different cadence—then compare which makes the section boundary clear.",

@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind use fades to avoid abrupt endings.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Export a section that ends on a sustained note.",
+    "Compare a short fade with a longer one on headphones.",
+    "Keep the fade that supports the ending without cutting off the decay."
   ],
   "concept": "Fades manage the transition between silence and music. Fade length, curve, and tail depend on the musical ending and noise floor; a fade should not cut off a natural decay.",
   "exercise": "Export a section with a sustained final note. Try a short fade and a longer fade, then listen on headphones for clicks, noise, or a prematurely cut tail. Keep the version that supports the music's ending.",

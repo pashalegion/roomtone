@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind create a riser with a controlled envelope.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Raise filter brightness gradually over four bars on a noise source or sustained synth.",
+    "Stop the riser just before the next section.",
+    "Compare it with a version that continues through the downbeat."
   ],
   "concept": "A riser is a transition effect that increases expectation. Its direction, duration, and ending should point to a musical arrival; a sudden cutoff or release can create a clean transition.",
   "exercise": "Use a noise source or sustained synth. Increase filter brightness gradually over four bars, then stop it just before the next section. Compare with a version that continues through the downbeat.",

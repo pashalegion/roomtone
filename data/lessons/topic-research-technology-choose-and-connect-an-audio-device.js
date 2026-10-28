@@ -23,9 +23,9 @@ window.RT_LESSON_BODY = {
     "next": null
   },
   "objectives": [
-    "Understand the key idea behind choose and connect an audio device.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Select an audio device and record a short test from an authorized source.",
+    "Confirm the input meter, playback output and channel choice.",
+    "Note the device and routing so you can repeat them next time."
   ],
   "concept": "An audio interface converts between analog signals and digital audio, while a device driver connects it to software. The input source, channel, output route, and monitoring controls must all agree for a usable signal.",
   "exercise": "With monitor volume low, select one available audio device and record a short test from an authorized source. Confirm input meter, playback output, and channel choice; then document the device and routing for next time.",

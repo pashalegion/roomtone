@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind place a microphone for acoustic guitar.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Record the same strummed progression from two positions around the guitar.",
+    "Note the distance and gain for each position.",
+    "Compare body, pick attack and room sound, then keep the most natural take."
   ],
   "concept": "Mic placement is a tonal choice. Shure suggests testing positions near the instrument and listening for desired balance; pointing directly into a sound hole can produce excessive low-frequency buildup in some setups.",
   "exercise": "Record the same strummed chord progression from two positions around the guitar, keeping distance and gain noted. Compare body, pick attack, and room sound, then keep the naturalest take for the song.",

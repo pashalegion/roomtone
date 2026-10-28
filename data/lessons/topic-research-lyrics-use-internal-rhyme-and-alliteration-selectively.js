@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind use internal rhyme and alliteration selectively.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Write four lines without rhyme first.",
+    "Add one internal rhyme where a line needs momentum.",
+    "Read aloud and remove any sound pattern that feels forced."
   ],
   "concept": "Internal rhyme and alliteration create sonic links within a line. They are rhetorical tools: a repeated sound can emphasize a phrase, while too many sound patterns may distract from meaning.",
   "exercise": "Write four lines without rhyme first. Add one internal rhyme to a line that needs momentum and one alliterative phrase where the sound supports the image. Read aloud and remove any addition that feels forced.",

@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind choose harmony for a melody note.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Try two triads under the melody's longest note.",
+    "Decide whether that note is a chord tone or a tension.",
+    "Pick the progression that best supports the phrase."
   ],
   "concept": "A melody note may be a chord tone or a tension against the current chord. Both can work; the rhythm, duration, and resolution shape how stable the note feels.",
   "exercise": "Write a four-note melody. Try two different triads beneath its longest note, then play or sing each combination. Identify whether the note is a chord tone and decide which progression supports the phrase.",

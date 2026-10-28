@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind use a pedal point or held tone.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Hold one bass or upper note across chords that move around it.",
+    "Stop the held note before the phrase resolves.",
+    "Compare the held version with one that changes every chord tone."
   ],
   "concept": "A pedal point sustains or repeats one pitch while harmonies move around it. It can create continuity or tension; the fit depends on the changing chords and musical style.",
   "exercise": "Choose a four-chord progression. Hold a comfortable bass or upper note across two of the chords, then stop it before the phrase resolves. Compare with the version that changes every chord tone.",

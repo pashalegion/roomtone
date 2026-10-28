@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind build a release metadata sheet.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "List the title, version, artist name, and writer and performer credits.",
+    "Record a release date placeholder and the file name.",
+    "Confirm each collaborator's name and role before an upload."
   ],
   "concept": "Metadata helps identify a release and its contributors across delivery systems. Consistent spelling and role information reduce confusion; platform-specific fields and requirements can change.",
   "exercise": "Create a metadata sheet for a demo with title, version, artist name, writer and performer credits, release date placeholder, and file name. Ask collaborators to verify their names and roles before a real upload.",

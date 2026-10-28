@@ -23,9 +23,9 @@ window.RT_LESSON_BODY = {
     "next": null
   },
   "objectives": [
-    "Understand the key idea behind use roman numerals to compare progressions.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Label each chord of a C major progression with Roman numerals.",
+    "Move the progression to G major using the same numerals.",
+    "Compare the bass motion and chord quality in each key."
   ],
   "concept": "Roman numerals label chords by scale degree and quality. They let a progression be moved to another key while preserving the relationship between chords.",
   "exercise": "Write a four-chord progression in C major and label each chord with Roman numerals. Move it to G major using the same numerals, then compare the bass motion and quality.",

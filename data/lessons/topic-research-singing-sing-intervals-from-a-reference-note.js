@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind sing intervals from a reference note.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Sing a reference note, then one scale step up, and return to it.",
+    "Try a third and a fifth from the reference note.",
+    "Check each note on an instrument and note which interval needs more practice."
   ],
   "concept": "An interval is the distance between pitches. Singing a short major-scale pattern from a known reference helps build relative pitch without requiring perfect pitch or a fixed starting note.",
   "exercise": "Play a comfortable reference pitch. Sing it, then sing up one scale step, return to the reference, and try a third and fifth. Check each note on an instrument and note which interval needs more practice.",

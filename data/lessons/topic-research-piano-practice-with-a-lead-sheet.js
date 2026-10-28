@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind practice with a lead sheet.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Play the melody of a lead sheet alone.",
+    "Add one root note per bar in a second pass.",
+    "Add a simple chord on beat one while keeping the melody audible."
   ],
   "concept": "A lead sheet gives a melody and chord symbols but leaves voicing and accompaniment open. The player can choose a simple texture that preserves the melody and makes the harmony clear.",
   "exercise": "Pick a beginner lead sheet. Play the melody alone, then add one root note per bar. In a second pass, add a simple chord on beat one while keeping the melody audible.",

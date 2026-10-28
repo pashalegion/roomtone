@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind set loudness by delivery context.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Find the recipient's current official delivery specification before a real release.",
+    "Make a practice version with comfortable peaks.",
+    "Compare it with a louder, limited version at matched playback level and note the trade-off in dynamics."
   ],
   "concept": "Different platforms and delivery specifications may apply different playback normalization and file requirements. A single loudness number is not a universal quality goal; dynamics and clipping matter too.",
   "exercise": "Find the recipient's current official delivery specification before a real release. For this practice mix, make a version with comfortable peaks and compare it to a louder limited version at matched playback level. Note the trade-off in dynamics.",

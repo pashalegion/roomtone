@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind track vocal comfort over time.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Record session length and a simple comfort rating before and after singing.",
+    "Keep the log for two weeks.",
+    "Bring recurring or persistent concerns to a qualified clinician rather than changing technique from the log alone."
   ],
   "concept": "A practice log can record duration, repertoire, sleep or illness context, and voice comfort without trying to diagnose a problem. Patterns can help a singer decide when to rest and give a clinician useful information.",
   "exercise": "For two weeks, record session length and a simple comfort rating before and after singing. Stop if symptoms arise, and bring recurring or persistent concerns to a qualified clinician rather than changing technique based only on the log.",

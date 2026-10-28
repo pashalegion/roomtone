@@ -23,9 +23,9 @@ window.RT_LESSON_BODY = {
     "next": null
   },
   "objectives": [
-    "Understand the key idea behind listen for the bass role in a full mix.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Listen separately for the kick, the bass entrances and the bass movement between vocal phrases.",
+    "Sketch the bass rhythm with simple marks.",
+    "Describe the bass role in each section of a recording."
   ],
   "concept": "Bass can reinforce a kick, outline chord roots, provide melodic motion, or answer a vocal phrase. Listening for the role before copying notes helps a player make a supportive part.",
   "exercise": "Choose a recording you can access. Listen once for the kick, once for bass entrances, and once for what the bass does between vocal phrases. Sketch the rhythm with simple marks and describe the bass role in each section.",

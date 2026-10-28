@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind use breath marks to pace a verse.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Mark phrase endings and comfortable breath points in an eight-bar verse.",
+    "Speak the verse at the planned tempo, then rap it on one pitch.",
+    "Revise any line that needs a forced breath or loses its meaning."
   ],
   "concept": "A breath or rest is part of phrasing, not an empty space to hide. Planning it around syntax and musical bars can make a verse clearer and help the performer avoid rushing.",
   "exercise": "Take an eight-bar verse and mark phrase endings and comfortable breath points. Speak it at the planned tempo, then rap it on one pitch. Revise any line that requires a forced breath or loses its meaning.",

@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind understand pitch, frequency, and octave.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Move one oscillator note up an octave and compare its frequency if the synth shows it.",
+    "Move one semitone at a time and listen for the octave arrival.",
+    "Explain why doubling a frequency raises a pitch by an octave."
   ],
   "concept": "A periodic oscillator's frequency is the number of cycles per second. Doubling frequency raises a pitch by an octave; musical notes divide that range into semitones in common equal temperament.",
   "exercise": "Hold one oscillator note and move it up one octave, then compare the displayed frequency if the synth shows it. Return to the first note and move by one semitone repeatedly, listening for the octave arrival.",

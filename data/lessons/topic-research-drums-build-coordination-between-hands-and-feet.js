@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind build coordination between hands and feet.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Tap steady eighth notes with one hand while adding the kick on beats one and three.",
+    "Keep the hand pulse unchanged as each foot change is added.",
+    "Add a backbeat with the other hand once the pattern is stable."
   ],
   "concept": "Coordination improves when each limb has a clear job and the pattern is slow enough to remain controlled. A repeated hand pulse can anchor one foot change at a time.",
   "exercise": "Tap steady eighth notes with one hand. Add the kick on beat one, then on beats one and three. Keep the hand pulse unchanged; once stable, add a backbeat with the other hand.",

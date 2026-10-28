@@ -47,6 +47,8 @@ for (const entry of index) {
     if (ref && !index.some(other => other.id === ref.id)) problems.push(`${entry.id}: nav points to missing ${ref.id}`);
   }
   if (!body.objectives?.length || !body.concept || !body.exercise || !body.mistake) problems.push(`${entry.id}: missing lesson section text`);
+  // Generic filler objectives that were pasted into research lessons; each lesson needs its own.
+  if (body.objectives?.some(item => /^(Understand the key idea behind |Apply it in a short practice task\.|Listen back and choose one specific next step\.)/.test(item))) problems.push(`${entry.id}: placeholder objective`);
   const media = [body.media, ...Object.values(body.dawMedia || {})].filter(Boolean);
   for (const item of media) if (!/^[A-Za-z0-9_-]{11}$/.test(item.video)) problems.push(`${entry.id}: video id looks malformed (${item.video})`);
   for (const link of body.resourceLinks || []) if (!/^https:\/\//.test(link.url)) problems.push(`${entry.id}: non-https link ${link.url}`);

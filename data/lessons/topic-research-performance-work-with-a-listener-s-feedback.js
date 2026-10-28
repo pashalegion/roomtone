@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind work with a listener's feedback.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Ask a trusted listener one specific question about a short recording.",
+    "Record their observation as they gave it.",
+    "Choose one change to test, not every suggestion."
   ],
   "concept": "Specific feedback is easier to apply than a general judgment. A listener can report what they heard, while the performer decides whether the observation serves the artistic goal.",
   "exercise": "Share a short recording with someone you trust and ask one question, such as whether the melody was clear or the transition felt abrupt. Record their observation and choose one change to test, not an obligation to accept every opinion.",

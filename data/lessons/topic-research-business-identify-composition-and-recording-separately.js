@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind identify composition and recording separately.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Separate the composition contributors from the recording contributors.",
+    "List the questions to answer before licensing a recording.",
+    "Recognize when a real project needs qualified advice."
   ],
   "concept": "The U.S. Copyright Office distinguishes the musical composition, including music and lyrics, from a particular sound recording. Their ownership, credits, and permissions may differ; this lesson is general information, not legal advice.",
   "exercise": "Choose a hypothetical song recorded by another performer. Make two columns: composition contributors and recording contributors. List questions you would need answered before licensing or releasing it and consult qualified advice for a real project.",

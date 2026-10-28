@@ -23,9 +23,9 @@ window.RT_LESSON_BODY = {
     "next": null
   },
   "objectives": [
-    "Understand the key idea behind build a transition that preserves a vocal.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Mark the lead phrases of two vocal tracks.",
+    "Find a gap where one vocal rests or an instrumental passage begins.",
+    "Blend so that only one lead vocal is prominent at a time."
   ],
   "concept": "Two prominent vocals can compete for attention even when beats and keys align. A transition can wait for a gap, use an instrumental intro, or hand off at a phrase boundary.",
   "exercise": "Choose two tracks with vocals and mark the lead phrases. Find a section where one vocal rests or an instrumental passage begins. Practice a blend that keeps only one lead vocal prominent at a time.",

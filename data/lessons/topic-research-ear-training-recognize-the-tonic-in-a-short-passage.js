@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind recognize the tonic in a short passage.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Hum the last note of a short tonal excerpt.",
+    "Test whether it feels settled against a likely home note.",
+    "Write down the evidence you heard for each excerpt."
   ],
   "concept": "The tonic is a perceived center in a tonal passage. Relative hearing asks how notes and chords relate to that center, allowing the same pattern to be recognized in different keys.",
   "exercise": "Listen to a short tonal excerpt. Hum the last note, then test whether it feels settled by comparing it with a likely home note on an instrument. Repeat with a second excerpt and write down the evidence you heard.",

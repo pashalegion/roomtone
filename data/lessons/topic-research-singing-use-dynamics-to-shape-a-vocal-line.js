@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind use dynamics to shape a vocal line.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Sing one short line evenly, then growing toward one word, then receding after it.",
+    "Keep each version at an easy volume.",
+    "Stop if effort rises."
   ],
   "concept": "Dynamics can change through intensity, vowel color, and articulation as well as loudness. A small contrast can communicate a phrase arc while keeping the voice at a comfortable level.",
   "exercise": "Choose one short line. Sing it at an easy volume three times: even, gently growing toward one word, and gently receding after that word. Record and compare clarity; stop if effort rises.",

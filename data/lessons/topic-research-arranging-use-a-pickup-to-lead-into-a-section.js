@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind use a pickup to lead into a section.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Add a one-beat pickup before a section's return.",
+    "Try a drum fill, a short melody and a brief rest as pickups.",
+    "Keep the arrival on time and choose the pickup that fits the mood."
   ],
   "concept": "A pickup is an event before a strong arrival. It can be melodic, rhythmic, or textural; its job is to prepare the next phrase while leaving that phrase's downbeat clear.",
   "exercise": "Create an eight-bar section and add a one-beat pickup before the return. Try a drum fill, a short melody, and a brief rest. Keep the arrival on time and compare which transition fits the mood.",

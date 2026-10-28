@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind compare two recordings of the same song.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Note changes in tempo, instrumentation, vocal delivery and arrangement.",
+    "Separate what you hear from what liner notes or historical sources tell you.",
+    "Use only authorized recordings for the comparison."
   ],
   "concept": "A composition and its sound recordings are distinct works, and different performances can change tempo, timbre, form, phrasing, and cultural meaning. Comparing versions makes interpretation audible.",
   "exercise": "Choose two authorized recordings of the same song. Note tempo, instrumentation, vocal delivery, and arrangement changes. Separate what you hear from what you learn through liner notes or historical sources.",

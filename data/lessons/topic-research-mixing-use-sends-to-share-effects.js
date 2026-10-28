@@ -23,9 +23,9 @@ window.RT_LESSON_BODY = {
     "next": null
   },
   "objectives": [
-    "Understand the key idea behind use sends to share effects.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Send two supporting parts quietly to one shared reverb return.",
+    "Adjust each send separately.",
+    "Compare the shared return with separate reverbs and keep both parts distinct."
   ],
   "concept": "A send feeds part of a track to an auxiliary effect return. Shared processing can create a coherent space while preserving each track's direct level; routing names vary across DAWs.",
   "exercise": "Send two supporting parts quietly to the same reverb return. Adjust each send separately and compare with separate reverbs. Keep the effect low enough that both parts remain distinct.",

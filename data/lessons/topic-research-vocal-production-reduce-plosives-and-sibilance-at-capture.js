@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind reduce plosives and sibilance at capture.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Record a sentence with several P and S words.",
+    "Try a pop filter and a slight change in mic angle with distance kept stable.",
+    "Note which issue changed without dulling the voice."
   ],
   "concept": "Plosives are bursts of air on consonants such as P and B; sibilance is strong high-frequency energy on sounds such as S. A pop filter, angle, and consistent distance can help at the source.",
   "exercise": "Record a sentence with several P and S words. Try a pop filter and a slight change in mic angle while keeping distance stable. Compare the original files and note which issue changed without dulling the voice.",

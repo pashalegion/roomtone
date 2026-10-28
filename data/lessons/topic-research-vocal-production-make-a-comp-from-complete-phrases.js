@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind make a comp from complete phrases.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Record three complete takes of a short section without changing position.",
+    "Mark the strongest phrase in each take.",
+    "Assemble a phrase-level comp and compare it with the best full take."
   ],
   "concept": "Comping assembles selected portions from multiple takes. Phrase-level choices often preserve continuity better than switching every word; breaths, consonants, and room tone need to remain natural.",
   "exercise": "Record three complete takes of a short section without changing position. Mark the strongest phrase in each, assemble a phrase-level comp, then compare it with the best full take and keep whichever communicates better.",

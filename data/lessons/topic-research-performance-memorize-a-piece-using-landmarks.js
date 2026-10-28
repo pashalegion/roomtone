@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind memorize a piece using landmarks.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Label the sections, transitions and one cue in a short piece.",
+    "Start from three different landmarks without playing from the beginning.",
+    "Connect the labeled sections into a continuous run."
   ],
   "concept": "Musical memory can use structural, technical, and expressive landmarks. Knowing where a section begins or what cue precedes it helps a performer recover after a lapse.",
   "exercise": "Choose a short piece and label its sections, transitions, and one cue in each. Practice starting from three different landmarks without playing from the beginning, then connect the sections.",

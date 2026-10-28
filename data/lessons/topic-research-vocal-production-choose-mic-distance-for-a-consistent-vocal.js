@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind choose mic distance for a consistent vocal.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Record the same sentence at two consistent distances with a stable input level.",
+    "Compare room reflections, plosives and tone between the two takes.",
+    "Keep the position that gives a clear voice without heavy correction."
   ],
   "concept": "Microphone distance changes room pickup, level, and tonal balance. Shure's guidance recommends testing placement and using pop filtration or a slightly off-axis angle to control plosives; the best position depends on the room and voice.",
   "exercise": "Record the same sentence at two consistent distances with a stable input level. Compare room reflections, plosives, and tone. Keep the position that gives a clear voice without requiring heavy correction.",

@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind read notes on a staff using landmarks.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Mark the G line and middle C on a treble staff.",
+    "Name five notes above and below those landmarks.",
+    "Check the note names on a keyboard."
   ],
   "concept": "Staff positions move line-to-space by step. A clef sets the reference point; once anchor notes are known, nearby notes can be identified by counting rather than memorizing every position separately.",
   "exercise": "Choose treble clef and mark the G line and middle C. Name five notes above and below those landmarks, then check on a keyboard. Repeat in bass clef if useful for your instrument.",

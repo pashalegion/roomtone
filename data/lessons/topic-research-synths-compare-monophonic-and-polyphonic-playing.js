@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind compare monophonic and polyphonic playing.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Play a single-note bass line and a three-note chord with the same patch.",
+    "Compare mono and poly modes for note stealing or retriggering.",
+    "Choose the setting that fits each role."
   ],
   "concept": "A monophonic synth plays one note at a time, while polyphonic mode permits several simultaneous notes. Voice count, legato, and retrigger behavior shape how a line or chord responds.",
   "exercise": "Use the same patch to play a single-note bass line and a three-note chord. Compare mono and poly modes, listening for note stealing or retrigger behavior. Choose the setting that fits each role.",

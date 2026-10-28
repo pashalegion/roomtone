@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind record a room tone sample.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Record 20 seconds of silence from the exact microphone position used for a take.",
+    "Listen on headphones and note any steady or intermittent noise.",
+    "Repeat after changing one room or equipment variable."
   ],
   "concept": "Room tone is the sound of the recording space when no performance is happening. It can reveal hum, traffic, fans, and other noise that may be masked during playing.",
   "exercise": "Record 20 seconds of silence from the exact microphone position used for a take. Listen on headphones, write down any steady or intermittent noise, and repeat after changing one room or equipment variable.",

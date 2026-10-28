@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind develop a motif with sequence.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Write a three-note motif.",
+    "Repeat its interval shape one scale step higher.",
+    "Compare the exact sequence with a version that fits the harmony, and keep the intentional one."
   ],
   "concept": "A sequence repeats a melodic or harmonic pattern at a different pitch. It creates continuity while moving the phrase; the pattern may need small adjustments to fit the key.",
   "exercise": "Write a three-note motif and repeat its interval shape starting one scale step higher. Compare the exact sequence with a version that changes its final note to fit the harmony. Keep the version that sounds intentional.",

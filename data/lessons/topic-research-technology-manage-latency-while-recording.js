@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind manage latency while recording.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Record a short test at your current buffer setting.",
+    "Change one buffer step and compare monitoring delay and crackles.",
+    "Note a stable recording setting and a separate playback setting if one helps."
   ],
   "concept": "Audio buffer settings trade responsiveness for processing stability. Smaller buffers can reduce monitoring delay while increasing processor demand; larger buffers can reduce dropouts during playback. Names and behavior vary by driver and device.",
   "exercise": "Record a short test at your current buffer setting. Change one step, repeat, and compare monitoring delay and crackles. Note the stable recording setting and a separate playback setting if your system benefits from one.",

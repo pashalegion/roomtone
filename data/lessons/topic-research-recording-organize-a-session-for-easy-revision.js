@@ -23,9 +23,9 @@ window.RT_LESSON_BODY = {
     "next": null
   },
   "objectives": [
-    "Understand the key idea behind organize a session for easy revision.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Name each track by its source and role.",
+    "Label takes and save a new version before a large edit.",
+    "Write a short note explaining which take is preferred and why."
   ],
   "concept": "Clear session organization makes creative decisions reversible. Consistent track names, take numbers, and dated versions help collaborators understand what is source material and what is a current edit.",
   "exercise": "Create a short session with four tracks. Name each by source and role, label three takes, save a new version before a large edit, and write a brief note explaining which take is preferred and why.",

@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind practice rhythmic dictation in layers.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Tap the beat of a short, legally accessible recording.",
+    "Write only the onset pattern for one measure.",
+    "Add rests or ties after the main pulse is stable."
   ],
   "concept": "Rhythm dictation becomes manageable when the pulse is separated from subdivisions and surface events. Listen to a short phrase repeatedly and add one layer of detail at a time.",
   "exercise": "Tap the beat of a short, legally accessible recording. Count eighth-note subdivisions, then write only the onset pattern for one measure. Replay and add rests or ties after the main pulse is stable.",

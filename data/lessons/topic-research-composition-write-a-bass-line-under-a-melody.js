@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind write a bass line under a melody.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Sing a melody and note its chord changes.",
+    "Play one root per bar under the melody.",
+    "Add a passing note only where it leads to the next root."
   ],
   "concept": "A bass line can establish harmonic roots and provide rhythmic motion. It should support the melody's register and phrasing rather than compete with its most important notes.",
   "exercise": "Sing a short melody and note its chord changes. Play one root per bar underneath, then add a short passing note only where it leads to the next root. Record both versions and compare clarity.",

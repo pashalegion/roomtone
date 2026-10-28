@@ -23,9 +23,9 @@ window.RT_LESSON_BODY = {
     "next": null
   },
   "objectives": [
-    "Understand the key idea behind edit a draft by reading it aloud.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Read a verse at its planned tempo without singing.",
+    "Circle words you stumble over or stress unnaturally.",
+    "Reread the full verse after revising one line at a time."
   ],
   "concept": "A lyric must work in sound as well as on the page. Speaking exposes awkward consonant clusters and unnatural emphasis before melody adds more demands.",
   "exercise": "Read a verse at its planned tempo without singing. Circle the words you stumble over or emphasize unnaturally. Revise one line at a time, then read the full verse again before changing the melody.",

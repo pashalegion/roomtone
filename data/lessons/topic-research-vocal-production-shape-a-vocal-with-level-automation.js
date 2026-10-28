@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind shape a vocal with level automation.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Identify one quiet word and one overly strong phrase in a vocal.",
+    "Make small gain moves around both.",
+    "Compare the full section before and after at a comfortable level."
   ],
   "concept": "Level automation can make quiet words intelligible while preserving natural dynamics. It is a broad adjustment that can reduce the work required from compression and effects later.",
   "exercise": "On a vocal recording, identify one quiet word and one overly strong phrase. Make small gain moves around them, then listen to the full section at a comfortable level before and after.",

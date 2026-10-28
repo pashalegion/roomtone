@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind write multisyllabic rhyme without filler.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "List related words and phrases for a concrete subject and a two-syllable rhyme sound.",
+    "Write four lines using only two of the possible matches.",
+    "Remove any phrase that was added only to complete the rhyme."
   ],
   "concept": "Multisyllabic rhyme links a sequence of stressed and unstressed sounds. Internal rhyme can add momentum, but meaning, pronunciation, and natural stress matter more than the number of matches.",
   "exercise": "Choose a concrete subject and a two-syllable rhyme sound. List related words and phrases, then write four lines using only two of the possible matches. Read aloud and remove any phrase included solely to complete the rhyme.",

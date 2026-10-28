@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind revise syllable count without losing the image.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Mark the stressed syllables in a line that feels crowded.",
+    "Remove one unnecessary word and try a synonym for any awkward stress.",
+    "Speak the revised line again before singing it."
   ],
   "concept": "A lyric's syllables must fit the melody's available rhythm, but strict syllable counts are not a goal by themselves. Synonyms, contractions, and changed note values can preserve meaning while improving fit.",
   "exercise": "Choose a line that feels crowded when spoken over a beat. Mark the stressed syllables, remove one unnecessary word, then try a synonym for any awkward stress. Speak it again before singing.",

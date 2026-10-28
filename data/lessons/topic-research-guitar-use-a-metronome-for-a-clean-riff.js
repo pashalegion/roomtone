@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind use a metronome for a clean riff.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Play a two-beat riff of no more than four notes with a metronome.",
+    "Record your attempts and mark where notes rush or drag.",
+    "Change the tempo only after the riff is steady."
   ],
   "concept": "A metronome makes pulse variation easier to notice, but the musical goal is a steady phrase rather than a mechanical sound. Start slowly enough to coordinate the fretting and picking motions.",
   "exercise": "Choose a two-beat riff with no more than four notes. Play it four times with a metronome, leaving one bar of rest between attempts. Record yourself and mark where the notes rush or drag before changing the tempo.",

@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind use inversions and figured bass as note order.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Play a C major triad in root position, first inversion and second inversion.",
+    "Name the lowest note in each position.",
+    "Write a simple progression using the nearest inversion."
   ],
   "concept": "An inversion reorders chord tones so a note other than the root is in the bass. In figured-bass notation, numbers describe intervals above that bass note; they indicate voice-leading structure rather than a new root by themselves.",
   "exercise": "Play a C major triad in root position, then first and second inversion. Name the lowest note in each and listen to how the same chord changes weight. Write a simple progression using the nearest inversion.",

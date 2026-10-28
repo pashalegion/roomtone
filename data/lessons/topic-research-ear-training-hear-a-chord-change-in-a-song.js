@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind hear a chord change in a song.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Mark approximate bar positions of bass changes in a repeating progression.",
+    "Listen for melody notes that change against the harmony.",
+    "Compare your chord count with a chord chart when one is available."
   ],
   "concept": "Chord changes can be heard through a shift in bass root, changes in sustained notes, or the feeling of a phrase moving toward or away from rest. Multiple cues are more reliable than one alone.",
   "exercise": "Choose a song with a repeating progression. Listen once for bass changes and mark approximate bar positions. Listen again for notes in the melody that change against the harmony, then compare your count with a chord chart if available.",

@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind prepare a low-pressure performance recording.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Record a piece from beginning to end without stopping.",
+    "Listen once for form and one expressive moment.",
+    "Choose one technical adjustment for a second take and keep both takes."
   ],
   "concept": "A one-take recording gives realistic feedback about continuity and expressive intent. Reviewing one or two specific goals is more useful than judging every imperfection at once.",
   "exercise": "Record a piece from beginning to end without stopping. Listen once for form and one expressive moment, then choose one technical adjustment for a second take. Keep both versions to notice progress.",

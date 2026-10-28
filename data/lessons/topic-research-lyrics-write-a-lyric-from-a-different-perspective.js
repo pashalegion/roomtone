@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind write a lyric from a different perspective.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Rewrite a four-line lyric from another perspective with the same setting and event.",
+    "List which details change between the two perspectives.",
+    "Judge what the listener is allowed to know in each version."
   ],
   "concept": "First-person, second-person, and third-person lyrics reveal different amounts of information. A perspective shift can be powerful when deliberate and confusing when accidental.",
   "exercise": "Take a four-line lyric and rewrite it from another perspective. Keep the same setting and central event, then compare which details change and what the listener is allowed to know.",

@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind hear tension and resolution in dominant harmony.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Play a V–I progression and sing the leading tone resolving to the tonic.",
+    "Notice how the chordal fifth moves in the same resolution.",
+    "Change the resolution and note how the expectation changes."
   ],
   "concept": "In common-practice tonal music, the dominant often creates directed tension toward tonic through scale-degree and voice-leading tendencies. Other styles use harmony differently, so this is one useful musical language, not a universal rule.",
   "exercise": "Play or listen to a simple V–I progression in a key. Sing the leading tone resolving to tonic and the chordal fifth moving as it does. Then change the resolution and note how the expectation changes.",

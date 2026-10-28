@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind estimate a release budget with free options.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Sort costs into essential, optional and already-owned columns.",
+    "Count your time as well as the money.",
+    "Choose free alternatives where they suit the song, and cut costs until the total is affordable without debt."
   ],
   "concept": "A release can use free software and self-made assets, but distribution, physical goods, promotion, or hired work may introduce costs. A budget should be based on current quotes and should not assume future income.",
   "exercise": "Make a budget for one song with essential, optional, and already-owned columns. Include time as well as money, choose free alternatives where suitable, and remove costs until the total is affordable without debt.",

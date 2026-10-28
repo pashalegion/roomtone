@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind build a timeline from primary listening sources.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Arrange five recordings with reliable dates and credits in order.",
+    "Note one audible feature in each recording.",
+    "Name at least one influence or community link that a source supports."
   ],
   "concept": "A timeline organizes change but can imply a single straight progression. Include overlaps, multiple regions, and the limits of your sources; recordings and oral histories add direct evidence.",
   "exercise": "Select five recordings with reliable dates and credits from a public archive. Arrange them chronologically, note one audible feature in each, and identify at least one influence or community connection supported by a source.",

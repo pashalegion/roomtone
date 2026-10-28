@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind check polarity and mono compatibility.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Play a mix in stereo, then in mono if your setup allows.",
+    "Note any essential part that drops in level or changes tone.",
+    "Trace the routing or timing of related tracks when a part disappears."
   ],
   "concept": "Stereo signals can partially cancel when summed, especially if related material has timing or polarity differences. Mono checking can reveal a disappearing element, but not every wide effect needs to be mono.",
   "exercise": "Play a mix in stereo, then use a mono check if your playback setup supports it. Note any essential part that drops in level or changes tone. Identify the related tracks and investigate their routing or timing.",

@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind use a click on beats two and four.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Count one, two, three, four aloud while playing a simple groove.",
+    "Supply beats one and three yourself while the click sounds on two and four.",
+    "Return to a click on every beat if the pulse drifts."
   ],
   "concept": "A click on beats two and four makes the player supply beats one and three internally. This can sharpen backbeat placement, but it is a challenge exercise, not the only correct way to practice time.",
   "exercise": "Set a metronome at a moderate tempo and treat each click as beats two and four. Count one, two, three, four aloud while playing a simple groove. If the pulse drifts, return to a click on every beat.",

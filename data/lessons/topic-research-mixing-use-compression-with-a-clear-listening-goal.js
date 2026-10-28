@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind use compression with a clear listening goal.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Apply gentle compression to a source with one unusually loud phrase.",
+    "Match the output level to the bypassed version before comparing.",
+    "Remove the compressor if it does not solve a clear level problem."
   ],
   "concept": "Compression reduces level above a threshold according to its controls. Attack and release affect transient and recovery; it is useful when a specific level change needs control, not as an obligatory insert.",
   "exercise": "Choose a source with one unusually loud phrase. Apply gentle compression and match the output level to bypass. Listen for steadier level, preserved attack, and any pumping; remove the compressor if it does not solve a clear problem.",

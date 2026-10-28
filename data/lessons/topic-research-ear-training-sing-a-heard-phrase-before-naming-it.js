@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind sing a heard phrase before naming it.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Sing back a two-bar melody on a neutral syllable.",
+    "Note one pitch or rhythm difference after replaying the source.",
+    "Map the contour before attempting note names."
   ],
   "concept": "Singing back a phrase engages inner hearing and makes its contour and rhythm easier to inspect. Naming notes can come after the phrase is remembered; relative relationships matter more than absolute pitch for this task.",
   "exercise": "Listen to a two-bar melody once, pause, and sing it back on a neutral syllable. Record yourself, replay the source, and note one pitch or rhythm difference. Repeat once, then map contour before attempting note names.",

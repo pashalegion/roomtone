@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind keep a project archive and backup.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Copy a finished demo folder to a second location.",
+    "Reopen the project from the copy to check audio, the final export and notes.",
+    "Confirm that sample permissions are in the backup."
   ],
   "concept": "A backup protects creative work from device failure and accidental changes. A useful archive includes source files, current project, exports, notes, and licenses; a separate physical or cloud location reduces single-device risk.",
   "exercise": "Copy a finished demo folder to a second location. Reopen the project from the copy and verify its audio assets, final export, contributor notes, and sample permissions are present.",

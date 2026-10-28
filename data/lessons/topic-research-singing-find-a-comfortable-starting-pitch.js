@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind find a comfortable starting pitch.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Sing a song phrase in its original key only if it is comfortable.",
+    "Move the phrase up or down until it feels easy.",
+    "Record which key keeps the words clear, and stop if strained."
   ],
   "concept": "A song can be transposed to a different key while keeping its interval pattern. Range and comfort vary day to day; the singer's task is to choose a setting that supports clear, relaxed delivery.",
   "exercise": "Choose a short song phrase. Sing it softly in the original key only if comfortable. Move it up or down with an instrument until the phrase feels easy, and record which key lets the words remain clear. Stop if strained.",

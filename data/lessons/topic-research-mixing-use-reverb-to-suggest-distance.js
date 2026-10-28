@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind use reverb to suggest distance.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Add a short reverb at low level to one lead sound.",
+    "Compare a short tail, a longer tail and a dry version at close loudness.",
+    "Listen for word or note clarity in the full mix."
   ],
   "concept": "Reverb can place a sound in a perceived space. Pre-delay, decay, and level affect clarity and distance; shared sends can make sources feel like they occupy a related environment.",
   "exercise": "Choose one lead sound and add a short reverb at low level. Compare with a longer tail and a dry version, matching loudness as closely as practical. Listen for word or note clarity in the full mix.",

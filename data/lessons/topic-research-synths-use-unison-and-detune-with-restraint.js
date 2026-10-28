@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind use unison and detune with restraint.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Compare a sustained note with unison off and with a small voice count and low detune.",
+    "Check the sound in mono and against a bass or chord part.",
+    "Keep the simplest setting that serves the arrangement."
   ],
   "concept": "Unison layers multiple oscillator voices; slight detuning can create beating and width. It can make a sound feel larger but also less focused, more CPU-intensive, or out of tune against other parts.",
   "exercise": "Play a sustained note with unison off, then add a small voice count and low detune. Compare the sound in mono and with a bass or chord part. Keep the simplest setting that serves the arrangement.",

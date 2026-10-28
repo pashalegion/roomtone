@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind set input gain without clipping.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Record the loudest expected phrase while watching the input meter.",
+    "Lower the gain if the signal clips, then listen back for distortion and noise.",
+    "Keep the clean source and set playback level later."
   ],
   "concept": "Input gain controls the level before recording. Peaks that exceed the system's limit clip and distort; a clean recording does not need to fill the meter or reach a particular loudness target.",
   "exercise": "Record the loudest expected phrase and watch the input meter. Lower gain if it clips, then listen back for distortion and noise. Keep the clean source and adjust playback level later.",

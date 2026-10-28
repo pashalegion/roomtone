@@ -23,9 +23,9 @@ window.RT_LESSON_BODY = {
     "next": null
   },
   "objectives": [
-    "Understand the key idea behind write a simple harmony line.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Add a second line to a four-bar melody on the last two beats of each phrase.",
+    "Use notes from the current chord in the harmony line.",
+    "Check that the lead melody stays clear in a recording."
   ],
   "concept": "Harmony parts can move in parallel, hold selected notes, or answer the melody. The interval and rhythm choices should complement the lead and respect the underlying chords.",
   "exercise": "Sing or play a four-bar melody. Add a second line only on the last two beats of each phrase, using notes from the current chord. Record both lines and check that the lead remains clear.",

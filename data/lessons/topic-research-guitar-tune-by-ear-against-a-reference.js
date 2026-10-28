@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind tune by ear against a reference.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Bring each string close with a tuner, then listen for beating between two open strings.",
+    "Recheck strings you already tuned after each adjustment.",
+    "Note which string needed the most attention."
   ],
   "concept": "Tuning is a listening habit as well as a setup step. Compare the open string with a steady reference, adjust gradually, then recheck the strings you already tuned because changing tension can shift them slightly.",
   "exercise": "Use a tuner to bring each string close. Then play two open strings that should form an octave or unison relationship and listen for beating. Adjust, check the tuner again, and write down which string needed the most attention.",

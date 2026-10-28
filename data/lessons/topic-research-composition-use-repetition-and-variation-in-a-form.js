@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind use repetition and variation in a form.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Write A and B sections of four bars each.",
+    "Return to A with one changed element.",
+    "Name what stayed the same and what changed."
   ],
   "concept": "Repetition helps listeners remember a theme; variation can change rhythm, register, harmony, or instrumentation while keeping a recognizable element. Form is heard through the relationships between events.",
   "exercise": "Make an A section of four bars and a B section of four bars. Return to A with one changed element, such as its final note or accompaniment. Label what stayed the same and what changed.",

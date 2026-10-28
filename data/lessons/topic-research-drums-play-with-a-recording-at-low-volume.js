@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind play with a recording at low volume.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Play only the basic groove along with a steady recording.",
+    "Describe where the drum parts change in a verse.",
+    "Listen for the bass and vocal cues while you play."
   ],
   "concept": "Playing along develops listening and ensemble timing. A low playback level lets the drummer hear the music clearly without forcing the kit louder; ear protection is appropriate when acoustic levels are high.",
   "exercise": "Choose a track with a steady beat and use hearing protection as needed. Play only the basic groove for one verse, then stop and describe where the drums change. Repeat while listening for the bass and vocal cues.",

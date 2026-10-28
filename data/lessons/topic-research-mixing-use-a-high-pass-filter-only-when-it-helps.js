@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind use a high-pass filter only when it helps.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Raise a high-pass cutoff slowly on a part with rumble, listening in the full mix.",
+    "Lower the cutoff until the source regains its body.",
+    "Compare bypassed and filtered versions at matched level."
   ],
   "concept": "A high-pass filter attenuates frequencies below its cutoff. It can reduce rumble or buildup on some parts, but useful fundamentals may also live in the low range; decisions depend on the source and arrangement.",
   "exercise": "Choose a non-bass part that contains handling noise or rumble. Raise the filter cutoff slowly while listening in the full mix, then lower it until the source regains body. Bypass and level-match the comparison.",

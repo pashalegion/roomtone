@@ -23,9 +23,9 @@ window.RT_LESSON_BODY = {
     "next": null
   },
   "objectives": [
-    "Understand the key idea behind record and evaluate a spoken demo.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Record eight bars at a comfortable level with the equipment you have.",
+    "Listen separately for intelligibility, time placement and breath.",
+    "Choose one adjustment for a second take before adding effects."
   ],
   "concept": "A dry reference take makes delivery issues easier to hear. Consistent distance and an unhurried level check help distinguish performance choices from technical problems.",
   "exercise": "Record eight bars at a comfortable level using available equipment. Listen once for intelligibility, once for time placement, and once for breath. Choose one adjustment for a second take before considering effects.",

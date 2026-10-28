@@ -23,9 +23,9 @@ window.RT_LESSON_BODY = {
     "next": null
   },
   "objectives": [
-    "Understand the key idea behind know when a problem belongs in the mix.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Identify one issue in a rough mix.",
+    "Decide whether the source tracks allow a broad master adjustment or need an independent fix.",
+    "Make the fix in the mix and compare it with the original."
   ],
   "concept": "Mastering works on the finished mix as a whole. A vocal buried under instruments, a clipped source, or an arrangement conflict may need a change to individual tracks before a final master can address it cleanly.",
   "exercise": "Listen to a rough mix and list one issue. Ask whether the source tracks would allow a broad master adjustment or whether one element needs independent level, EQ, or editing. Make the fix in the mix and compare.",

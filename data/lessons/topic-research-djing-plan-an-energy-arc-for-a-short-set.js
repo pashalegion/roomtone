@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind plan an energy arc for a short set.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Rate tracks for intensity and density, not BPM alone.",
+    "Arrange five tracks into a beginning, build, peak and release.",
+    "Explain one transition by its musical character."
   ],
   "concept": "A set's energy depends on density, rhythm, mood, familiarity, and vocal presence, not BPM alone. Contrast and breathing room can make a later peak more meaningful.",
   "exercise": "Choose five tracks you have rights to play. Rate each for intensity and density, then arrange them into a beginning, build, peak, and release. Explain one transition choice by musical character rather than tempo only.",

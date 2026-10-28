@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind add doubles and harmonies with intention.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Record a lead phrase, then a unison double and a simple harmony on the final words.",
+    "Add each layer quietly under the lead and listen for its effect on the phrase.",
+    "Keep the layer that strengthens the phrase."
   ],
   "concept": "A double reinforces the same melody, while harmony adds different pitches. Their entrances, timing, and level determine whether the layers support a lead or compete with it.",
   "exercise": "Record a lead phrase, then a unison double and a simple harmony on the final words. Listen to each layer alone, then add it quietly under the lead and choose the layer that strengthens the phrase.",

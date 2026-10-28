@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind tune a vocal with musical context in mind.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Compare an untouched take with gentle correction on one sustained note and one phrase.",
+    "Level-match the two versions before judging them.",
+    "Keep audible slides that carry expression."
   ],
   "concept": "Pitch correction can help with a specific musical problem, but key, scale, note transitions, timing, and expressive slides affect the result. The performance remains the most important source of phrasing and character.",
   "exercise": "Use a licensed or self-recorded vocal. Compare the untouched take with gentle correction on one sustained note and one phrase. Level-match them and keep audible slides that carry expression.",

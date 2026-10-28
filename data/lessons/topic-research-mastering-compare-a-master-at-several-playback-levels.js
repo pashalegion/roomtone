@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind compare a master at several playback levels.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Listen to a finished file quietly and at a moderate comfortable level.",
+    "Check that vocal, bass and transient balance stay sensible at both levels.",
+    "Use hearing protection around loud environments."
   ],
   "concept": "A master should remain intelligible at reasonable playback levels. Quiet listening can reveal hierarchy, while moderate listening helps assess tone; high playback levels are not needed for routine checks.",
   "exercise": "Listen to a finished file quietly, then at a moderate comfortable level on a second system. Note whether vocal, bass, and transient balance remain sensible. Avoid prolonged loud listening and use hearing protection around loud environments.",

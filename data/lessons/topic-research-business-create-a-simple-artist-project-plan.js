@@ -23,9 +23,9 @@ window.RT_LESSON_BODY = {
     "next": null
   },
   "objectives": [
-    "Understand the key idea behind create a simple artist project plan.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Break a one-song demo into writing, recording, revision, artwork, credits and delivery milestones.",
+    "Give each milestone one owner and a realistic date.",
+    "Add a review point where the group can reduce scope."
   ],
   "concept": "A project plan links a realistic scope to people, time, and resources. Breaking work into milestones makes it easier to see what is blocked and adjust the release plan before costs grow.",
   "exercise": "Plan a one-song demo with milestones for writing, recording, revision, artwork, credits, and delivery. Assign one owner and a realistic date to each; include a review point where the group can reduce scope.",

@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind practice a melody in short phrases.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Sing the first phrase of four bars on a comfortable syllable.",
+    "Connect the phrases into one pass.",
+    "Check pitch direction and breath points in a recording."
   ],
   "concept": "Breaking a melody into short phrases lowers memory load and gives each breath and musical idea a clear place. Connecting phrases after they are stable prevents starts and stops from becoming the final performance.",
   "exercise": "Choose four bars of a melody. Listen once, sing the first phrase on a comfortable syllable, then sing the next. Connect the phrases and record one pass to check pitch direction and breath points.",

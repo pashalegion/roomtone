@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind arrange a song for fewer instruments.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Mute one layer at a time and hear whether the melody, groove or harmony is lost.",
+    "Build a reduced version with only three roles.",
+    "Compare the reduced arrangement with the original to check the song's identity."
   ],
   "concept": "Subtractive arranging can improve clarity by exposing melody, rhythm, and essential harmony. The best reduced version preserves the song's identity rather than simply making every part quieter.",
   "exercise": "Choose a short multi-part sketch. Mute one layer at a time and note whether the melody, groove, or harmony loses something essential. Build a reduced version with only three roles and compare it with the original.",

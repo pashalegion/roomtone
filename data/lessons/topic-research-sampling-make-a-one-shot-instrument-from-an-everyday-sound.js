@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind make a one-shot instrument from an everyday sound.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Trim a sound you own into a clean one-shot.",
+    "Make three versions with different pitch or envelope settings.",
+    "Keep the version that has a clear role in a simple rhythm."
   ],
   "concept": "A one-shot is a short sample triggered once. Start point, length, pitch, and envelope determine whether a sound reads as a note, percussion, or transition.",
   "exercise": "Record a small sound you own, trim it into a clean one-shot, and make three versions with different pitch or envelope settings. Use each in a simple rhythm and keep the version that has a clear role.",

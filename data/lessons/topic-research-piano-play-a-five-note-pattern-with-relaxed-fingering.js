@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind play a five-note pattern with relaxed fingering.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Play a five-note pattern up and down slowly while saying the note names.",
+    "Listen for equal volume across the notes.",
+    "Stop if the hand feels tense."
   ],
   "concept": "A five-finger pattern isolates timing and basic coordination. Fingers stay near the keys and the wrist remains comfortable; the goal is an even sound, not finger lifting or speed.",
   "exercise": "Choose a comfortable five-note range. Play up and down slowly, saying the note names and listening for equal volume. Repeat with a different starting note and stop if the hand feels tense.",

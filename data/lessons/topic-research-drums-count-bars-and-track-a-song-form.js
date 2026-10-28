@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind count bars and track a song form.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Count four-beat bars through an intro and the first verse.",
+    "Mark where the chorus begins.",
+    "Notice the fill, lyric cue or other signal that marks a section change."
   ],
   "concept": "Counting bars in groups helps a drummer hear phrases and anticipate section changes. The count supports listening; it should not replace attention to the band, melody, or other musical cues.",
   "exercise": "Choose a song with a clear repeated section. Count four-beat bars through the intro and first verse, marking where the chorus begins. Repeat while listening for a fill, lyric cue, or other transition signal.",

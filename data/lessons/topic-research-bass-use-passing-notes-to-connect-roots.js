@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind use passing notes to connect roots.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Add one passing note on the last eighth note before the next root.",
+    "Compare a diatonic passing note with a chromatic one at low volume.",
+    "Keep the passing note short so the chord stays clear."
   ],
   "concept": "A passing note can connect stable chord tones by step or chromatic approach. Its timing and duration matter: short motion into a strong chord tone can add direction without changing the underlying progression.",
   "exercise": "Over a slow two-chord loop, play only the roots for two rounds. Add one nearby passing note on the last eighth note before the next root. Compare a diatonic approach with a chromatic one at low volume.",

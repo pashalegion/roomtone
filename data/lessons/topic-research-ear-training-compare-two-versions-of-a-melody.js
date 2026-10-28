@@ -23,9 +23,9 @@ window.RT_LESSON_BODY = {
     "next": null
   },
   "objectives": [
-    "Understand the key idea behind compare two versions of a melody.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Play a short melody in two keys or with two rhythms.",
+    "Write down which features stayed recognizable and which changed.",
+    "Describe the interval or rhythmic change between the two versions."
   ],
   "concept": "Listeners recognize melodies through relationships among notes and rhythms, not only absolute pitches. Comparing versions reveals which features carry identity and which can change.",
   "exercise": "Play the same short melody in two keys or with two rhythms. Write what remained recognizable and what changed. Sing the contour from both versions and describe the interval or rhythmic change.",

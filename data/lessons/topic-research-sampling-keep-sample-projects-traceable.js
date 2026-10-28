@@ -23,9 +23,9 @@ window.RT_LESSON_BODY = {
     "next": null
   },
   "objectives": [
-    "Understand the key idea behind keep sample projects traceable.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Build a folder with Source, Edits and Notes sections.",
+    "Record where each sample came from and what rights apply.",
+    "Name a transformed export so it points back to its source."
   ],
   "concept": "Traceable sample folders make revision and permissions easier. Keeping original files, transformed copies, source details, and license information prevents confusion when a project is shared or released.",
   "exercise": "Make a folder with Source, Edits, and Notes sections. Add one sample, write where it came from and what rights apply, then export a transformed version with a name that points back to its source.",

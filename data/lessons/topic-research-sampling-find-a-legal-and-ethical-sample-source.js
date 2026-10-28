@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind find a legal and ethical sample source.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Choose a self-recorded sound or a clearly licensed archival item.",
+    "Save the source page, rights note, creator and any attribution requirement with the project.",
+    "Leave out any sample you are not sure you may use in a release."
   ],
   "concept": "An online sound is not automatically free to reuse. Rights, license terms, attribution requirements, and cultural context all matter. The Library of Congress identifies some National Jukebox material as public domain, but check item-specific guidance and use materials respectfully.",
   "exercise": "Choose a self-recorded sound or a clearly licensed archival item. Save the source page, rights note, creator, and any attribution requirement with your project. If uncertain, do not include the sample in a release.",

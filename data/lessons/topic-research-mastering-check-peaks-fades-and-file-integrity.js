@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind check peaks, fades, and file integrity.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Listen to a rendered file from start to finish, including its ending.",
+    "Check the file on a second playback device.",
+    "Confirm the file's name, format and version."
   ],
   "concept": "A delivery check includes listening to the actual export, checking the start and end, and confirming there is no accidental clipping, missing media, or wrong version. Export settings alone cannot prove the file is correct.",
   "exercise": "Render a short finished section and reopen the output file. Listen from the start through the ending on headphones, then check it on a second playback device and confirm its name and format.",

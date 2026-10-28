@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind listen for cultural exchange and attribution.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Name the credited musicians and source context for a recording.",
+    "Describe two musical features you hear in it.",
+    "Write one question about exchange or attribution that needs more evidence."
   ],
   "concept": "Musical ideas move through communities, collaboration, migration, commerce, and power. Responsible listening names contributors and context and avoids treating borrowed material as detached from its origins.",
   "exercise": "Choose a recording that draws on multiple traditions. Research the credited musicians and source context, then describe two musical features you hear and one question about exchange or attribution that needs more evidence.",

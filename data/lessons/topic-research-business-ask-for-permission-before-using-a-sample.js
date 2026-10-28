@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind ask for permission before using a sample.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Record a sample's creator, source and rights holders where known.",
+    "Separate the rights in a recording from the rights in the underlying composition.",
+    "Replace a sample whose permission is uncertain with your own or clearly licensed sound."
   ],
   "concept": "A sample may involve rights in a recording and in the underlying composition. Public availability or a short duration does not automatically make use lawful; rules depend on the use and jurisdiction.",
   "exercise": "Choose a sample for a hypothetical release. Record its creator, source, recording owner if known, underlying work, license, intended use, and unanswered questions. If permission is uncertain, replace it with your own or clearly licensed sound.",

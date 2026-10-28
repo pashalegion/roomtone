@@ -23,9 +23,9 @@ window.RT_LESSON_BODY = {
     "next": null
   },
   "objectives": [
-    "Understand the key idea behind use effects in series and parallel.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Compare reverb then distortion with distortion then reverb on the same sound.",
+    "Blend a wet copy quietly under the dry sound, if the software allows.",
+    "Match loudness and note which arrangement role benefits."
   ],
   "concept": "Series effects process one after another; parallel processing blends a dry signal with a processed copy. Order changes the result, and a parallel blend can preserve clarity while adding space or texture.",
   "exercise": "Take a short sound and compare reverb then distortion with distortion then reverb. If the software supports it, blend a wet copy quietly under the dry sound. Match loudness and note which arrangement role benefits.",

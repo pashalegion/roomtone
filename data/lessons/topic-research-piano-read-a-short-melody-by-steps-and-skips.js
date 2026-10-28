@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind read a short melody by steps and skips.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Mark repeated notes, stepwise motion and skips with different symbols.",
+    "Clap the rhythm of a short beginner melody.",
+    "Play the melody slowly while looking one note ahead."
   ],
   "concept": "Staff reading improves by noticing intervals and repeated-note patterns rather than decoding every note in isolation. The keyboard's black-key landmarks help connect the written pitch to a physical key.",
   "exercise": "Choose a short beginner melody in a key with few accidentals. Mark repeated notes, stepwise motion, and skips with different symbols. Clap the rhythm, then play the melody slowly while looking ahead one note.",

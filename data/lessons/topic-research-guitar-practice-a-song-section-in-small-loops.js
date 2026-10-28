@@ -23,9 +23,9 @@ window.RT_LESSON_BODY = {
     "next": null
   },
   "objectives": [
-    "Understand the key idea behind practice a song section in small loops.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Identify one cause of a breakdown: fingering, transition, rhythm or memory.",
+    "Change one variable at a time while practicing a short loop.",
+    "Connect the loop to the bar before and after it once it is clean."
   ],
   "concept": "A section that repeatedly breaks down is easier to diagnose when practiced in a small loop. Identify one cause—fingering, transition, rhythm, or memory—and change one variable at a time.",
   "exercise": "Choose one or two bars from a song you have permission to learn. Play below performance tempo until you can repeat the passage three times cleanly, then connect the bar before and after it.",

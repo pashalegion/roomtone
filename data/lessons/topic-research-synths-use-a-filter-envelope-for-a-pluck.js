@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind use a filter envelope for a pluck.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Set a moderate filter cutoff on a simple saw or pulse wave.",
+    "Shorten the envelope decay until the note has a bright attack and a darker tail.",
+    "Level-match the bypass comparison."
   ],
   "concept": "A filter envelope changes cutoff over the note's duration. Amount controls how far the cutoff moves; decay controls how quickly it returns. The result can create a pluck-like brightness transient.",
   "exercise": "Choose a simple saw or pulse wave. Set a moderate filter cutoff, apply a small positive envelope amount, and shorten decay until the note has a clear bright attack and darker tail. Level-match the bypass comparison.",

@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind use cue points for phrases and recovery.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Mark an intro start, a phrase boundary and a recovery point on each track.",
+    "Jump to each cue while counting bars.",
+    "Listen for the next downbeat after every jump."
   ],
   "concept": "Cue points can mark a track's first clean beat, a section change, or a safe recovery point. Their labels should describe musical landmarks rather than replace active listening.",
   "exercise": "Choose two tracks you may play. Mark an intro start, a phrase boundary, and a later recovery point for each. Practice jumping to each cue while counting bars and listening for the next downbeat.",

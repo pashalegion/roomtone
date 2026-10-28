@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind manage gain before a transition.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Compare channel meters on two tracks at a moderate monitor level.",
+    "Trim the incoming track conservatively.",
+    "Bring the second track in during a phrase without clipping the master output."
   ],
   "concept": "Tracks can have different recorded loudness. Channel gain and meters help maintain headroom and avoid a sudden level jump; the exact controls vary by mixer and software.",
   "exercise": "Preview two tracks at a moderate monitor level. Compare channel meters, adjust trim conservatively, and bring the second track in during a phrase. Keep master output below clipping and listen to the blend outside headphones if possible.",

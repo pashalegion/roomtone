@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind match note length to the groove.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Compare notes that ring to the next attack with notes that stop before the beat.",
+    "Record both versions at the same volume.",
+    "Choose the note length that supports the groove."
   ],
   "concept": "Note duration affects separation and feel. Short notes can create a defined, rhythmic pocket; sustained notes can connect harmony or open space. The right choice depends on the kick, tempo, and style.",
   "exercise": "Play the same two-bar root pattern twice. In one pass, let each note ring to the next attack; in the other, stop each note just before the next beat. Record both with the same volume and compare which supports the groove.",

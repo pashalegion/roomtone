@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind slice a loop by musical phrase.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Mark the downbeat and phrase ending of a loop you may use.",
+    "Divide the loop into four useful chunks.",
+    "Rearrange the chunks into a new two-bar pattern and compare it with the original."
   ],
   "concept": "Slicing at phrase or transient boundaries creates material for rearrangement. A cut should start cleanly and fit the new rhythm; fades can reduce clicks when boundaries are abrupt.",
   "exercise": "Choose a loop you have permission to use. Mark its downbeat and phrase ending, then divide it into four useful chunks. Rearrange the chunks into a new two-bar pattern and compare it with the original.",

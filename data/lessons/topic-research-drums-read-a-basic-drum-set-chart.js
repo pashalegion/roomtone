@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind read a basic drum-set chart.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Use a notation key to identify the kick, snare and cymbal symbols.",
+    "Clap a chart's rhythm before playing it slowly.",
+    "Compare each bar against a recording or metronome."
   ],
   "concept": "Drum notation places different instruments on staff positions; conventions can vary by publisher. A legend or key explains which line or space represents each drum, while stems and beams indicate rhythm.",
   "exercise": "Find a beginner drum chart with a notation key. Mark the kick, snare, and cymbal symbols, then clap the rhythm before playing it slowly. Compare each bar against a recording or metronome.",

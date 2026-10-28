@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind keep a version and delivery log.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Name each version clearly in a delivery log.",
+    "Record the source mix and purpose for each version.",
+    "Reopen each file to confirm that the log matches the export."
   ],
   "concept": "Version notes prevent confusion when multiple masters exist. Include date, source mix, changes, file type, sample rate or bit depth only when relevant, and the intended recipient's specification.",
   "exercise": "Create a small delivery log for two versions of the same track. Name each clearly, note the source mix and purpose, and reopen both files to confirm the log matches the actual exports.",

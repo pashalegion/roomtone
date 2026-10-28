@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind build major and minor scales.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Build a major scale from C by counting semitones.",
+    "Build a natural minor scale from A.",
+    "Move one pattern to another root and compare the interval patterns."
   ],
   "concept": "A major scale follows whole, whole, half, whole, whole, whole, half steps. A natural minor scale has a different interval pattern. These formulas describe sound organization, not fixed emotional meanings.",
   "exercise": "Starting on C, construct a major scale by counting semitones. Starting on A, construct a natural minor scale. Play or sing each and compare their interval patterns; then move one pattern to another root.",

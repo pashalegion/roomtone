@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind trace technology's effect on musical form.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Find a reliable historical source for a recording format or instrument technology.",
+    "Compare two recordings that use that technology differently.",
+    "Write one supported link between the technology and an audible choice."
   ],
   "concept": "Technology can affect duration, performance, production, and distribution, but it does not determine musical style by itself. Historical claims should connect a documented change with recordings and people who used it.",
   "exercise": "Choose a recording format or instrument technology and find a reliable historical source. Compare two recordings that use it differently and write one supported connection between the technology and an audible choice.",

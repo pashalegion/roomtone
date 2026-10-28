@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind find a flow by speaking naturally first.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Write four lines about a specific moment without forcing a rhyme.",
+    "Mark the stressed syllables in each spoken line.",
+    "Move one phrase slightly ahead or behind the beat and compare the two recordings."
   ],
   "concept": "Flow joins syllable timing, stress, pitch contour, and the beat. Starting with natural speech preserves meaning; rhythmic edits can then create syncopation without making the line hard to understand.",
   "exercise": "Write four lines about a specific moment. Speak them over a slow beat without forcing rhyme. Mark the stressed syllables, then move one phrase slightly ahead or behind the beat and record both versions.",

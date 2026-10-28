@@ -23,9 +23,9 @@ window.RT_LESSON_BODY = {
     "next": null
   },
   "objectives": [
-    "Understand the key idea behind improvise using three chord tones.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Improvise a four-note phrase using only the current chord tones.",
+    "Leave a bar of space after each phrase.",
+    "Repeat the phrase with a changed ending and record the result."
   ],
   "concept": "Chord tones are stable starting points for improvisation. A small note set reduces choices; rhythm, repetition, and rests can make a phrase expressive before adding scale notes.",
   "exercise": "Play a slow C major chord progression. Improvise a four-note phrase using only the current chord tones, then leave one bar of space. Repeat the phrase with a changed ending and record the result.",

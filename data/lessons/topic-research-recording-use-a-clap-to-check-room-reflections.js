@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind use a clap to check room reflections.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Clap once from the planned recording position and listen for flutter or long reflections.",
+    "Record a short test, then move the mic or performer slightly.",
+    "Compare the recordings instead of relying only on the clap."
   ],
   "concept": "A sharp clap can make room reflections easier to hear, though it is only a quick check and not a full acoustic measurement. Moving the microphone or source can change the balance before treatment is considered.",
   "exercise": "Clap once from the planned recording position and listen for flutter or a long reflection. Record a short spoken or played test, move the mic or performer slightly, and compare the recording rather than relying only on the clap.",

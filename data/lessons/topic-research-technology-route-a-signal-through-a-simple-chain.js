@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind route a signal through a simple chain.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Watch each available meter from input to output during a short test.",
+    "Draw the signal path.",
+    "Mark the first stage where the level changes unexpectedly, then test again after one change."
   ],
   "concept": "Signal flow is a path from source through routing and processing to output. Following the path in order reveals where signal stops, clips, or becomes unexpectedly loud.",
   "exercise": "Make a short audio or instrument test and watch each available meter from input to output. Draw the path and mark the first stage where the level changes unexpectedly; change one setting and test again.",

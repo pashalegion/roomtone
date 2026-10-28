@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind write a melody from a spoken phrase.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Tap the natural rhythm of a spoken sentence.",
+    "Sing that rhythm on one pitch, then change only the last two notes.",
+    "Choose the melody option that keeps the sentence's meaning."
   ],
   "concept": "Speech already contains rhythm, emphasis, and pitch movement. Preserving some of those features can make a melody feel connected to its lyric; repetition and controlled variation help it become a musical phrase.",
   "exercise": "Speak one sentence about a real moment and tap its natural rhythm. Sing the rhythm on one pitch, then change only the final two notes. Record three options and choose the one that preserves the sentence's meaning.",

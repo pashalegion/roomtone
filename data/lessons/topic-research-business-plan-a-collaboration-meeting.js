@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind plan a collaboration meeting.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Write a one-page session recap with the goal, roles, next deliverable and due date.",
+    "List the file location and any open ownership or payment questions.",
+    "Ask each collaborator to confirm the notes."
   ],
   "concept": "Clear collaboration habits reduce avoidable confusion. A brief written recap can capture who will do what, which version is current, and what questions remain without pretending to replace a formal agreement.",
   "exercise": "Draft a one-page session recap for a two-person collaboration: shared goal, each person's role, next deliverable, due date, file location, and open ownership or payment questions to discuss. Ask both people to confirm the notes.",

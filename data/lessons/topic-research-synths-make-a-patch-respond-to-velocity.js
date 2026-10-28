@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind make a patch respond to velocity.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Play the same short pattern softly and strongly.",
+    "Route velocity to amplitude or filter cutoff at a modest depth.",
+    "Choose the velocity response that makes accents clear without destabilizing the sound."
   ],
   "concept": "Velocity is performance control data that an instrument may map to loudness, filter, or another parameter. Mapping changes how a patch responds; velocity should support the gesture rather than produce random volume jumps.",
   "exercise": "Play the same short note pattern softly and strongly. Route velocity to amplitude or filter cutoff at a modest depth, then record both passes and choose the response that makes accents clear without destabilizing the sound.",

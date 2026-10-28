@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind use a rest stroke and free stroke deliberately.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Play four even notes with a rest stroke, then four with a free stroke.",
+    "Keep the volume similar and listen for tone and motion.",
+    "Choose the stroke that feels controlled on neighboring strings."
   ],
   "concept": "A rest stroke comes to rest on the adjacent string after sounding a note; a free stroke moves through without landing there. The motion, tone, and practical use depend on the musical context and instrument technique.",
   "exercise": "On one string, play four even notes with a rest stroke, then four with a free stroke. Keep volume similar and listen for tone and motion. Try the phrase on two neighboring strings and choose the stroke that feels controlled.",

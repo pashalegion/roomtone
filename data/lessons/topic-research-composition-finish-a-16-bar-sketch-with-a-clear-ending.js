@@ -23,9 +23,9 @@ window.RT_LESSON_BODY = {
     "next": null
   },
   "objectives": [
-    "Understand the key idea behind finish a 16-bar sketch with a clear ending.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Build a 16-bar sketch from a motif, a variation and contrasting bars.",
+    "Return to the opening material to close the sketch.",
+    "Choose an ending that sounds deliberate on playback."
   ],
   "concept": "A finished sketch is a complete musical thought, not an arrangement with every detail polished. A clear ending can come from a final cadence, a held note, a stop, or a return to earlier material.",
   "exercise": "Create four bars of a motif, repeat with one variation, add four contrasting bars, and close by returning to the opening. Record the whole 16 bars and choose an ending that sounds deliberate.",

@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind use internal rhyme as rhythmic texture.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Add one internal rhyme to a two-bar phrase with a clear central image.",
+    "Move the second rhyme to a different beat in the next bar.",
+    "Check which version keeps the words clear."
   ],
   "concept": "Internal rhyme can create continuity within a line. Its effect depends on where the rhyming syllables fall against the beat; varied spacing can feel more natural than repeating the same pattern.",
   "exercise": "Write two bars with a clear central image. Add one internal rhyme to the first bar, then move the second rhyme to a different beat in the next bar. Record both and check which version keeps the words clear.",

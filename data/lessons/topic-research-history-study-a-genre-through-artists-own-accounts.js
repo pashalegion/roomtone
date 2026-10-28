@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind study a genre through artists' own accounts.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Pick one oral-history excerpt and note what the artist says about a musical choice or community.",
+    "Compare that account with a recording and a second source.",
+    "Note where the accounts agree and where they differ."
   ],
   "concept": "Oral histories preserve artists' perspectives and relationships, but they are situated memories rather than a single complete history. Comparing interviews, recordings, and scholarship gives a fuller account.",
   "exercise": "Use a Smithsonian or Library of Congress oral-history collection. Choose one interview excerpt, note what the artist says about a musical choice or community, then compare that account with a recording and a second source.",

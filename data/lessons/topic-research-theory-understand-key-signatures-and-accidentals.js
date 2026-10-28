@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind understand key signatures and accidentals.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Circle the pitch classes marked by a key signature in a short score.",
+    "Find one accidental that changes a note locally.",
+    "Describe the sound difference when the passage is played."
   ],
   "concept": "A key signature marks notes that are consistently altered in a passage; an accidental changes a note locally according to notation conventions. The same pitch can be written differently depending on its harmonic role.",
   "exercise": "Pick a short score with a clear key signature. Circle the marked pitch classes, then find one accidental that changes a note locally. Play the passage and describe the difference in its sound.",

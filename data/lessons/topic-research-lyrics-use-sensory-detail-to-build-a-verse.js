@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind use sensory detail to build a verse.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Write four lines set in one place with a sound, a texture and an action.",
+    "Use a specific image in place of a broad emotion word.",
+    "Check whether the scene still communicates the feeling without the emotion word."
   ],
   "concept": "Sensory details make a scene concrete and allow emotion to be inferred. A specific image can carry more meaning than a general adjective, especially when it connects to the speaker's point of view.",
   "exercise": "Write four lines set in one place. Include one sound, one texture, and one action. Remove a broad emotion word and see whether the scene still communicates the feeling.",

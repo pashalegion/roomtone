@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind set up a comfortable, balanced kit.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Adjust the seat, snare and pedal one at a time at low volume.",
+    "Check that both hands and feet can move without reaching or twisting.",
+    "Write down the setup so you can repeat it."
   ],
   "concept": "A stable setup supports repeatable movement. Seat height, pedal distance, and drum angles should let the player reach the playing surface comfortably; a setup is individual rather than one fixed geometry.",
   "exercise": "At low volume, sit at the kit and play a simple kick-snare pattern. Adjust one item at a time—seat, snare, or pedal—until both hands and feet can move without reaching or twisting. Note the setup so you can reproduce it.",

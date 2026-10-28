@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind tune a sample to a musical center.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Find a sample's strongest pitch by singing or with a tuner.",
+    "Shift the sample slightly toward a chord tone.",
+    "Compare the shifted version in the arrangement and keep the original too."
   ],
   "concept": "A tonal sample may contain a clear pitch, but transient and noisy material can be ambiguous. Tuning should be judged with the surrounding music; exact key detection tools are starting points, not guarantees.",
   "exercise": "Use a sustained, self-recorded or licensed sample. Find its strongest pitch by singing or checking with a tuner, then shift it slightly toward a chord tone. Compare in the arrangement and keep the original version.",

@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind time-stretch a loop to fit a new tempo.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Stretch a loop slightly for a slower and a faster tempo.",
+    "Listen to the transients and sustained tones after stretching.",
+    "Compare the stretched loop with a fresh performance at the target tempo."
   ],
   "concept": "Time-stretching changes duration while aiming to preserve pitch. Algorithms can smear transients or alter tone, especially with large tempo changes; a small adjustment or different loop may sound cleaner.",
   "exercise": "Use a loop you own or may reuse. Stretch it slightly to fit a slower and a faster tempo. Listen to the transients and sustained tones, then compare with a fresh performance at the target tempo.",

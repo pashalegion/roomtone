@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind play a scale in two octaves.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Play a major scale over two octaves, naming each scale degree.",
+    "Reverse the pattern while keeping every note even.",
+    "Check uncertain fretboard notes with a tuner or reference."
   ],
   "concept": "A scale is a pattern of intervals, so the same major pattern can begin on different roots. On bass, moving between strings allows a useful range while keeping the interval pattern consistent.",
   "exercise": "Choose a root you can locate. Play its major scale over two octaves slowly, naming scale degrees as you go. Reverse the pattern and keep each note even; check any uncertain fretboard note with a tuner or reference.",

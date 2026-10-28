@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind understand audio level and clipping.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Record a short test at a conservative level.",
+    "Compare a hot take with a clean one only if your equipment allows that safely.",
+    "Keep the clean take, because lowering a clipped file does not restore it."
   ],
   "concept": "Digital audio has a maximum representable level. Clipping occurs when the signal exceeds that range and creates distortion; lowering a clipped file afterward does not restore the lost waveform.",
   "exercise": "Record a short test at a conservative level, then repeat with input gain too high only if your equipment can do so safely. Compare the waveform and sound, and keep the clean take. Avoid loud playback while checking distortion.",

@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind beatgrid a track by listening for drift.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Compare a track's beats with a metronome over one minute.",
+    "Note whether the drift is steady or changes direction.",
+    "Decide whether one tempo setting is adequate for the track."
   ],
   "concept": "A beatgrid estimates beat positions; live or older recordings may vary in tempo. Listening for drift reveals whether a single tempo setting is adequate or the track needs a different matching strategy.",
   "exercise": "Choose a track with a clear pulse and compare its beats to a metronome or a second track over one minute. Note whether it drifts steadily or changes direction, then describe whether the tempo is stable.",

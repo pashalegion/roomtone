@@ -23,9 +23,9 @@ window.RT_LESSON_BODY = {
     "next": null
   },
   "objectives": [
-    "Understand the key idea behind save and compare synth patch versions.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Save a preset copy before editing a patch.",
+    "Compare one filter change and one envelope change as separate versions in the same phrase.",
+    "Name each version by its role or change, and note its settings."
   ],
   "concept": "Versioning a patch makes experiments reversible and helps identify which parameter improved the sound. A useful name records the sound role or change rather than an arbitrary number alone.",
   "exercise": "Save a preset copy before editing. Make one filter change and one envelope change in separate versions. A/B them in the same musical phrase, then keep notes about the settings and intended role.",

@@ -23,9 +23,9 @@ window.RT_LESSON_BODY = {
     "next": null
   },
   "objectives": [
-    "Understand the key idea behind plan a comfortable stage setup.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Sketch a stage layout with power, audio paths and movement space.",
+    "Pick a safe monitor position.",
+    "Check at rehearsal that you can hear without asking for excessive level."
   ],
   "concept": "A stage setup affects movement and listening. Cable paths, stand placement, monitor level, and instrument reach should be checked before performance; hearing protection may be appropriate in loud settings.",
   "exercise": "Sketch a small stage layout for your instrument and any collaborators. Mark power, audio paths, movement space, and a safe monitor position. At rehearsal, check that you can hear without asking for excessive level.",

@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind start a patch from a clear role.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Write a one-sentence brief for a bass, pluck or pad: register, note length, role and one adjective.",
+    "Use one oscillator or sample for the patch.",
+    "Change controls only when they move toward the brief."
   ],
   "concept": "A sound-design brief connects the patch to an arrangement role, register, duration, and character. It narrows choices and prevents complexity from becoming the goal by itself.",
   "exercise": "Write a one-sentence brief for a bass, pluck, or pad: register, note length, role, and one adjective. Use one oscillator or sample and change controls only when they move toward that brief.",

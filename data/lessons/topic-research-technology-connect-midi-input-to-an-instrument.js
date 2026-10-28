@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind connect midi input to an instrument.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Watch a MIDI keyboard's input activity.",
+    "Route its notes to an instrument and verify the audio meter and monitor output.",
+    "Write down the point where control becomes sound."
   ],
   "concept": "MIDI note data does not contain recorded sound. A controller sends messages to an instrument, which generates audio that must then reach an output; checking each stage isolates silence.",
   "exercise": "Play a MIDI keyboard and observe its input activity. Route it to a software or hardware instrument, then verify an audio meter and monitor output. Write down the point where control becomes sound.",

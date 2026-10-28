@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind find the black-key groups and name nearby notes.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Locate every group of two and every group of three black keys.",
+    "Name the white key to the left of each group.",
+    "Check note names with a keyboard diagram or tuner app."
   ],
   "concept": "Black keys appear in repeating groups of two and three. The white keys around these groups form reliable landmarks for naming notes and finding a requested pitch across the keyboard.",
   "exercise": "Locate every group of two black keys. Name the white key immediately to its left, then do the same for each group. Repeat with groups of three, and check note names using a keyboard diagram or tuner app.",

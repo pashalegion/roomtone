@@ -23,9 +23,9 @@ window.RT_LESSON_BODY = {
     "next": null
   },
   "objectives": [
-    "Understand the key idea behind write liner notes for one recording.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Describe one musical detail in your own words.",
+    "State two verified facts from the credits and date information.",
+    "Mark one interpretation clearly as yours and link the sources that support it."
   ],
   "concept": "Good liner notes distinguish audible description, verified facts, and interpretation. Credits, date, place, and production information help listeners understand the recording without overstating what is known.",
   "exercise": "Choose a recording with accessible credits. Write 100 words describing one musical detail, two verified facts, and one interpretation clearly marked as yours. Link the sources and revise any claim they do not support.",

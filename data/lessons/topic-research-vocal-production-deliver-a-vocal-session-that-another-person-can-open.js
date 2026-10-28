@@ -23,9 +23,9 @@ window.RT_LESSON_BODY = {
     "next": null
   },
   "objectives": [
-    "Understand the key idea behind deliver a vocal session that another person can open.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Make a vocal project folder with Audio, Session and Exports subfolders.",
+    "Name three takes consistently and save a dry reference.",
+    "Write a one-paragraph handoff note and check that the media is found on reopening."
   ],
   "concept": "A useful session handoff includes original audio, clearly named edits, project tempo, relevant version information, and a note about missing files or processing. Packaging depends on the DAW and the collaborator's needs.",
   "exercise": "Make a small vocal project folder with Audio, Session, and Exports subfolders. Name three takes consistently, save a dry reference, and write a one-paragraph handoff note. Reopen the session from the folder to confirm media is found.",

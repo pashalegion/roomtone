@@ -23,9 +23,9 @@ window.RT_LESSON_BODY = {
     "next": null
   },
   "objectives": [
-    "Understand the key idea behind blend consonants and vowels with the lyric.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Underline the main stressed vowel in a spoken lyric phrase.",
+    "Sustain that vowel through the sung note.",
+    "Place the final consonant before the next breath or phrase, as the lyric requires."
   ],
   "concept": "Consonants make lyrics intelligible, while vowels carry most sustained pitch. Coordinating them helps a line sound connected; exact diction choices vary with language, style, and tempo.",
   "exercise": "Speak a lyric phrase, underline its main stressed vowel, then sing the phrase slowly. Sustain that vowel through the note and place the final consonant before the next breath or phrase as the lyric requires.",

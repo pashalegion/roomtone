@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind use a phrase map to plan a transition.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Count bars in two tracks to find where a breakdown or new section begins.",
+    "Cue the second track at a matching phrase start.",
+    "Listen for whether its vocal or bass overlaps the first track's main event."
   ],
   "concept": "Phrases often group bars into larger musical units. Starting a new track at a phrase boundary helps drums, vocals, and harmonies change coherently, though track form varies by genre.",
   "exercise": "Count bars in two tracks and note where a breakdown or new section begins. Cue the second at a matching phrase start, then listen for whether its vocal or bass overlaps the first track's main event.",

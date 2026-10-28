@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind change register to make room.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Spot two parts that compete in the same range.",
+    "Move one part up or down an octave and compare both versions at the same level.",
+    "Keep the placement that preserves the melody and its harmonic support."
   ],
   "concept": "Register strongly affects how parts relate. Two instruments can play similar pitches and mask each other; moving one part can separate roles without changing its notes or adding effects.",
   "exercise": "Choose a melody and accompaniment that compete in the same range. Move the accompaniment up or down an octave, then compare both versions at the same level. Keep the placement that preserves the melody and harmonic support.",

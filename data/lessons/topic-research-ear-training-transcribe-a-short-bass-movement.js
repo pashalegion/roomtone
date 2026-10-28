@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind transcribe a short bass movement.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Tap the pulse and sketch whether each bass note repeats, rises or falls.",
+    "Locate the likely notes on a keyboard or bass.",
+    "Compare your map with a second listen."
   ],
   "concept": "Bass movement often clarifies chord roots and phrase direction. First track contour and rhythm; exact pitch can be checked later against an instrument or reliable reference.",
   "exercise": "Choose a short recording with a clear bass part. Tap the pulse, sketch whether each bass note repeats, rises, or falls, then locate the likely notes on a keyboard or bass. Compare your map with a second listen.",

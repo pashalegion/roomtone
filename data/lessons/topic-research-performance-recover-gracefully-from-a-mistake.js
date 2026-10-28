@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind recover gracefully from a mistake.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Mark two landmarks where you can re-enter a passage.",
+    "Stop on purpose during a practice run and listen for the next cue.",
+    "Rejoin on the next phrase without restarting the piece."
   ],
   "concept": "Live performance includes uncertainty. A recovery plan helps the player stay oriented, listen for the next phrase, and continue without magnifying a small mistake.",
   "exercise": "Choose a short passage and mark two landmarks where you can re-enter. During a practice run, intentionally stop at one point, listen for the next cue, and rejoin on the next phrase without restarting the piece.",

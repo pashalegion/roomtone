@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind mark breath points in a lyric.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Mark punctuation in a verse spoken naturally.",
+    "Mark any breath that interrupts a word or thought while singing.",
+    "Try one alternative phrase break and keep the version that feels clear."
   ],
   "concept": "Breath planning follows syntax and musical phrasing. A singer can mark places where a thought naturally pauses, then adjust the tempo or phrase if the line feels too long.",
   "exercise": "Speak a verse naturally and mark punctuation. Sing it at a comfortable volume and mark any breath that interrupts a word or thought. Try one alternative phrase break and keep the version that feels clear.",

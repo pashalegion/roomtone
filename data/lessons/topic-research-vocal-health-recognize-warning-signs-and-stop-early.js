@@ -26,9 +26,9 @@ window.RT_LESSON_BODY = {
     }
   },
   "objectives": [
-    "Understand the key idea behind recognize warning signs and stop early.",
-    "Apply it in a short practice task.",
-    "Listen back and choose one specific next step."
+    "Note before and after practice whether speaking feels normal and comfortable.",
+    "Stop singing and rest when pain, hoarseness or unusual effort appears.",
+    "Contact a clinician when symptoms persist or recur."
   ],
   "concept": "NIDCD lists hoarseness, raw or strained throat, difficulty speaking, and loss of high notes among signs of voice problems. The cause cannot be diagnosed from a lesson; persistent symptoms warrant a medical evaluation.",
   "exercise": "Before and after practice, note whether speaking feels normal and comfortable. If pain, hoarseness, or unusual effort appears, stop singing and rest. Review NIDCD guidance and contact a clinician for persistent or recurring symptoms.",
