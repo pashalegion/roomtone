@@ -193,6 +193,16 @@ test('subject lessons have no software chooser', async ({page}) => {
   await expect(page.locator('#software-section')).toHaveCount(0);
 });
 
+test('library: every shared foundation lesson is listed without choosing a subject, including the recording take', async ({page}) => {
+  await page.goto('lessons.html');
+  await expect(page.locator('a.lesson-row', {hasText: 'Record a clean take'})).toHaveCount(1);
+  await expect(page.locator('a.lesson-row[href="lesson.html?id=record-take"]')).toHaveCount(1);
+  await page.goto('lesson.html?id=arrange-loop');
+  await page.locator('.lesson-pager a.next').first().click();
+  await expect(page).toHaveURL(/id=record-take$/);
+  await expect(page.locator('.lesson-meta-line')).toContainText('Lesson 5 of 8');
+});
+
 test('library: subjects change the list and the choice survives a reload', async ({page}) => {
   await page.goto('subjects.html');
   await page.locator('.subject-card[data-id="guitar"]').click();
