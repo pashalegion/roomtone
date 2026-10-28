@@ -18,7 +18,7 @@ const pages = [
   {name: 'progress', url: 'progress.html'},
   {name: 'not found', url: '404.html'}
 ];
-const widths = [375, 1280];
+const widths = [320, 375, 1280];
 const themes = ['light', 'dark'];
 
 // Fresh browser storage for each test, with an explicit theme so both themes are exercised.
@@ -305,6 +305,19 @@ test('completing a lesson bursts a few notes that are removed within about a sec
   await page.locator('#complete').click();
   await expect(page.locator('#burst span')).toHaveCount(12);
   await expect(page.locator('#burst span')).toHaveCount(0, {timeout: 1500});
+});
+
+test('header at 320 px: the menu button stays inside the 16 px gutter, on one row, with no sideways scroll', async ({page}) => {
+  await page.setViewportSize({width: 320, height: 700});
+  for (const url of ['index.html', 'lessons.html', 'progress.html', 'lesson.html?id=first-session']) {
+    await page.goto(url);
+    await expect(page.locator('.menu-toggle')).toBeVisible();
+    const menu = await page.locator('.menu-toggle').boundingBox();
+    expect(menu.x + menu.width, url).toBeLessThanOrEqual(320 - 16);
+    const header = await page.locator('.topbar').boundingBox();
+    expect(header.height, url).toBeLessThanOrEqual(64);
+    expect(await page.evaluate(() => document.documentElement.scrollWidth - document.documentElement.clientWidth), url).toBe(0);
+  }
 });
 
 test('mobile phones keep the progress count without the word wrapping the header', async ({page}) => {
