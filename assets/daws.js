@@ -1,6 +1,6 @@
 /* Optional software picker. One choice at a time; skipping keeps the shared steps. */
 (() => {
-  const {$, $$, escapeHtml, getSoftware, setSoftware, announce} = window.Roomtone;
+  const {$, $$, escapeHtml, getSoftware, setSoftware, announce, focusAfterRender} = window.Roomtone;
   const daws = window.RT_DAWS;
   const state = {query: "", cost: "all"};
 
@@ -53,6 +53,7 @@
     const picked = daws.find(daw => daw.id === id);
     announce(next.daw ? `${picked.name} selected.` : `${picked.name} cleared.`);
     render();
+    focusAfterRender([`#grid [data-daw="${id}"]`], "#search");
   });
   $("#skip").addEventListener("click", () => {
     setSoftware({daw: null, declined: true});

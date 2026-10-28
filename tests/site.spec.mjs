@@ -152,6 +152,29 @@ test('lesson: DAW chooser is inline, can be skipped, and steps follow the chosen
   await expect(page.locator('#software-section')).toContainText('Hidden');
 });
 
+test('subjects: moving an item to the top keeps focus on its move-down button, never on the body', async ({page}) => {
+  await page.goto('subjects.html');
+  await page.locator('.subject-card[data-id="guitar"]').click();
+  await page.locator('.subject-card[data-id="bass"]').click();
+  await page.locator('#order [data-id="bass"][data-move="-1"]').click();
+  await expect(page.locator('#order [data-id="bass"][data-move="-1"]')).toBeDisabled();
+  await expect(page.locator('#order [data-id="bass"][data-move="1"]')).toBeFocused();
+  expect(await page.evaluate(() => document.activeElement.tagName)).not.toBe('BODY');
+});
+
+test('software and subject choices keep keyboard focus on the control that replaced the one pressed', async ({page}) => {
+  await page.goto('lesson.html?id=midi-groove');
+  await page.getByRole('button', {name: 'Ableton Live'}).click();
+  await expect(page.locator('#software-heading')).toHaveText('Ableton Live steps');
+  await expect(page.locator('#software-section [data-action="choose"]')).toBeFocused();
+  await page.goto('daws.html');
+  await page.locator('#grid [data-daw="ableton"]').click();
+  await expect(page.locator('#grid [data-daw="ableton"]')).toBeFocused();
+  await page.goto('subjects.html');
+  await page.locator('.subject-card[data-id="guitar"]').click();
+  await expect(page.locator('.subject-card[data-id="guitar"]')).toBeFocused();
+});
+
 test('subject lessons have no software chooser', async ({page}) => {
   await page.goto('subjects.html');
   await page.locator('.subject-card[data-id="guitar"]').click();

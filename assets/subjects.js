@@ -1,6 +1,6 @@
 /* Optional subject picker. Choices only change which lessons the library lists. */
 (() => {
-  const {$, escapeHtml, getSubjects, setSubjects, announce} = window.Roomtone;
+  const {$, escapeHtml, getSubjects, setSubjects, announce, focusAfterRender} = window.Roomtone;
   const subjects = window.RT_SUBJECTS.subjects;
   const byId = new Map(subjects.map(subject => [subject.id, subject]));
   const state = {query: "", group: "All subjects"};
@@ -62,6 +62,7 @@
     if (!button) return;
     state.group = button.dataset.group;
     renderAll();
+    focusAfterRender([`#groups [data-group="${button.dataset.group}"]`], "#search");
   });
 
   $("#grid").addEventListener("click", event => {
@@ -73,6 +74,7 @@
     save(next);
     announce(next.includes(id) ? `${byId.get(id).name} added.` : `${byId.get(id).name} removed.`);
     renderAll();
+    focusAfterRender([`#grid [data-id="${id}"]`], "#search");
   });
 
   $("#order").addEventListener("click", event => {
@@ -81,15 +83,24 @@
     const picked = chosen();
     if (move) {
       const index = picked.indexOf(move.dataset.id);
-      const target = index + Number(move.dataset.move);
+      const direction = Number(move.dataset.move);
+      const target = index + direction;
       if (index < 0 || target < 0 || target >= picked.length) return;
       [picked[index], picked[target]] = [picked[target], picked[index]];
       save(picked);
       renderAll();
-      $(`#order [data-id="${move.dataset.id}"][data-move="${move.dataset.move}"]`).focus();
+      // Moving to the top or bottom disables that arrow, so focus the other arrow for the same subject.
+      const id = move.dataset.id;
+      focusAfterRender([`#order [data-id="${id}"][data-move="${direction}"]`, `#order [data-id="${id}"][data-move="${-direction}"]`, `#order [data-remove="${id}"]`], "#search");
     } else if (remove) {
-      save(picked.filter(id => id !== remove.dataset.remove));
+      const id = remove.dataset.remove;
+      const index = picked.indexOf(id);
+      const next = picked.filter(item => item !== id);
+      save(next);
       renderAll();
+      // Focus the remove button of the subject that took its place, or the subject's card when none is left.
+      const neighbour = next.length ? `#order li:nth-child(${Math.min(index, next.length - 1) + 1}) [data-remove]` : null;
+      focusAfterRender([neighbour, `#grid [data-id="${id}"]`].filter(Boolean), "#search");
     }
   });
 

@@ -157,6 +157,13 @@
     requestAnimationFrame(() => { live.textContent = message; });
   }
 
+  // A re-render replaces the control that had focus, which would drop focus to <body>. Call this after the render with
+  // selectors for the controls to focus, most preferred first. The first one that exists and is enabled gets focus.
+  function focusAfterRender(selectors, fallback) {
+    const target = selectors.map(selector => document.querySelector(selector)).find(node => node && !node.disabled) || document.querySelector(fallback);
+    if (target) target.focus();
+  }
+
   // Logo beat: restarts a short scale pulse. Skipped under reduced motion.
   function pulseLogo() {
     const brand = $(".brand");
@@ -167,7 +174,7 @@
   }
 
   window.Roomtone = {
-    KEYS, $, $$, escapeHtml, isId, reduceMotion, announce, pulseLogo,
+    KEYS, $, $$, escapeHtml, isId, reduceMotion, announce, pulseLogo, focusAfterRender,
     getProgress, setProgress, setLastLesson, setLessonCompleted,
     getSubjects, setSubjects, getSoftware, setSoftware
   };

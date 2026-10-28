@@ -1,6 +1,6 @@
 /* Library: filters only change which lessons are listed. Choices are saved and shared with the subjects and software pages. */
 (() => {
-  const {$, $$, escapeHtml, getProgress, getSubjects, setSubjects, getSoftware, announce} = window.Roomtone;
+  const {$, $$, escapeHtml, getProgress, getSubjects, setSubjects, getSoftware, announce, focusAfterRender} = window.Roomtone;
   const lessons = window.RT_LESSON_INDEX;
   const subjects = window.RT_SUBJECTS.subjects;
   const skills = window.RT_SUBJECTS.skills;
@@ -112,6 +112,7 @@
     const added = checked.filter(id => !kept.includes(id));
     setSubjects([...kept, ...added]);
     render();
+    focusAfterRender([`#subject-options input[value="${event.target.value}"]`], "#search");
   });
   document.addEventListener("roomtone:progress", render);
 

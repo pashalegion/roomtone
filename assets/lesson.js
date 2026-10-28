@@ -1,6 +1,6 @@
 /* One lesson per URL: lesson.html?id=<id> loads only data/lessons/<id>.js, then renders in place. */
 (() => {
-  const {$, escapeHtml, isId, getProgress, setLastLesson, setLessonCompleted, getSoftware, setSoftware, reduceMotion, announce} = window.Roomtone;
+  const {$, escapeHtml, isId, getProgress, setLastLesson, setLessonCompleted, getSoftware, setSoftware, reduceMotion, announce, focusAfterRender} = window.Roomtone;
   const daws = window.RT_DAWS || [];
   const id = new URLSearchParams(location.search).get("id");
   let lesson = null;
@@ -186,6 +186,9 @@
           choosing = true;
         }
         paintSoftware();
+        // The clicked control was re-rendered. Focus the control that replaced it.
+        if (action === "choose") focusAfterRender(["#software-section .chip.active", "#software-section .chip"], "#software-section [data-action='skip']");
+        else focusAfterRender(["#software-section [data-action='choose']"], "#complete");
         return;
       }
       if (event.target.closest("#complete")) {
