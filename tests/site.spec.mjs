@@ -139,6 +139,44 @@ test('lesson: when storage fails, Mark complete says progress was not saved and 
   await expect(page.locator('#complete-note')).not.toContainText('Saved on this device');
 });
 
+test('lesson: title, description, canonical URL and Open Graph values come from the lesson that loads', async ({page}) => {
+  await page.goto('lesson.html?id=first-session');
+  await expect(page.locator('#lesson-view h1')).toBeVisible();
+  await expect(page).toHaveTitle('Set up a session that stays out of your way — Roomtone');
+  await expect(page.locator('meta[name="description"]')).toHaveAttribute('content', 'Set a useful tempo, meter, save location, and audio device before ideas pile up.');
+  await page.goto('lesson.html?id=midi-groove');
+  await expect(page.locator('#lesson-view h1')).toBeVisible();
+  await expect(page).toHaveTitle('Program a groove before you polish it — Roomtone');
+  await expect(page.locator('meta[name="description"]')).toHaveAttribute('content', 'Use a kick, backbeat, and hats to make a two-bar rhythm with a deliberate pocket.');
+  await expect(page.locator('link[rel="canonical"]')).toHaveAttribute('href', 'https://pashalegion.github.io/roomtone/lesson.html?id=midi-groove');
+  await expect(page.locator('meta[property="og:title"]')).toHaveAttribute('content', 'Program a groove before you polish it — Roomtone');
+  await expect(page.locator('meta[property="og:description"]')).toHaveAttribute('content', 'Use a kick, backbeat, and hats to make a two-bar rhythm with a deliberate pocket.');
+  await expect(page.locator('meta[property="og:url"]')).toHaveAttribute('content', 'https://pashalegion.github.io/roomtone/lesson.html?id=midi-groove');
+});
+
+test('search: every page has a favicon link, and every public page has a canonical URL and Open Graph title', async ({page}) => {
+  for (const entry of pages) {
+    await page.goto(entry.url);
+    await expect(page.locator('link[rel="icon"]'), entry.url).toHaveAttribute('href', 'favicon.ico');
+    if (entry.url === '404.html') continue;
+    await expect(page.locator('link[rel="canonical"]'), entry.url).toHaveAttribute('href', /^https:\/\/pashalegion\.github\.io\/roomtone\//);
+    await expect(page.locator('meta[property="og:title"]'), entry.url).toHaveCount(1);
+  }
+});
+
+test('search: robots.txt, sitemap.xml and favicon.ico are served and the sitemap lists the public pages only', async ({request}) => {
+  const robots = await request.get('robots.txt');
+  expect(robots.ok()).toBe(true);
+  expect(await robots.text()).toContain('Sitemap: https://pashalegion.github.io/roomtone/sitemap.xml');
+  const sitemap = await request.get('sitemap.xml');
+  expect(sitemap.ok()).toBe(true);
+  const locs = [...(await sitemap.text()).matchAll(/<loc>([^<]+)<\/loc>/g)].map(match => match[1]);
+  expect(locs).toContain('https://pashalegion.github.io/roomtone/lessons.html');
+  expect(locs).toContain('https://pashalegion.github.io/roomtone/');
+  expect(locs.some(loc => loc.includes('404.html') || loc.includes('lesson.html'))).toBe(false);
+  expect((await request.get('favicon.ico')).ok()).toBe(true);
+});
+
 test('lesson: DAW chooser is inline, can be skipped, and steps follow the chosen software', async ({page}) => {
   await page.goto('lesson.html?id=midi-groove');
   await expect(page.locator('#software-section .software-choices')).toBeVisible();

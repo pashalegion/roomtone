@@ -133,9 +133,22 @@
     setTimeout(() => { host.innerHTML = ""; }, 650);
   }
 
+  // Search results and link previews read the head, so each lesson sets its own description, canonical URL and Open Graph values.
+  // The canonical URL stays on the public site even when the page is opened from disk.
+  function setHeadTags(current) {
+    const title = `${current.title} — Roomtone`;
+    const url = new URL(`lesson.html?id=${encodeURIComponent(current.id)}`, $('link[rel="canonical"]').href).href;
+    document.title = title;
+    $('meta[name="description"]').setAttribute("content", current.summary);
+    $('link[rel="canonical"]').setAttribute("href", url);
+    $('meta[property="og:title"]').setAttribute("content", title);
+    $('meta[property="og:description"]').setAttribute("content", current.summary);
+    $('meta[property="og:url"]').setAttribute("content", url);
+  }
+
   function render(current) {
     lesson = current;
-    document.title = `${current.title} — Roomtone`;
+    setHeadTags(current);
     setLastLesson(current.id, current.title);
     $("#crumb-course").textContent = current.course.name;
     const pos = current.position;
