@@ -42,7 +42,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "wOcNo2PbJXY",
-    "title": "The ULTIMATE Release Strategy for Indie Artists in 2026",
+    "title": "The ULTIMATE Release Strategy for Indie Artists in 2026 (Futuristic Explains)",
     "creator": "One More Time",
     "note": "Use the planning ideas as prompts, then make a small, realistic project plan that fits your own time and budget."
   },

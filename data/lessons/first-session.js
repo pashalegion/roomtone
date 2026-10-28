@@ -52,13 +52,13 @@ window.RT_LESSON_BODY = {
     },
     "lmms": {
       "video": "RxufVnnHG60",
-      "title": "LMMS - Tutorial for Beginners in 11 Minutes",
+      "title": "LMMS - Tutorial for Beginners in 11 MINUTES! [ UPDATED ]",
       "creator": "Skills Factory",
       "note": "This beginner overview uses LMMS. Its setup and naming differ from paid DAWs; use the lesson steps for the current LMMS workflow."
     },
     "waveform": {
       "video": "fHmEUA9PdyA",
-      "title": "Get Started With Tracktion Waveform Free or Pro",
+      "title": "Get Started With Tracktion Waveform Free or Pro | Beginners Guide",
       "creator": "Audio Tech TV",
       "note": "This walkthrough includes Waveform Free. Follow the free-edition steps and skip any paid-only tools."
     },

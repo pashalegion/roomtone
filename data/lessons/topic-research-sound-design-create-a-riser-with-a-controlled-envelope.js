@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "PbsHKe7aFzo",
-    "title": "Tutorial de música para tráilers | Cómo crear gradas largas que suenen bien",
+    "title": "Trailer Music Tutorial | How To Create LONG Risers That Actually Sound Good",
     "creator": "Master The Score",
     "note": "Listening cue: A riser is a transition effect that increases expectation. Pause and try it in the exercise below before adding anything else."
   },

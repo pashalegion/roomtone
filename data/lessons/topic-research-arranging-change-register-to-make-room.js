@@ -45,7 +45,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "iiL3K3ewfuc",
-    "title": "Esta regla de arreglos cambiará tu música",
+    "title": "This Arrangement Rule Will Change Your Music",
     "creator": "Nathan James Larsen",
     "note": "Listening cue: Register strongly affects how parts relate. Pause and try it in the exercise below before adding anything else."
   },

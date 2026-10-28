@@ -42,7 +42,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "vLukxe-dsKg",
-    "title": "How to Stop Straining on High Notes",
+    "title": "How to Stop Straining on High Notes! 6 STEPS Right Here!",
     "creator": "Healthy Vocal Technique",
     "note": "Use this only as general education, not a diagnosis. Stop if you feel pain or persistent hoarseness; the linked NIDCD guidance remains the health reference for this lesson."
   },

@@ -33,7 +33,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "Szv32PCJfs0",
-    "title": "Mixing vs Mastering (Explained Visually and Audibly)",
+    "title": "Mixing vs. Mastering (Visual + Audio Explanation)",
     "creator": "The Songwriting Studio",
     "note": "Treat mastering as final checking and delivery. If a problem is inside the mix, return to the mix instead of trying to hide it at the end."
   },

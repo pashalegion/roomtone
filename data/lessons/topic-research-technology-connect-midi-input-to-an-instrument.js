@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "4revAw3lT4g",
-    "title": "Creación musical con MIDI | Producción musical para principiantes",
+    "title": "Making Music with MIDI | Music Production for Beginners",
     "creator": "Audio University",
     "note": "Listening cue: MIDI note data does not contain recorded sound. Pause and try it in the exercise below before adding anything else."
   },

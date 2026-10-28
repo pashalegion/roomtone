@@ -45,7 +45,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "5PBSWmjONGc",
-    "title": "Descubra las líneas de bajo de oído y mejore sus habilidades de transcripción de bajo",
+    "title": "Figure Out Bass Lines By Ear and Improve Your Bass Transcription Skills",
     "creator": "FreeBassTranscriptions",
     "note": "Listening cue: Bass movement often clarifies chord roots and phrase direction. Pause and try it in the exercise below before adding anything else."
   },

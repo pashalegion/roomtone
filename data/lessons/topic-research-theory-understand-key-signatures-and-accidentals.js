@@ -45,7 +45,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "xY9Q0R0G2jM",
-    "title": "Armadura de clave: todo lo que necesitas saber en 6 minutos",
+    "title": "Key Signatures - Everything You Need To Know in 6 minutes",
     "creator": "Brad Harrison Music",
     "note": "Listening cue: A key signature marks notes that are consistently altered in a passage; an accidental changes a note locally according to notation conventions. Pause and try it in the exercise below before adding anything else."
   },

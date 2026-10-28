@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "rn1ZejMbDR0",
-    "title": "5 patrones de acompañamiento de piano que DEBES CONOCER - Lección de piano",
+    "title": "5 Piano Accompaniment Patterns YOU SHOULD KNOW - Piano Lesson",
     "creator": "Creative Piano Academy",
     "note": "Listening cue: A broken chord plays chord tones in sequence rather than simultaneously. Pause and try it in the exercise below before adding anything else."
   },

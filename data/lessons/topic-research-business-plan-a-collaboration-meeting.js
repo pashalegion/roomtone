@@ -45,7 +45,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "Z_2TNXhHv4I",
-    "title": "PASO A PASO | Cómo crear un acuerdo de colaboración musical | Podcast de la industria musical",
+    "title": "STEP BY STEP | How To Create A Collaboration Agreement For Music | Music Business Podcast",
     "creator": "Top Music Attorney",
     "note": "This is general educational information, not legal or financial advice. Check current requirements and seek qualified help for decisions with real financial or legal consequences."
   },

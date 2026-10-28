@@ -45,7 +45,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "Or7xNdMqjjs",
-    "title": "Cómo obtener feedback de tu música de la forma correcta: 5 consejos",
+    "title": "Getting Music Feedback the Right Way - 5 Tips",
     "creator": "Bobby Borg: Music Business Education",
     "note": "Use the listening and feedback approach to ask one specific question, take notes, and choose one revision to try."
   },

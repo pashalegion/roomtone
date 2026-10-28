@@ -36,7 +36,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "Mo_MpV1R1Bs",
-    "title": "Grandes errores de rima que cometen los compositores principiantes",
+    "title": "Big RHYME MISTAKES Beginner Songwriters Make",
     "creator": "SongWriters Chop Shop",
     "note": "Listen for the choices that make the phrase clear and memorable. Keep the meaning natural when you try the idea in your own words."
   },

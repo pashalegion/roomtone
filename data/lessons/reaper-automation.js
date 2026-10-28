@@ -45,7 +45,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "Un719m_7pNc",
-    "title": "Envelopes and Automation in REAPER",
+    "title": "REAPER 5 Explained - 23. Envelopes and Automation",
     "creator": "REAPER Mania",
     "note": "Watch how an envelope controls a parameter over time. Then draw a simple move and check the automation mode first."
   },

@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "0RgCWt17Jb0",
-    "title": "Lección de composición de canciones: Cómo contrastar la estrofa y el estribillo",
+    "title": "Songwriting Lesson: How to Contrast the Verse and Chorus",
     "creator": "Berklee Online",
     "note": "Listening cue: Section contrast helps a listener recognize a hook. Pause and try it in the exercise below before adding anything else."
   },

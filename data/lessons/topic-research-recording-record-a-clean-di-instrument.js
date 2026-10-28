@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "2FKXpUD3TWY",
-    "title": "Bass Guitar | Tracking With Direct Injection (DI)",
+    "title": "Bass Guitar | Tracking With Direct Injection (Di) | Get That Album Sound",
     "creator": "Puremix",
     "note": "Notice the direct input path and level checks. Use the exercise to make a clean source recording before processing."
   },

@@ -45,7 +45,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "HBG1SmWMMls",
-    "title": "Todo lo que necesitas saber para arreglar música",
+    "title": "Everything You Need to Know to Arrange Music",
     "creator": "Tabletop Composer",
     "note": "Listening cue: A musical conversation can use call and response, complementary rhythms, or a contrasting register. Pause and try it in the exercise below before adding anything else."
   },

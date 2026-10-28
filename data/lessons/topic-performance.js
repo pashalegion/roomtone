@@ -33,7 +33,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "f2O6mQkFiiw",
-    "title": "How to Practice Effectively for Just About Anything",
+    "title": "How to practice effectively...for just about anything - Annie Bosler and Don Greene",
     "creator": "TED-Ed",
     "note": "Choose a small, observable target and a tempo where you can succeed cleanly. Raise difficulty only after consistency improves."
   },

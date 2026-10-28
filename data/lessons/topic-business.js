@@ -33,7 +33,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "GpDu935nV_A",
-    "title": "Publishing Breakdown as a Songwriter",
+    "title": "Publishing Breakdown As A Song Writer",
     "creator": "Gems the Podcast",
     "note": "This is an introduction, not legal advice. Record contributors and permissions while they are easy to confirm, and get qualified help for real release agreements."
   },

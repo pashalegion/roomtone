@@ -33,7 +33,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "Am18ZxKgi_g",
-    "title": "40,000 Years of Music Explained in 8 Minutes",
+    "title": "40,000 years of music explained in 8 minutes | Michael Spitzer",
     "creator": "Big Think",
     "note": "Use this as a starting point, not a complete history. Compare sources and seek out voices connected to the tradition you are studying."
   },

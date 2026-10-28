@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "jkH2huVRmjU",
-    "title": "LUFS explicado - Terminología de producción musical 📗 #productor",
+    "title": "LUFS Explained - Music Production Terminology 📗 #producer",
     "creator": "Ben Kestok",
     "note": "Listening cue: A delivery check includes listening to the actual export, checking the start and end, and confirming there is no accidental clipping, missing media, or wrong version. Pause and try it in the exercise below before adding anything else."
   },

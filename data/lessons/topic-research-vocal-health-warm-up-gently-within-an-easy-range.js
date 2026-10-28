@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "Plm0T4xQWFw",
-    "title": "El MEJOR calentamiento vocal para cantantes: Canta mejor en 10 minutos",
+    "title": "The BEST Vocal Warm-Up For Singers - Better Singing in 10 Minutes",
     "creator": "Singeo",
     "note": "This is supplementary education, not medical advice. Keep practice comfortable, stop if symptoms appear, and use the linked NIDCD guidance for health information."
   },

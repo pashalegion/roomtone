@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "Mlk3y9Ljzn0",
-    "title": "Cómo obtener permiso para usar una canción en una película o video - Preguntas y respuestas sobre...",
+    "title": "How To Get Permission to Use a Song in a Film or Video - Entertainment Law Asked & Answered",
     "creator": "Gordon Firemark",
     "note": "This is general educational information, not legal or financial advice. Check current requirements and seek qualified help for decisions with real financial or legal consequences."
   },

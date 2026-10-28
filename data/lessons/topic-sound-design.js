@@ -33,7 +33,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "MVDxvSN0kas",
-    "title": "Sound Design 101: Oscillators, Filters, Envelopes & LFOs",
+    "title": "Sound Design 101: Brent March Explains Oscillators, Filters, Envelopes & LFOs (Beginner Synth Guide)",
     "creator": "ADSR Music Production Tutorials",
     "note": "Use the controls in a useful order: source first, then tone, movement, and space. Recheck the sound in the arrangement."
   },

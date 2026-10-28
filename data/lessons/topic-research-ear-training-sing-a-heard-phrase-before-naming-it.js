@@ -45,7 +45,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "Wzqa44N-sIU",
-    "title": "Ejercicios y técnicas básicas de entrenamiento auditivo para PRINCIPIANTES COMPLETOS",
+    "title": "Basic Ear Training Exercises and Techniques for COMPLETE BEGINNERS",
     "creator": "Noah Kellman",
     "note": "Listening cue: Singing back a phrase engages inner hearing and makes its contour and rhythm easier to inspect. Pause and try it in the exercise below before adding anything else."
   },

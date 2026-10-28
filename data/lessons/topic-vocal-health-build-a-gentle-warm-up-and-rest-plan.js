@@ -45,7 +45,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "TDlVPOmMtD0",
-    "title": "Calentamiento vocal suave para cantantes | Calentamiento vocal rehabilitador | Calentamiento voca...",
+    "title": "Gentle VOCAL WARM UP for SINGERS | Rehabilitative vocal warmups | 15 minute vocal warmup",
     "creator": "Vocal Warmups with Kathleen",
     "note": "This is a gentle practice reference, not medical advice. Stay in a comfortable range and stop if your voice feels strained; the linked NIDCD guidance is the health reference."
   },

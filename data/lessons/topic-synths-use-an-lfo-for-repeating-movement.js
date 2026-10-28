@@ -36,7 +36,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "N2zoTUoMJbc",
-    "title": "Vital: Consejos, trucos e ideas sobre los LFO",
+    "title": "Vital: Tips, tricks and ideas about LFOs",
     "creator": "platipo",
     "note": "Listening cue: An LFO is a repeating control signal, often routed to pitch, filter, or volume. Pause and try that idea in the exercise below before adding anything else."
   },

@@ -36,7 +36,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "VXD0p_g_UTg",
-    "title": "Toca el piano con dos manos (practica estos 10 ejercicios fáciles)",
+    "title": "Play with 2 Hands on Piano (Practice these 10 Easy Exercises)",
     "creator": "Learn Piano with Jazer Lee",
     "note": "Listening cue: Coordination improves when each hand has a simple, repeatable job. Pause and try that idea in the exercise below before adding anything else."
   },

@@ -36,7 +36,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "SH75AIbuvJg",
-    "title": "Fundamentos de teoría 1: Grados de la escala #teoríamusical #acordes #teoriamusical #compositor",
+    "title": "Theory Basics 1: Scale Degrees #musictheory #chords #teoriamusical #composer",
     "creator": "Dr. Guy Shkolnik Composer",
     "note": "Listening cue: Scale-degree numbers describe a note's position relative to the key center. Pause and try that idea in the exercise below before adding anything else."
   },

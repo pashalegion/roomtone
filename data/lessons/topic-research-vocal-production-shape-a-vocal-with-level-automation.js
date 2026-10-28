@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "gk65CIDxmTk",
-    "title": "Cómo automatizar tus voces con Waves Vocal Rider 🎙️ #producciónmusical",
+    "title": "How to automate your vocals with Waves Vocal Rider 🎙️ #musicproduction",
     "creator": "No 1 Beats",
     "note": "Listening cue: Level automation can make quiet words intelligible while preserving natural dynamics. Pause and try it in the exercise below before adding anything else."
   },

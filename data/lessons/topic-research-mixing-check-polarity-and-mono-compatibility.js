@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "a_kalm43RqU",
-    "title": "Cómo comprobar la compatibilidad mono de tu mezcla",
+    "title": "How To Check Your Mix For MONO COMPATIBILITY",
     "creator": "Spaces",
     "note": "Listening cue: Stereo signals can partially cancel when summed, especially if related material has timing or polarity differences. Pause and try it in the exercise below before adding anything else."
   },

@@ -38,7 +38,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "aVZebxlMJa0",
-    "title": "¡Usa efectos de envío como un profesional!",
+    "title": "Use SEND FX like a Pro!",
     "creator": "Kohs",
     "note": "Listening cue: A send feeds part of a track to an auxiliary effect return. Pause and try it in the exercise below before adding anything else."
   },

@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "fvned4rxkpE",
-    "title": "Guía sencilla paso a paso para aprender partituras principales | Guía definitiva para aprender ac...",
+    "title": "Simple Step-by-Step Guide for Learning Lead Sheets | Ultimate Roadmap to Piano Chords (7/7)",
     "creator": "Piano Roadmap",
     "note": "Listening cue: A lead sheet gives a melody and chord symbols but leaves voicing and accompaniment open. Pause and try it in the exercise below before adding anything else."
   },

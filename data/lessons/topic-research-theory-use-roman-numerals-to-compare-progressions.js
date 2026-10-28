@@ -42,7 +42,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "M2skX-SNIvA",
-    "title": "Cómo funciona el sistema de números romanos: teoría musical",
+    "title": "How the Roman Numeral System Works - Music Theory",
     "creator": "Michael New",
     "note": "Listening cue: Roman numerals label chords by scale degree and quality. Pause and try it in the exercise below before adding anything else."
   },

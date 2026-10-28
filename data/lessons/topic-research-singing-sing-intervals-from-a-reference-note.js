@@ -45,7 +45,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "p-Cgvzn3m2U",
-    "title": "Entrenamiento auditivo: Secretos del canto a intervalos Ejercicio 1",
+    "title": "Ear Training: Secrets of Interval Singing Exercise 1",
     "creator": "Rick Beato",
     "note": "Listening cue: An interval is the distance between pitches. Pause and try it in the exercise below before adding anything else."
   },

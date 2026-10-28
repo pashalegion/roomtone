@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "yyow9osYbxQ",
-    "title": "Mejora tu técnica de dedos alternados en el bajo - Nivel intermedio",
+    "title": "Improve your Two Finger Alternate Picking on Bass Guitar - Intermediate",
     "creator": "TalkingBass - Online Bass Lessons",
     "note": "Listening cue: Alternating index and middle fingers can distribute repeated plucks. Pause and try it in the exercise below before adding anything else."
   },

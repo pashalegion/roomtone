@@ -33,7 +33,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "UcQ2AIeoV_0",
-    "title": "How to Use ADSR Envelopes: Attack, Decay, Sustain & Release",
+    "title": "HOW TO USE ADSR ENVELOPES | Attack, Decay, Sustain & Release (SYNTHESIZER FOR BEGINNERS LESSON 16)",
     "creator": "Screech House",
     "note": "Hold the oscillator and notes steady while changing the envelope; that makes the effect of each stage easier to hear."
   },

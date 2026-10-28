@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "du07aMdkG44",
-    "title": "1 micrófono vs. 2 micrófonos: Cómo grabar una guitarra acústica (con Rode NT1 y Shure SM57)",
+    "title": "1 Microphone vs 2 Microphones - How to Record Acoustic Guitar (With Rode NT1 and Shure SM57)",
     "creator": "AudioHaze",
     "note": "Listening cue: Mic placement is a tonal choice. Pause and try it in the exercise below before adding anything else."
   },

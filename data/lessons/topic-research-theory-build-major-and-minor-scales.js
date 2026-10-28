@@ -45,7 +45,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "6BP6KNmihV0",
-    "title": "Descifrando el código de las escalas mayores: tonos y semitonos",
+    "title": "Cracking the Code of Major Scales: Whole & Half Steps",
     "creator": "Soundfly",
     "note": "Follow the whole-step and half-step pattern, then build the scale yourself from a different starting note."
   },

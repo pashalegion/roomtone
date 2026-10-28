@@ -45,7 +45,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "zit6I7EPMto",
-    "title": "Control de la inflamación de las cuerdas vocales: Una forma sencilla de detectar los primeros sig...",
+    "title": "Vocal Cord Swelling Checks: A Simple Way to Detect the Early Signs of Vocal Injury",
     "creator": "Laryngopedia",
     "note": "This is supplementary education, not medical advice. Keep practice comfortable, stop if symptoms appear, and use the linked NIDCD guidance for health information."
   },

@@ -45,7 +45,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "1CVAioTPKLI",
-    "title": "Introducción a la elaboración de presupuestos para giras musicales: Cómo planificar una gira rent...",
+    "title": "Music Tour Budgeting 101: Planning a Profitable Tour",
     "creator": "The Final Advance",
     "note": "This is general educational information, not legal or financial advice. Check current requirements and seek qualified help for decisions with real financial or legal consequences."
   },

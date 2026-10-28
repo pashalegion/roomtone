@@ -33,7 +33,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "H5f1Nlni7Mo",
-    "title": "Understanding Signal Flow: The Journey from Sound to Studio",
+    "title": "2. Understanding Signal Flow: The Journey from Sound to Studio",
     "creator": "No Need to Vanish",
     "note": "Follow the meters from source to speaker. MIDI is control information; audio appears when a sound source turns it into sound."
   },

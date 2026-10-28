@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "dPd8ia9tWxk",
-    "title": "Basic soundboard signal flow for live sound, from mixer to speakers",
+    "title": "Basic soundboard signal flow for live sound, from mixer to speakers.",
     "creator": "Stage Seminars",
     "note": "Trace the signal from input through the mixer to the speakers, then sketch the chain for your own setup."
   },

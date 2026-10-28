@@ -45,7 +45,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "6zOY29tGKgU",
-    "title": "Convierte CUALQUIER One-Shot en un instrumento en FL Studio",
+    "title": "Turn ANY One-Shot Sample Into an Instrument in FL Studio",
     "creator": "Strundellsnaas",
     "note": "Listening cue: A one-shot is a short sample triggered once. Pause and try it in the exercise below before adding anything else."
   },

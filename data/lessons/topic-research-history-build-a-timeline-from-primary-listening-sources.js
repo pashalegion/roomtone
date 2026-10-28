@@ -45,7 +45,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "MA4y4BA4SIk",
-    "title": "Avance del curso de Historia de la Música",
+    "title": "Music History Course Preview | Liberty Park Music",
     "creator": "Liberty Park Music",
     "note": "Use the survey as a starting point, then build your own timeline from the recordings and sources in the lesson."
   },

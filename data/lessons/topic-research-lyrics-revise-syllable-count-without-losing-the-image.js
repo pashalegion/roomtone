@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "zIlO1jeTSNc",
-    "title": "Herramientas y técnicas de composición: Uso correcto del acento silábico | Sílabas | Melodías | L...",
+    "title": "Songwriting Tools & Techniques: Using Proper Syllabic Stress | Syllables | Melodies | Lyrics | Words",
     "creator": "Berklee Online",
     "note": "Listening cue: A lyric's syllables must fit the melody's available rhythm, but strict syllable counts are not a goal by themselves. Pause and try it in the exercise below before adding anything else."
   },

@@ -33,7 +33,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "vEaRjt32kzc",
-    "title": "Mic Position Matters: How to Record and Set Up Vocals",
+    "title": "Mic Position MATTERS - How to Record and Set Up Vocals (Vocal Recording Tutorial with the Rode NT1)",
     "creator": "AudioHaze",
     "note": "Keep mic distance consistent for the test and full takes. Choose takes for feeling and clarity before polishing them with effects."
   },

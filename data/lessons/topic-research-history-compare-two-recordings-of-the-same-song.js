@@ -45,7 +45,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "MtdyUhfK7EE",
-    "title": "Comparing same song: unmixed, mixed and mastered",
+    "title": "comparing same song unmixed, mixed and mastered - Audio Engineering comparison",
     "creator": "Paul The Trombonist",
     "note": "Compare what changes between versions, then apply the same focused listening to two performances or arrangements of one song."
   },

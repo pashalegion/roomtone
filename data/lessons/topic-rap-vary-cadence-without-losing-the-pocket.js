@@ -36,7 +36,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "SBQxEPnnYAA",
-    "title": "La ciencia del rap: la cadencia de cuatro compases y la creación de flujos musicales de rap",
+    "title": "The Science of Rap: The Four Bar Cadence and creating musical rap flows",
     "creator": "Mazbou Q",
     "note": "Listen for the choices that make the phrase clear and memorable. Keep the meaning natural when you try the idea in your own words."
   },

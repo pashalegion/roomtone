@@ -36,7 +36,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "HZmImX9p6Cc",
-    "title": "Creación de líneas de bajo: lección sobre tónica, quinta y octava",
+    "title": "Creating Bass Lines - Root Five Octave lesson",
     "creator": "Eastern Suburbs School of Music",
     "note": "Listening cue: The root names the chord; its fifth and octave reinforce it without adding dense harmony. Pause and try that idea in the exercise below before adding anything else."
   },

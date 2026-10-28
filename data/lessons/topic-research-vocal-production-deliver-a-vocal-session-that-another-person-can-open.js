@@ -38,7 +38,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "PlXiD6NzldU",
-    "title": "Cómo un productor/ingeniero ganador del GRAMMY graba voces: explicado en 5 minutos",
+    "title": "How a GRAMMY winning producer/engineer records vocals - explained in 5 minutes",
     "creator": "Love Science Music",
     "note": "Listening cue: A useful session handoff includes original audio, clearly named edits, project tempo, relevant version information, and a note about missing files or processing. Pause and try it in the exercise below before adding anything else."
   },

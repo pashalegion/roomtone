@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "yi0J9JsRdI4",
-    "title": "La forma CORRECTA de usar compresión: Tutorial detallado de mezcla",
+    "title": "The RIGHT way to use Compression - Detailed Mixing Tutorial",
     "creator": "In The Mix",
     "note": "Listening cue: Compression reduces level above a threshold according to its controls. Pause and try it in the exercise below before adding anything else."
   },

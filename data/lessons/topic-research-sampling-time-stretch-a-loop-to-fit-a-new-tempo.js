@@ -45,7 +45,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "Ke3W0-7Zqhg",
-    "title": "Cómo estirar el tiempo de las muestras en MPC SAMPLE",
+    "title": "How to time stretch samples in MPC SAMPLE",
     "creator": "Killa Vic ",
     "note": "Listening cue: Time-stretching changes duration while aiming to preserve pitch. Pause and try it in the exercise below before adding anything else."
   },

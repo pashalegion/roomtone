@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "r38vJKDWlio",
-    "title": "Cómo hacer comping de voces en Logic Pro: El método completo",
+    "title": "How To Comp Vocals in Logic Pro: The Complete Method",
     "creator": "Chris Sangster",
     "note": "Watch how complete phrase takes are compared and assembled; adapt the same listening decisions in any editor."
   },

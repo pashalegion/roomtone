@@ -42,7 +42,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "AHxft6LIodw",
-    "title": "REAPER Buffer Size Tutorial: Fix Latency and Audio Crackling Fast",
+    "title": "Reaper Buffer Size Tutorial Fix Latency and Audio Crackling Fast",
     "creator": "Jared B.",
     "note": "Use the buffer explanation as one troubleshooting option. Change one setting at a time and confirm whether the result improves."
   },

@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "19Ia8zmNqFo",
-    "title": "Cómo crear pistas con cuadrícula rítmica en Rekordbox - Tutorial gratuito de DJ",
+    "title": "How To Beatgrid Tracks In Rekordbox - Free DJ Tutorial",
     "creator": "Digital DJ Tips",
     "note": "Listening cue: A beatgrid estimates beat positions; live or older recordings may vary in tempo. Pause and try it in the exercise below before adding anything else."
   },

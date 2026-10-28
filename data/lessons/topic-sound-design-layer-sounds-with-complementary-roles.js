@@ -36,7 +36,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "673R2Ht3g58",
-    "title": "Producción musical en 2 minutos: Cómo superponer sonidos",
+    "title": "Music Production in 2 Minutes: How to Layer Sounds",
     "creator": "Hyperbits",
     "note": "Listening cue: Layers work best when they contribute different qualities, such as attack and sustain or low and high register. Pause and try that idea in the exercise below before adding anything else."
   },

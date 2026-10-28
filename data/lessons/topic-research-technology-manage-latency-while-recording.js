@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "HG_Jj7g571g",
-    "title": "Tamaño óptimo de búfer para mezclar y grabar [Explicación del tamaño del búfer]",
+    "title": "Best Buffer Size For Mixing & Recording [Buffer Size Explained]",
     "creator": "Orpheus Audio Academy",
     "note": "Listening cue: Audio buffer settings trade responsiveness for processing stability. Pause and try it in the exercise below before adding anything else."
   },

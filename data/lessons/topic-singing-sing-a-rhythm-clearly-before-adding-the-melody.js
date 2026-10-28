@@ -36,7 +36,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "96KWLPo1Fpg",
-    "title": "Mejor dicción al cantar: ¡HAZ QUE TUS CANCIONES COBREN VIDA!",
+    "title": "Better Diction in Singing - MAKE YOUR SONGS COME TO LIFE!",
     "creator": "Healthy Vocal Technique",
     "note": "Listening cue: A singer can separate rhythmic accuracy from pitch by speaking or singing the lyric on one comfortable note. Pause and try that idea in the exercise below before adding anything else."
   },

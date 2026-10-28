@@ -45,7 +45,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "AljwFZMojV4",
-    "title": "Dinámica en el canto: ¡Domina las opciones de VOLUMEN y TEXTURA!",
+    "title": "Dynamics in Singing - Master Choices in VOLUME & TEXTURE!",
     "creator": "Healthy Vocal Technique",
     "note": "Listening cue: Dynamics can change through intensity, vowel color, and articulation as well as loudness. Pause and try it in the exercise below before adding anything else."
   },

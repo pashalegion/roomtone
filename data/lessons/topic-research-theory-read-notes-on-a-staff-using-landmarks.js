@@ -45,7 +45,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "jSOU-J9KHbg",
-    "title": "Cómo leer notas rápidamente - El sistema Landmark",
+    "title": "How to Read Notes Fast - The Landmark System",
     "creator": "Musicians Inspired",
     "note": "Listening cue: Staff positions move line-to-space by step. Pause and try it in the exercise below before adding anything else."
   },

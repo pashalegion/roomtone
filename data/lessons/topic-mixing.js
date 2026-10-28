@@ -33,7 +33,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "qUGxA2ep8wI",
-    "title": "The World's Shortest Mixing Course You'll Ever Need",
+    "title": "THE worlds shortest mixing course you'll ever need",
     "creator": "Andrew Barr",
     "note": "Make the rough balance at a comfortable listening level and compare changes at similar loudness."
   },

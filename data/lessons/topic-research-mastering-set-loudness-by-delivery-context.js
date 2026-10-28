@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "fWQf-V0e-M0",
-    "title": "La forma más rápida de obtener un máster limpio y POTENTE",
+    "title": "The fastest way to a clean and LOUD master",
     "creator": "Jackson Mixed It",
     "note": "Listening cue: Different platforms and delivery specifications may apply different playback normalization and file requirements. Pause and try it in the exercise below before adding anything else."
   },

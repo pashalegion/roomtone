@@ -38,7 +38,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "-wxD_w8ZdOU",
-    "title": "El problema con los tutoriales de masterización en línea",
+    "title": "The Problem With Online Mastering Tutorials",
     "creator": "In The Mix",
     "note": "Listening cue: Mastering works on the finished mix as a whole. Pause and try it in the exercise below before adding anything else."
   },

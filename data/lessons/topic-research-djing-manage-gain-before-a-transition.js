@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "j1P2T3X5mEQ",
-    "title": "Cómo mezclar como un profesional: transiciones de DJ perfectas siempre",
+    "title": "How to Mix Like a Pro: Perfect DJ Transitions Every Time",
     "creator": "Thozi",
     "note": "Listening cue: Tracks can have different recorded loudness. Pause and try it in the exercise below before adding anything else."
   },

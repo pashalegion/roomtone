@@ -33,7 +33,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "5hgRt8pwWRc",
-    "title": "Beginner Piano Chord Practice: All 24 Major and Minor Triads",
+    "title": "Beginner Piano Chord Practice: All 24 major and minor triads in root position.",
     "creator": "Shaffer Media",
     "note": "Track the middle note: lowering the third by one semitone changes a major triad into minor."
   },

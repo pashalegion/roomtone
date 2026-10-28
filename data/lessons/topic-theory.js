@@ -33,7 +33,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "-KzJFzb-HQg",
-    "title": "Triads: Everything You Need to Know",
+    "title": "Triads: Everything You Need To Know.",
     "creator": "Brad Harrison Music",
     "note": "Describe the intervals first. Major and minor can suggest different colors, but context—not a fixed emotion—shapes what a chord means."
   },

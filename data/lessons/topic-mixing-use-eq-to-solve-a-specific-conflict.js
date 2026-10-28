@@ -36,7 +36,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "RIuqjFP2cHg",
-    "title": "Cómo convertirse en un maestro de la inteligencia emocional (en solo 15 minutos)",
+    "title": "How To Become a Master at EQ (in Only 15 Minutes)",
     "creator": "Akayo",
     "note": "Listen for the small, deliberate change being demonstrated. Compare at similar loudness and keep an untouched source so you can undo experiments."
   },

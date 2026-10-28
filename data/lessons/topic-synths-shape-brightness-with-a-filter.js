@@ -36,7 +36,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "5-3rzTwkO0I",
-    "title": "Tutorial de diseño sonoro: Entendiendo los filtros Pt. 1/3 - Filtro paso bajo con Evan Sutton",
+    "title": "Sound Design Tutorial: Understanding Filters Pt. 1/3 - Low-pass w/ Evan Sutton",
     "creator": "Dubspot",
     "note": "Listening cue: A low-pass filter reduces high-frequency content above its cutoff. Pause and try that idea in the exercise below before adding anything else."
   },

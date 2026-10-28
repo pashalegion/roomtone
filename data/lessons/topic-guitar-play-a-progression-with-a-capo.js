@@ -36,7 +36,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "Ky8uOOfI2tY",
-    "title": "Cómo usar un capo de guitarra para cambiar la tonalidad de una canción",
+    "title": "How to Use a Guitar Capo to Change a Song's Key",
     "creator": "JustinGuitar",
     "note": "Listening cue: A capo raises the open strings together. Pause and try that idea in the exercise below before adding anything else."
   },

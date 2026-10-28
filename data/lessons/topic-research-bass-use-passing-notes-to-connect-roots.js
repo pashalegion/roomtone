@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "JwiMr8ZbgR8",
-    "title": "Cómo tocar la nota de paso en el bajo: muy fácil para principiantes",
+    "title": "How To Play Passing Note on Bass Guitar - Very Easy For Beginners",
     "creator": "Yaw Bass Lessons",
     "note": "Listening cue: A passing note can connect stable chord tones by step or chromatic approach. Pause and try it in the exercise below before adding anything else."
   },

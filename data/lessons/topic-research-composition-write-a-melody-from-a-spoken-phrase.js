@@ -45,7 +45,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "WMTV-HVDq9Q",
-    "title": "Cómo escribir una melodía vocal (de forma sencilla)",
+    "title": "How to Write a Vocal Melody (the easy way)",
     "creator": "SongWriters Chop Shop",
     "note": "Listening cue: Speech already contains rhythm, emphasis, and pitch movement. Pause and try it in the exercise below before adding anything else."
   },

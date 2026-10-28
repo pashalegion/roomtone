@@ -36,7 +36,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "1G-8_-u_P6A",
-    "title": "12 consejos de grabación que me hubiera gustado saber hace 20 años",
+    "title": "12 Recording Tips I Wish I'd Known 20 Years Ago",
     "creator": "Joe Gilder • Home Studio Corner",
     "note": "Listen for the small, deliberate choice being demonstrated. Compare at similar loudness and keep an untouched source so experiments stay reversible."
   },

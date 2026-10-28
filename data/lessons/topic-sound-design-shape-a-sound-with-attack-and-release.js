@@ -36,7 +36,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "aitRs893ado",
-    "title": "Cómo funcionan ADSR y los sobres",
+    "title": "How ADSR & Envelopes Work",
     "creator": "Pierce Porterfield",
     "note": "Listening cue: Attack affects how quickly a sound reaches its initial level; release affects how it fades after a note ends. Pause and try that idea in the exercise below before adding anything else."
   },

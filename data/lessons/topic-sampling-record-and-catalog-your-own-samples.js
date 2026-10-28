@@ -36,7 +36,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "dmmboCtsf7c",
-    "title": "10 pasos para editar tus grabaciones de campo",
+    "title": "10 Steps For Editing Your Field Recordings",
     "creator": "Jonas Fasching",
     "note": "Listening cue: A personal sample library avoids uncertain reuse rights and makes sounds easy to find later. Pause and try that idea in the exercise below before adding anything else."
   },

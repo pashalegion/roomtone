@@ -38,7 +38,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "YGEPly9V0TY",
-    "title": "La única rutina de práctica que necesitas para tocar la guitarra con fluidez",
+    "title": "The Only Practice Routine You Need To Sound Fluent On Guitar",
     "creator": "No Theory Club",
     "note": "Compare the focused practice routine with the short-section loop in the exercise, then use the approach that keeps your timing steady."
   },

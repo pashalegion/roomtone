@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "XPGm3V7whkA",
-    "title": "¡Cómo montar tu batería como un profesional! por Mike Packer",
+    "title": "How to Set Up Your Drum Set Like a Pro! by Mike Packer",
     "creator": "Drum Channel",
     "note": "Listening cue: A stable setup supports repeatable movement. Pause and try it in the exercise below before adding anything else."
   },

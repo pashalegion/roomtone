@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "k1gHRFRnjug",
-    "title": "Find Piano Notes Using the Black Keys",
+    "title": "Find Piano Notes Using the Black Keys | Beginner Piano",
     "creator": "Piano Made Clear",
     "note": "Follow the keyboard landmarks, then find the same notes without looking at the video."
   },

@@ -36,7 +36,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "00vt7RAvG70",
-    "title": "Técnicas vocales: Cómo igualar el tono | Canto | Vocales | Voz | Berklee Online",
+    "title": "Voice Techniques: How to Match Pitch | Singing | Vocals | Voice | Berklee Online",
     "creator": "Berklee Online",
     "note": "Listening cue: Pitch matching is a listening-and-feedback skill. Pause and try that idea in the exercise below before adding anything else."
   },

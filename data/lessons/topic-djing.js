@@ -33,7 +33,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "_O-yX9MnGMw",
-    "title": "Phrase Mixing Explained for Beginners",
+    "title": "PHRASE MIXING Explained for Beginners | DJ ESSENTIALS",
     "creator": "DJ ESSENTIALS",
     "note": "Count the musical phrase as well as the beats. A technically aligned blend can still feel awkward if the sections do not meet naturally."
   },

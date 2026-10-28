@@ -36,7 +36,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "b2HBaiTgOxE",
-    "title": "Tu técnica de muteo en el bajo suena fatal (cómo arreglarla)",
+    "title": "Your Bass Muting Technique Sounds Like S**t (How to Fix It)",
     "creator": "BassBuzz",
     "note": "Listening cue: Bass strings can ring sympathetically after a note ends. Pause and try that idea in the exercise below before adding anything else."
   },

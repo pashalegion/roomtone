@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "9vanCNkkdKc",
-    "title": "Cómo escribir una canción: Trucos de escritura sensorial | Composición de canciones | Consejos y ...",
+    "title": "How to Write a Song: Sensory Writing Tricks | Songwriting | Tips & Techniques",
     "creator": "Berklee Online",
     "note": "Listening cue: Sensory details make a scene concrete and allow emotion to be inferred. Pause and try it in the exercise below before adding anything else."
   },

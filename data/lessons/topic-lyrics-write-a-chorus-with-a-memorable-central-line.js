@@ -36,7 +36,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "jd2ZbC5uSKo",
-    "title": "Escribe un estribillo exitoso en 5 minutos o menos",
+    "title": "Write a HIT CHORUS in 5 Minutes or Less",
     "creator": "SongWriters Chop Shop",
     "note": "Listen for the choices that make the phrase clear and memorable. Keep the meaning natural when you try the idea in your own words."
   },

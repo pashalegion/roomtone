@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "bbflXWDC-tg",
-    "title": "How to play Back In Black on Drums",
+    "title": "How to play Back In Black on Drums 🥁",
     "creator": "Jack Young",
     "note": "Listen for how the drum part sits with the song, then try the exercise with a recording at a comfortable volume."
   },

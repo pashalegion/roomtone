@@ -33,7 +33,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "2q2cmwjxink",
-    "title": "Every Technique of Sampling Music You Need to Know",
+    "title": "Every Technique of Sampling Music You NEED to Know (A Complete Guide)",
     "creator": "Will Hatton",
     "note": "For practice, record a sound yourself or use material with clear permission. Online availability alone does not grant reuse rights."
   },

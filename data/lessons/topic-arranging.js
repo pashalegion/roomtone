@@ -33,7 +33,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "iiL3K3ewfuc",
-    "title": "Esta regla de arreglos cambiará tu música",
+    "title": "This Arrangement Rule Will Change Your Music",
     "creator": "Nathan James Larsen",
     "note": "This video is in Spanish. Listen for how subtraction and re-entry create contrast; try the same move with your own loop."
   },

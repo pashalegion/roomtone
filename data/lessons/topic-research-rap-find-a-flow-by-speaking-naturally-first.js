@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "C2W1DhrY9pQ",
-    "title": "ESTE TRUCO DE FLUJO DE RAP FUNCIONA CON CUALQUIER RITMO",
+    "title": "THIS RAP FLOW TIP WORKS FOR ANY BEAT",
     "creator": "THE RAP COACH",
     "note": "Listening cue: Flow joins syllable timing, stress, pitch contour, and the beat. Pause and try it in the exercise below before adding anything else."
   },

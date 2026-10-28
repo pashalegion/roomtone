@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "qrT_xWVUBjE",
-    "title": "Cómo parchar la velocidad en cuatro niveles de complejidad – con el equipo de Teia vcA",
+    "title": "How to patch velocity in four levels of complexity – with Teia vcA Team",
     "creator": "Monotrail Tech Talk",
     "note": "Listening cue: Velocity is performance control data that an instrument may map to loudness, filter, or another parameter. Pause and try it in the exercise below before adding anything else."
   },

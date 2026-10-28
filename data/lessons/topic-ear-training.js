@@ -33,7 +33,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "KXR1NYXk1KA",
-    "title": "Cómo transcribir cualquier ritmo",
+    "title": "How to transcribe any rhythm",
     "creator": "Shedthemusic",
     "note": "This video is in Spanish. Copy the listening order from the lesson: pulse first, subdivision second, then the strongest drum events."
   },

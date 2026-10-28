@@ -38,7 +38,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "jw2tsfKdTRw",
-    "title": "¿Qué es la prosodia en la composición musical?",
+    "title": "What is Prosody in Songwriting? Lyrics, Music Production, Instrumentation, Arranging for Songwriters",
     "creator": "Berklee Online",
     "note": "Listen for how natural speech rhythm supports a melody, then read your own lyric aloud before editing it."
   },

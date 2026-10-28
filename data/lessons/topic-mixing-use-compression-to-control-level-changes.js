@@ -36,7 +36,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "lgCYjek5_JY",
-    "title": "Cómo usar un compresor | Umbral, relación, ataque, liberación y más",
+    "title": "How To Use A Compressor | Threshold, Ratio, Attack, Release & More",
     "creator": "Audio University",
     "note": "Listen for the small, deliberate choice being demonstrated. Compare at similar loudness and keep an untouched source so experiments stay reversible."
   },

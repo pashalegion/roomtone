@@ -36,7 +36,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "ALQn0GMT6cQ",
-    "title": "Cantando vocales claras - ¡LÍNEA SUAVE Y HERMOSA, LEGATO!",
+    "title": "Singing Clear Vowels - SMOOTH & BEAUTIFUL LINE, LEGATO!",
     "creator": "Healthy Vocal Technique",
     "note": "Listening cue: Vowels carry most of a sung tone; consonants clarify the words and usually need less duration. Pause and try that idea in the exercise below before adding anything else."
   },

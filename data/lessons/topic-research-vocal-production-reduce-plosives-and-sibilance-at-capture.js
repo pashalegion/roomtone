@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "JW2hak0uyEw",
-    "title": "El secreto para eliminar las oclusivas y la sibilancia",
+    "title": "The Secret to Eliminating Plosives and Sibilance",
     "creator": "The DIY Recording Studio",
     "note": "Listening cue: Plosives are bursts of air on consonants such as P and B; sibilance is strong high-frequency energy on sounds such as S. Pause and try it in the exercise below before adding anything else."
   },

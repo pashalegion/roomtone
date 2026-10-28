@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "0zoRDukhYAY",
-    "title": "Los filtros de paso alto arruinan la esencia de tu mezcla.",
+    "title": "High Pass Filters Kill Your Mix's Vibe",
     "creator": "The House of Kush",
     "note": "Listening cue: A high-pass filter attenuates frequencies below its cutoff. Pause and try it in the exercise below before adding anything else."
   },

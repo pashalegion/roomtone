@@ -45,7 +45,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "9J90jskhDcA",
-    "title": "Prueba este ejemplo de ritmo de corte en tu próxima melodía (MPC One)",
+    "title": "Try THIS Sample Chop Rhythm On Your Next Melody (MPC One)",
     "creator": "Splice",
     "note": "Listening cue: Slicing at phrase or transient boundaries creates material for rearrangement. Pause and try it in the exercise below before adding anything else."
   },

@@ -36,7 +36,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "xXLEAo4nT_4",
-    "title": "Cómo hacer un rap narrativo: 7 secretos para contar historias en el rap",
+    "title": "How To Do A Storytelling Rap: 7 Secrets For Rap Storytelling",
     "creator": "How To Rap",
     "note": "Notice how the example communicates its idea. Keep natural word stress and meaning when you try the exercise in your own words."
   },

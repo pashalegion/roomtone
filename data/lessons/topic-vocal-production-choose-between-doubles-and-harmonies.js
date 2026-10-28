@@ -36,7 +36,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "fwdp_VOUI2I",
-    "title": "5 tipos de capas vocales que todo músico debería conocer (y cuándo usarlas)",
+    "title": "5 Types of VOCAL LAYERS Every Musician Should Know (and When to Use Them)",
     "creator": "Songs By Spencer",
     "note": "Listen for the small, deliberate choice being demonstrated. Compare at similar loudness and keep an untouched source so experiments stay reversible."
   },

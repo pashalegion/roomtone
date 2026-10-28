@@ -38,7 +38,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "wskicq1GBHw",
-    "title": "Cómo organizar una sesión de grabación",
+    "title": "How to Organize a Recording Session",
     "creator": "Creative Sound Lab",
     "note": "Listening cue: Clear session organization makes creative decisions reversible. Pause and try it in the exercise below before adding anything else."
   },

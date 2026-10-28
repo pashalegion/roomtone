@@ -33,7 +33,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "GX4kEFDCv6Y",
-    "title": "How to Write Lyrics and Melodies That Aren't Embarrassing",
+    "title": "How to Write Lyrics and Melodies That Aren't Embarrassing - Tiny Tuesday Tips with sTuart!",
     "creator": "Marin Music Center",
     "note": "Use the exercise’s concrete image as your anchor. Read every line aloud and revise any word that fights the natural stress."
   },

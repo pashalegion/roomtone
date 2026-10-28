@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "5jTsSvkBv60",
-    "title": "Cómo afinar la guitarra para principiantes",
+    "title": "How to Tune Your Guitar For Beginners",
     "creator": "Marty Music",
     "note": "Watch the tuning process and use the written exercise to tune each string against a reliable reference."
   },

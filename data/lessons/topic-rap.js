@@ -33,7 +33,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "fTsKVA7-Qnk",
-    "title": "Rap Flow Basics: Rapping in the Pocket",
+    "title": "RAP FLOW BASICS : RAPPING IN THE POCKET",
     "creator": "The Rap Coach",
     "note": "Try the line both on and around the beat. A deliberate rest or breath can make a phrase land harder than extra syllables."
   },

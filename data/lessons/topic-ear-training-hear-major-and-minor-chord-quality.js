@@ -36,7 +36,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "40WtL0Ehe9c",
-    "title": "La pieza más importante de la teoría musical: los acordes de una tonalidad",
+    "title": "The Most Important Piece of Music Theory - Chords of a Key",
     "creator": "Marty Music",
     "note": "Listening cue: Major and minor triads share a root and fifth; the third differs by one semitone. Pause and try that idea in the exercise below before adding anything else."
   },

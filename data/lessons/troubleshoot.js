@@ -33,7 +33,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "tQHxqIFnyi8",
-    "title": "Handling Crackle and CPU Problems in Audio Production",
+    "title": "Handling Crackle and CPU Problems in Audio Production. And Simple Definition of Latency.",
     "creator": "Fender Studio Training by DAWJunkie",
     "note": "Trace the signal one stage at a time. Change one setting, test, and keep a note of what changed."
   },

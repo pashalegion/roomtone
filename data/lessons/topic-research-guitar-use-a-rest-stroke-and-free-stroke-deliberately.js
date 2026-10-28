@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "1pGwwlUIY0E",
-    "title": "Tirando libre vs. tirando apoyado | La técnica que separa a los principiantes de los profesionales",
+    "title": "Free Stroke vs Rest Stroke | The Technique Separating Beginners from Professionals",
     "creator": "Jonathan Richter",
     "note": "Listening cue: A rest stroke comes to rest on the adjacent string after sounding a note; a free stroke moves through without landing there. Pause and try it in the exercise below before adding anything else."
   },

@@ -33,7 +33,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "ezmmakm_MDE",
-    "title": "Learn to Sing: Vowel and Consonant Phrasing",
+    "title": "Learn How to Sing Like a Pro - Phrasing Vowels and Consonants",
     "creator": "Jeff Rolka",
     "note": "Work at a comfortable volume and key. Let clear words and a relaxed phrase matter more than copying a singer’s range."
   },

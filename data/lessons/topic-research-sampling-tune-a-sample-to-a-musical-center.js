@@ -45,7 +45,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "HtZ872hzn_8",
-    "title": "Cómo samplear usando la teoría musical | Tutorial de sampling",
+    "title": "How to Sample Using Music Theory | Sampling Tutorial",
     "creator": "VERTX II",
     "note": "Listening cue: A tonal sample may contain a clear pitch, but transient and noisy material can be ambiguous. Pause and try it in the exercise below before adding anything else."
   },

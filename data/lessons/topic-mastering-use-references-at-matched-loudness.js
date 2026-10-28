@@ -36,7 +36,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "QS1TJo_W95Y",
-    "title": "Cómo hacer coincidir el volumen con una pista de referencia",
+    "title": "How to Match Volume with a Reference Track",
     "creator": "Produce in a Minute",
     "note": "Listen for the small, deliberate change being demonstrated. Compare at similar loudness and keep an untouched source so you can undo experiments."
   },

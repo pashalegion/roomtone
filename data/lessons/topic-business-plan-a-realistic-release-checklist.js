@@ -36,7 +36,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "NvVxPMByUYY",
-    "title": "4 consejos para lanzar tu próximo sencillo: la lista de verificación imprescindible que debes seg...",
+    "title": "4 Tips for releasing your next single - the go-to checklist you should follow",
     "creator": "Splice",
     "note": "Listening cue: A release involves more than uploading a file. Pause and try that idea in the exercise below before adding anything else."
   },

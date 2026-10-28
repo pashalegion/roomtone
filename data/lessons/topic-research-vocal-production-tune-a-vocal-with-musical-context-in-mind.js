@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "IP3O9Sx84Pg",
-    "title": "Afinación vocal fácil con RePitch 2",
+    "title": "Vocal Tuning Made EASY with RePitch 2",
     "creator": "Patrick Breen",
     "note": "Listen for the difference between pitch correction and natural phrasing. Use correction sparingly and keep the original take."
   },

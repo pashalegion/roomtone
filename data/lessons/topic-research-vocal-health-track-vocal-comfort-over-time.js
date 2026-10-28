@@ -41,7 +41,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "XloRLMSrRw0",
-    "title": "GUÍA PARA PRINCIPIANTES SOBRE TIEMPO VOCAL! Cómo cantar a tiempo - ¡Simple y fácil!",
+    "title": "BEGINNER'S GUIDE TO VOCAL TIMING! How to Sing With Timing - Simple & Easy!",
     "creator": "Healthy Vocal Technique",
     "note": "This is supplementary education, not medical advice. Keep practice comfortable, stop if symptoms appear, and use the linked NIDCD guidance for health information."
   },

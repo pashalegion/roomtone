@@ -45,7 +45,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "pfHGwzNyFC8",
-    "title": "Using Sends and Busses in REAPER",
+    "title": "This is REAPER 6 - Sends & Busses (8/15)",
     "creator": "DRAM 2620 course",
     "note": "Follow the shared-effect routing example, then sketch the source, return, and master signal path from your own project."
   },

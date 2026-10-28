@@ -36,7 +36,7 @@ window.RT_LESSON_BODY = {
   "resourceLinks": [],
   "media": {
     "video": "vPUn-kn-bcA",
-    "title": "What is Automation and How to Use It",
+    "title": "What is Automation and How to Use It | Music Production For Beginners",
     "creator": "Music Production For Beginners",
     "note": "Automation controls vary by DAW. Focus on the musical purpose of a move, then use the software-specific steps for the exact control."
   },

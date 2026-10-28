@@ -45,7 +45,7 @@ window.RT_LESSON_BODY = {
   ],
   "media": {
     "video": "Zda1WIMLNOI",
-    "title": "Cómo desarrollar un motivo y convertirlo en una pieza completa (Plantilla incluida)",
+    "title": "How to Develop a Motif into a Full Piece! (Template included)",
     "creator": "Tabletop Composer",
     "note": "Listening cue: A sequence repeats a melodic or harmonic pattern at a different pitch. Pause and try it in the exercise below before adding anything else."
   },
