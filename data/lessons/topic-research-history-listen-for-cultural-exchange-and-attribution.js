@@ -44,9 +44,9 @@ window.RT_LESSON_BODY = {
     }
   ],
   "media": {
-    "video": "SVob2hFHYYM",
-    "title": "History of Music: Music Genres (Documentary)",
-    "creator": "The Madoff",
+    "video": "whN5PXsrP6E",
+    "title": "A History of Jazz",
+    "creator": "gfmatv",
     "note": "Listen for influences moving between styles and communities, and use the lesson sources to identify origins and attribution carefully."
   },
   "dawMedia": null,

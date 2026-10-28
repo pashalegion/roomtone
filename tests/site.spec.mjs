@@ -175,6 +175,15 @@ test('software and subject choices keep keyboard focus on the control that repla
   await expect(page.locator('.subject-card[data-id="guitar"]')).toBeFocused();
 });
 
+test('history lesson: the watch video is the jazz-origins video, not the unrelated timelines video', async ({page}) => {
+  await page.goto('lesson.html?id=topic-research-history-listen-for-cultural-exchange-and-attribution');
+  const link = page.locator('a.video-link');
+  await expect(link).toHaveAttribute('href', 'https://www.youtube.com/watch?v=whN5PXsrP6E');
+  await expect(link).toContainText('A History of Jazz');
+  await expect(link).toContainText('Video by gfmatv');
+  await expect(page.locator('body')).not.toContainText('Gangnam');
+});
+
 test('subject lessons have no software chooser', async ({page}) => {
   await page.goto('subjects.html');
   await page.locator('.subject-card[data-id="guitar"]').click();
